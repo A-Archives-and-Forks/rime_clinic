@@ -2,7 +2,7 @@
  # encoding: utf-8
  # 更多内容见 https://github.com/whitewatercn/rime_clinic
 ---
-name: 中文中医难拼写字词
+name: cn_tcm_hard_to_spell
 version: "2025-02-26"
 sort: by_weight
 version: 1.0
