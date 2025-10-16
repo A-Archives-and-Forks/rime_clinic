@@ -1,0 +1,4222 @@
+# 生成工具 https://github.com/B-Beginner/rimetool
+# 生成时间 2025-10-09_09-48-39
+# 类型: 词语级别词典 (jieba分词)
+---
+name: 伤寒论 - 未知_simple_chinese_output_2025-10-09_09-48-39_word
+version: "1.0"
+sort: by_weight
+...
+三两	san liang	152
+二两	er liang	139
+甘草	gan cao	137
+伤寒	shang han	114
+桂枝	gui zhi	105
+一升	yi sheng	104
+汤主	tang zhu	95
+去皮	qu pi	94
+发热	fa re	89
+发汗	fa han	88
+太阳	tai yang	84
+温服	wen fu	81
+生姜	sheng jiang	78
+三服	san fu	67
+小便	xiao bian	66
+芍药	shao yao	66
+少阴	shao yin	65
+大枣	da zao	64
+用前	yong qian	64
+不可	bu ke	63
+附子	fu zi	63
+恶寒	e han	62
+一两	yi liang	61
+麻黄	ma huang	57
+取三升	qu san sheng	56
+大便	da bian	52
+桂枝汤	gui zhi tang	52
+人参	ren shen	52
+此为	ci wei	50
+名曰	ming yue	48
+四两	si liang	48
+不能	bu neng	47
+承气汤	cheng qi tang	47
+柴胡	chai hu	47
+主之	zhu zhi	45
+十二枚	shi er mei	43
+干姜	gan jiang	41
+阳明病	yang ming bing	40
+一斗	yi dou	39
+以水	yi shui	39
+手足	shou zu	38
+阳明	yang ming	38
+半夏	ban xia	38
+一枚	yi mei	37
+黄芩	huang qin	37
+不解	bu jie	36
+不利	bu li	35
+阴阳	yin yang	34
+四味	si wei	34
+谵语	zhan yu	34
+分温	fen wen	34
+下利	xia li	33
+煮取	zhu qu	32
+栀子	zhi zi	32
+病人	bing ren	31
+三味	san wei	31
+茯苓	fu ling	31
+先煮	xian zhu	30
+不得	bu de	29
+取二升	qu er sheng	29
+大黄	da huang	29
+五味	wu wei	28
+半升	ban sheng	28
+汗出	han chu	27
+阳脉	yang mai	25
+阳气	yang qi	25
+脉浮	mai fu	25
+再服	zai fu	25
+其人	qi ren	24
+六七日	liu qi ri	23
+七味	qi wei	23
+以水三升	yi shui san sheng	23
+出者	chu zhe	22
+饮水	yin shui	22
+不止	bu zhi	22
+以水七升	yi shui qi sheng	22
+八片	ba pian	22
+其脉	qi mai	21
+心下	xin xia	21
+少阳	shao yang	21
+半斤	ban jin	21
+第二	di er	21
+寸口	cun kou	20
+相搏	xiang bo	20
+腹中	fu zhong	20
+诸药	zhu yao	20
+杏仁	xing ren	20
+十八	shi ba	20
+白术	bai zhu	20
+四逆汤	si ni tang	20
+两半	liang ban	20
+黄连	huang lian	20
+中风	zhong feng	19
+六两	liu liang	19
+何以	he yi	18
+故知	gu zhi	18
+病者	bing zhe	18
+所以然	suo yi ran	18
+头痛	tou tong	18
+六铢	liu zhu	18
+石膏	shi gao	18
+二味	er wei	18
+烦躁	fan zao	17
+泻心汤	xie xin tang	17
+一作	yi zuo	16
+心中	xin zhong	16
+太阴	tai yin	16
+一服	yi fu	16
+葛根	ge gen	16
+本云	ben yun	16
+皮尖	pi jian	16
+二升	er sheng	16
+小柴胡	xiao chai hu	16
+不足	bu zu	15
+假令	jia ling	15
+脉微	mai wei	15
+若下	ruo xia	15
+自愈	zi yu	15
+胃中	wei zhong	15
+腹满	fu man	15
+方一	fang yi	15
+恶风	e feng	15
+麻黄汤	ma huang tang	15
+汤方	tang fang	15
+二合	er he	15
+取六升	qu liu sheng	15
+宜大	yi da	15
+紧者	jin zhe	14
+去节	qu jie	14
+津液	jin ye	13
+潮热	chao re	13
+痛者	tong zhe	13
+二三日	er san ri	13
+五六日	wu liu ri	13
+渴者	ke zhe	13
+十六	shi liu	13
+自汗	zi han	13
+减二升	jian er sheng	13
+一斤	yi jin	13
+便利	bian li	13
+以水四升	yi shui si sheng	13
+心下痞	xin xia pi	13
+身体	shen ti	12
+三日	san ri	12
+表里	biao li	12
+中指	zhong zhi	12
+上沫	shang mo	12
+无汗	wu han	12
+厚朴	hou po	12
+绵裹	mian guo	12
+疼痛	teng tong	12
+再煎	zai jian	12
+七合	qi he	12
+方寸	fang cun	12
+枳实	zhi shi	12
+自利	zi li	12
+弱者	ruo zhe	11
+卫气	wei qi	11
+重者	zhong zhe	11
+不下	bu xia	11
+厥阴	jue yin	11
+浮者	fu zhe	11
+四五日	si wu ri	11
+十四	shi si	11
+脓血	nong xue	11
+白虎	bai hu	11
+心烦	xin fan	11
+强人	qiang ren	11
+一升半	yi sheng ban	11
+胸中	xiong zhong	11
+牡蛎	mu li	11
+结胸	jie xiong	11
+而复	er fu	10
+阴脉	yin mai	10
+阴气	yin qi	10
+一云	yi yun	10
+出而解	chu er jie	10
+若脉	ruo mai	10
+胃气	wei qi	10
+发黄	fa huang	10
+七八日	qi ba ri	10
+以水六升	yi shui liu sheng	10
+五苓散	wu ling san	10
+猪苓	zhu ling	10
+止后	zhi hou	10
+何谓	he wei	9
+病有	bing you	9
+寒热	han re	9
+浮为	fu wei	9
+脉迟	mai chi	9
+四肢	si zhi	9
+为难	wei nan	9
+尺寸	chi cun	9
+十二	shi er	9
+之后	zhi hou	9
+受病	shou bing	9
+须臾	xu yu	9
+病脉证	bing mai zheng	9
+干呕	gan ou	9
+将息	jiang xi	9
+一方	yi fang	9
+粳米	jing mi	9
+调胃	diao wei	9
+第五	di wu	9
+鸡子	ji zi	9
+复发	fu fa	9
+变为	bian wei	8
+荣气	rong qi	8
+微者	wei zhe	8
+浮大	fu da	8
+欲解	yu jie	8
+其汗	qi han	8
+得病	de bing	8
+短气	duan qi	8
+面色	mian se	8
+二月	er yue	8
+十一	shi yi	8
+二十四	er shi si	8
+胸胁	xiong xie	8
+一日	yi ri	8
+大汗	da han	8
+更服	geng fu	8
+六味	liu wei	8
+四枚	si mei	8
+以水五升	yi shui wu sheng	8
+六合	liu he	8
+十五	shi wu	8
+内芒	nei mang	8
+生用	sheng yong	8
+呕者	ou zhe	8
+多者	duo zhe	8
+第十二	di shi er	8
+泽泻	ze xie	8
+五两	wu liang	8
+龙骨	long gu	8
+但头	dan tou	8
+食者	shi zhe	8
+吴茱萸	wu zhu yu	8
+三分	san fen	7
+三焦	san jiao	7
+解者	jie zhe	7
+夜半	ye ban	7
+脉数	mai shu	7
+明日	ming ri	7
+其病	qi bing	7
+荣卫	rong wei	7
+大下	da xia	7
+故使	gu shi	7
+不通	bu tong	7
+干燥	gan zao	7
+舌上	she shang	7
+吐利	tu li	7
+迟者	chi zhe	7
+当须	dang xu	7
+咳者	ke zhe	7
+微烦	wei fan	7
+寒者	han zhe	7
+六日	liu ri	7
+下之则	xia zhi ze	7
+方二	fang er	7
+方三	fang san	7
+微似	wei shi	7
+之一	zhi yi	7
+十七	shi qi	7
+一分	yi fen	7
+二十	er shi	7
+知母	zhi mu	7
+汤成	tang cheng	7
+三枚	san mei	7
+以水八升	yi shui ba sheng	7
+细辛	xi xin	7
+栝楼	gua lou	7
+和服	he fu	7
+十四个	shi si ge	7
+前方	qian fang	7
+利者	li zhe	7
+以下	yi xia	7
+阿胶	e jiao	7
+霍乱	huo luan	7
+此名	ci ming	6
+血虚	xue xu	6
+沉者	chen zhe	6
+名为	ming wei	6
+浮而紧	fu er jin	6
+此以	ci yi	6
+然汗	ran han	6
+若汗	ruo han	6
+知之	zhi zhi	6
+脾气	pi qi	6
+数者	shu zhe	6
+浮则	fu ze	6
+其身	qi shen	6
+直视	zhi shi	6
+下同	xia tong	6
+饮食	yin shi	6
+法当	fa dang	6
+七日	qi ri	6
+温者	wen zhe	6
+未解	wei jie	6
+浮滑	fu hua	6
+发作	fa zuo	6
+以其脉	yi qi mai	6
+寸脉	cun mai	6
+缓者	huan zhe	6
+浮紧	fu jin	6
+节指	jie zhi	6
+吐下	tu xia	6
+三十	san shi	6
+之为	zhi wei	6
+解时	jie shi	6
+微火	wei huo	6
+覆取	fu qu	6
+八九日	ba jiu ri	6
+五枚	wu mei	6
+十三	shi san	6
+五合	wu he	6
+合病	he bing	6
+八味	ba wei	6
+水气	shui qi	6
+外证	wai zheng	6
+少少	shao shao	6
+微热	wei re	6
+香豉	xiang shi	6
+温进	wen jin	6
+分二服	fen er fu	6
+往来	wang lai	6
+有时	you shi	6
+大陷	da xian	6
+白饮	bai yin	6
+桔梗	jie geng	6
+五日	wu ri	6
+下利者	xia li zhe	6
+瓜蒂	gua di	6
+更衣	geng yi	6
+利清谷	li qing gu	6
+胆汁	dan zhi	6
+当归	dang gui	6
+伤寒论	shang han lun	5
+之气	zhi qi	5
+汤药	tang yao	5
+三部	san bu	5
+脉沉	mai chen	5
+尺脉	chi mai	5
+关上	guan shang	5
+妇人	fu ren	5
+浮数	fu shu	5
+洪大	hong da	5
+当下	dang xia	5
+气虚	qi xu	5
+骨节	gu jie	5
+数则	shu ze	5
+此非	ci fei	5
+医反下	yi fan xia	5
+上焦	shang jiao	5
+下焦	xia jiao	5
+自下	zi xia	5
+不同	bu tong	5
+之病	zhi bing	5
+微弱	wei ruo	5
+脉弱	mai ruo	5
+消谷	xiao gu	5
+难治	nan zhi	5
+故令	gu ling	5
+正月	zheng yue	5
+大寒	da han	5
+冬时	dong shi	5
+温病	wen bing	5
+此属	ci shu	5
+病衰	bing shuai	5
+半日	ban ri	5
+病欲	bing yu	5
+不了	bu liao	5
+反汗	fan han	5
+如前	ru qian	5
+方十	fang shi	5
+即得	ji de	5
+越婢	yue bi	5
+姜汤	jiang tang	5
+清酒	qing jiu	5
+表未解	biao wei jie	5
+方四	fang si	5
+反下	fan xia	5
+十九	shi jiu	5
+二十三	er shi san	5
+二十五	er shi wu	5
+渴欲	ke yu	5
+内豉	nei shi	5
+得吐者	de tu zhe	5
+身热	shen re	5
+胁下	xie xia	5
+烦者	fan zhe	5
+十余日	shi yu ri	5
+芒消	mang xiao	5
+可攻	ke gong	5
+酒洗	jiu xi	5
+热入	re ru	5
+四日	si ri	5
+一味	yi wei	5
+沸汤	fei tang	5
+赤石脂	chi shi zhi	5
+取五升	qu wu sheng	5
+腹痛	fu tong	5
+自止	zi zhi	5
+复利	fu li	5
+急下	ji xia	5
+温分	wen fen	5
+荣势	rong shi	4
+邪风	xie feng	4
+以有	yi you	4
+不及	bu ji	4
+五十	wu shi	4
+未知	wei zhi	4
+不见	bu jian	4
+浮而数	fu er shu	4
+上下	shang xia	4
+不汗	bu han	4
+尺中	chi zhong	4
+不须	bu xu	4
+其时	qi shi	4
+四时	si shi	4
+日中	ri zhong	4
+数为	shu wei	4
+今脉	jin mai	4
+邪气	xie qi	4
+十一月	shi yi yue	4
+不知	bu zhi	4
+客气	ke qi	4
+以上	yi shang	4
+不欲食	bu yu shi	4
+其人躁	qi ren zao	4
+相乘	xiang cheng	4
+肾气	shen qi	4
+可治	ke zhi	4
+故令脉	gu ling mai	4
+身有	shen you	4
+宗气	zong qi	4
+雨水	yu shui	4
+三月	san yue	4
+九月	jiu yue	4
+为病	wei bing	4
+发于	fa yu	4
+一二日	yi er ri	4
+耳聋	er long	4
+二日	er ri	4
+九日	jiu ri	4
+十日	shi ri	4
+少腹	shao fu	4
+十三日	shi san ri	4
+病证	bing zheng	4
+以此	yi ci	4
+便当	bian dang	4
+当先	dang xian	4
+可下	ke xia	4
+已解	yi jie	4
+俱虚	ju xu	4
+下者	xia zhe	4
+表解	biao jie	4
+啜热	chuai re	4
+稀粥	xi zhou	4
+药力	yao li	4
+今加	jin jia	4
+今去	jin qu	4
+方九	fang jiu	4
+一二	yi er	4
+三合	san he	4
+顿服	dun fu	4
+七十个	qi shi ge	4
+收之得	shou zhi de	4
+合为	he wei	4
+其表	qi biao	4
+咽中	yan zhong	4
+消半升	xiao ban sheng	4
+当温	dang wen	4
+亡阳	wang yang	4
+拘急	ju ji	4
+合病法	he bing fa	4
+白沫	bai mo	4
+以水九升	yi shui jiu sheng	4
+五味子	wu wei zi	4
+微喘	wei chuan	4
+不渴	bu ke	4
+汗解	han jie	4
+二十一	er shi yi	4
+热者	re zhe	4
+二十二	er shi er	4
+下悸	xia ji	4
+气上	qi shang	4
+头眩	tou xuan	4
+虚故	xu gu	4
+半两	ban liang	4
+四合	si he	4
+三十九	san shi jiu	4
+不安	bu an	4
+丸药	wan yao	4
+禹余粮	yu yu liang	4
+过经	guo jing	4
+加大	jia da	4
+热结	re jie	4
+桃仁	tao ren	4
+二十个	er shi ge	4
+少者	shao zhe	4
+藏结	cang jie	4
+时时	shi shi	4
+温顿服	wen dun fu	4
+身必	shen bi	4
+硬满	ying man	4
+其热	qi re	4
+当刺	dang ci	4
+血室	xue shi	4
+下利后	xia li hou	4
+赤小豆	chi xiao dou	4
+通脉	tong mai	4
+利止	li zhi	4
+大者	da zhe	4
+三阳	san yang	4
+而利	er li	4
+相得	xiang de	4
+苦酒	ku jiu	4
+足前	zu qian	4
+欲绝	yu jue	4
+宋版	song ban	3
+方术	fang shu	3
+其本	qi ben	3
+至于	zhi yu	3
+出版	chu ban	3
+可以	ke yi	3
+若能	ruo neng	3
+而已	er yi	3
+能食	neng shi	3
+此为实	ci wei shi	3
+沉而迟	chen er chi	3
+上入	shang ru	3
+不行	bu xing	3
+其血	qi xue	3
+时一止	shi yi zhi	3
+来者	lai zhe	3
+当愈	dang yu	3
+仿此	fang ci	3
+沉为	chen wei	3
+浮而涩	fu er se	3
+风则	feng ze	3
+烦疼	fan teng	3
+其数	qi shu	3
+前后	qian hou	3
+五月	wu yue	3
+烦热	fan re	3
+尚未	shang wei	3
+不休	bu xiu	3
+水浆	shui jiang	3
+前绝	qian jue	3
+寒气	han qi	3
+冷水	leng shui	3
+当汗	dang han	3
+清邪	qing xie	3
+中于	zhong yu	3
+浊邪	zhuo xie	3
+腰痛	yao tong	3
+中焦	zhong jiao	3
+出入	chu ru	3
+清便	qing bian	3
+腹内	fu nei	3
+大烦	da fan	3
+消息	xiao xi	3
+师到	shi dao	3
+脉当	mai dang	3
+处言	chu yan	3
+伏气	fu qi	3
+中痛	zhong tong	3
+相应	xiang ying	3
+服药	fu yao	3
+其形	qi xing	3
+何似	he shi	3
+自得	zi de	3
+正阳	zheng yang	3
+自可	zi ke	3
+滑者	hua zhe	3
+五藏六府	wu zang liu fu	3
+骨髓	gu sui	3
+刚柔	gang rou	3
+大为	da wei	3
+不归者	bu gui zhe	3
+多汗	duo han	3
+以胃	yi wei	3
+春分	chun fen	3
+四月	si yue	3
+六月	liu yue	3
+七月	qi yue	3
+霜降	shuang jiang	3
+十月	shi yue	3
+十二月	shi er yue	3
+正气	zheng qi	3
+节后	jie hou	3
+所以	suo yi	3
+以后	yi hou	3
+冬温	dong wen	3
+复有	fu you	3
+寒所折	han suo zhe	3
+一时	yi shi	3
+二分	er fen	3
+两感于	liang gan yu	3
+俱病	ju bing	3
+如故	ru gu	3
+不愈者	bu yu zhe	3
+风寒	feng han	3
+不消	bu xiao	3
+解表	jie biao	3
+仁者	ren zhe	3
+其里	qi li	3
+其间	qi jian	3
+大渴	da ke	3
+一至	yi zhi	3
+逆冷	ni leng	3
+强痛	qiang tong	3
+身重	shen zhong	3
+语言	yu yan	3
+以助	yi zhu	3
+停后	ting hou	3
+二三	er san	3
+第一	di yi	3
+余如	yu ru	3
+汤证	tang zheng	3
+杏子	xing zi	3
+其后	qi hou	3
+必吐	bi tu	3
+方八	fang ba	3
+疟状	nve zhuang	3
+热多	re duo	3
+今以	jin yi	3
+算法	suan fa	3
+二汤	er tang	3
+合方	he fang	3
+初服	chu fu	3
+十六个	shi liu ge	3
+二铢	er zhu	3
+其阳	qi yang	3
+更作	geng zuo	3
+上火	shang huo	3
+法治	fa zhi	3
+喘者	chuan zhe	3
+方五	fang wu	3
+八合	ba he	3
+卧者	wo zhe	3
+大青龙汤	da qing long tang	3
+四十	si shi	3
+证者	zheng zhe	3
+小青龙汤	xiao qing long tang	3
+若渴	ruo ke	3
+微利	wei li	3
+满者	man zhe	3
+千金	qian jin	3
+咳而	ke er	3
+服汤	fu tang	3
+当以	dang yi	3
+不愈	bu yu	3
+在外	zai wai	3
+解外	jie wai	3
+发其汗	fa qi han	3
+不彻	bu che	3
+因转	yin zhuan	3
+浮数者	fu shu zhe	3
+微细	wei xi	3
+不呕	bu ou	3
+无大热者	wu da re zhe	3
+二十六	er shi liu	3
+五十个	wu shi ge	3
+心下悸	xin xia ji	3
+二十七	er shi qi	3
+奔豚	ben tun	3
+二十八	er shi ba	3
+腹胀满	fu zhang man	3
+二十九	er shi jiu	3
+沉紧	chen jin	3
+三十一	san shi yi	3
+三十二	san shi er	3
+三十三	san shi san	3
+三十四	san shi si	3
+暖水	nuan shui	3
+三十五	san shi wu	3
+三十六	san shi liu	3
+三十七	san shi qi	3
+此必	ci bi	3
+入口	ru kou	3
+虚烦	xu fan	3
+气者	qi zhe	3
+三十八	san shi ba	3
+二服	er fu	3
+便血	bian xie	3
+四十四	si shi si	3
+复下	fu xia	3
+第三十三	di san shi san	3
+嘿嘿	hei hei	3
+下痞	xia pi	3
+必下	bi xia	3
+颈项	jing xiang	3
+小建	xiao jian	3
+更上	geng shang	3
+所发	suo fa	3
+此本	ci ben	3
+膀胱	pang guang	3
+一身	yi shen	3
+刺期	ci qi	3
+火气	huo qi	3
+躁烦	zao fan	3
+必发	bi fa	3
+谷气	gu qi	3
+以热	yi re	3
+抵当	di dang	3
+水蛭	shui zhi	3
+一丸	yi wan	3
+一钱	yi qian	3
+一宿	yi xiu	3
+硬者	ying zhe	3
+微汗	wei han	3
+必结	bi jie	3
+未止	wei zhi	3
+不结	bu jie	3
+文蛤	wen ge	3
+三物	san wu	3
+更于	geng yu	3
+并病	bing bing	3
+经水	jing shui	3
+右九味	you jiu wei	3
+呕而	ou er	3
+各别	ge bie	3
+取汁	qu zhi	3
+攻痞	gong pi	3
+第四方	di si fang	3
+合治	he zhi	3
+一合	yi he	3
+诸亡	zhu wang	3
+口燥	kou zao	3
+二枚	er mei	3
+寒外	han wai	3
+去心	qu xin	3
+并治	bing zhi	3
+口苦	kou ku	3
+脉紧	mai jin	3
+此有燥	ci you zao	3
+初头	chu tou	3
+后必	hou bi	3
+必硬	bi ying	3
+上方	shang fang	3
+第十九	di shi jiu	3
+茵陈蒿	yin chen hao	3
+有燥	you zao	3
+太过	tai guo	3
+黄柏	huang bai	3
+八两	ba liang	3
+咽痛	yan tong	3
+方六	fang liu	3
+白通	bai tong	3
+五分	wu fen	3
+蛔厥	hui jue	3
+乌梅	wu mei	3
+四逆加	si ni jia	3
+白头翁	bai tou weng	3
+去术	qu shu	3
+成四	cheng si	3
+大病	da bing	3
+差后	cha hou	3
+每览越	mei lan yue	2
+人入	ren ru	2
+之诊	zhi zhen	2
+望齐	wang qi	2
+侯之色	hou zhi se	2
+未尝	wei chang	2
+慨然	kai ran	2
+当今	dang jin	2
+居世之士	ju shi zhi shi	2
+留神	liu shen	2
+医药	yi yao	2
+精究	jing jiu	2
+以疗	yi liao	2
+君亲	jun qin	2
+下以	xia yi	2
+贫贱	pin jian	2
+中以	zhong yi	2
+身长	shen chang	2
+以养	yi yang	2
+其生	qi sheng	2
+竞逐	jing zhu	2
+企踵	qi zhong	2
+权豪	quan hao	2
+孜孜汲汲	zi zi ji ji	2
+名利	ming li	2
+是务	shi wu	2
+崇饰	chong shi	2
+其末	qi mo	2
+忽弃	hu qi	2
+华其外	hua qi wai	2
+而悴	er cui	2
+其内	qi nei	2
+皮之不存	pi zhi bu cun	2
+毛将安附	mao jiang an fu	2
+然遭	ran zao	2
+非常	fei chang	2
+之疾	zhi ji	2
+患及	huan ji	2
+而方震	er fang zhen	2
+降志	jiang zhi	2
+屈节	qu jie	2
+钦望	qin wang	2
+巫祝	wu zhu	2
+告穷	gao qiong	2
+归天	gui tian	2
+束手	shu shou	2
+受败	shou bai	2
+百年	bai nian	2
+寿命	shou ming	2
+持至贵	chi zhi gui	2
+重器	zhong qi	2
+委付	wei fu	2
+凡医	fan yi	2
+恣其	zi qi	2
+所措	suo cuo	2
+咄嗟	duo jie	2
+呜呼	wu hu	2
+身以	shen yi	2
+神明	shen ming	2
+消灭	xiao mie	2
+异物	yi wu	2
+幽潜	you qian	2
+重泉	zhong quan	2
+徒为	tu wei	2
+啼泣	ti qi	2
+痛夫	tong fu	2
+举世	ju shi	2
+昏迷	hun mi	2
+莫能	mo neng	2
+觉悟	jue wu	2
+不惜	bu xi	2
+其命	qi ming	2
+轻生	qing sheng	2
+彼何	bi he	2
+之云哉	zhi yun zai	2
+而进	er jin	2
+爱人	ai ren	2
+痛身	tong shen	2
+遇灾值	yu zai zhi	2
+身居	shen ju	2
+厄地	e di	2
+蒙昧	meng mei	2
+蠢若	chun ruo	2
+游魂	you hun	2
+哀乎	ai hu	2
+趋世之士	qu shi zhi shi	2
+浮华	fu hua	2
+不固	bu gu	2
+根本	gen ben	2
+忘驱	wang qu	2
+徇物	xun wu	2
+危若	wei ruo	2
+冰谷	bing gu	2
+重庆	chong qing	2
+人民出版社	ren min chu ban she	2
+重庆市	chong qing shi	2
+医学会	yi xue hui	2
+新辑	xin ji	2
+原文	yuan wen	2
+条文	tiao wen	2
+以来	yi lai	2
+大论	da lun	2
+经络	jing luo	2
+变化	bian hua	2
+黄帝	huang di	2
+阳结	yang jie	2
+当剧	dang ju	2
+反硬	fan ying	2
+阴结	yin jie	2
+一作微	yi zuo wei	2
+累累	lei lei	2
+肥者	fei zhe	2
+脉来	mai lai	2
+同等	tong deng	2
+转索	zhuan suo	2
+大则	da ze	2
+男子	nan zi	2
+因得	yin de	2
+其人本	qi ren ben	2
+以脉	yi mai	2
+不战	bu zhan	2
+若亡	ruo wang	2
+以内	yi nei	2
+身凉	shen liang	2
+未愈	wei yu	2
+大小	da xiao	2
+此脉	ci mai	2
+身不疼	shen bu teng	2
+凡病	fan bing	2
+何时	he shi	2
+愈者	yu zhe	2
+迟为	chi wei	2
+经者	jing zhe	2
+浮大者	fu da zhe	2
+如经	ru jing	2
+紧则	jin ze	2
+寒则	han ze	2
+内陷	nei xian	2
+先微	xian wei	2
+脉动	mai dong	2
+独留	du liu	2
+数脉	shu mai	2
+如法	ru fa	2
+不时	bu shi	2
+病当	bing dang	2
+阳微	yang wei	2
+阴弱	yin ruo	2
+迟涩	chi se	2
+亡血	wang xue	2
+不令	bu ling	2
+形体	xing ti	2
+何藏	he cang	2
+摇头	yao tou	2
+竭者	jie zhe	2
+身色	shen se	2
+无血	wu xue	2
+肠鸣	chang ming	2
+浮虚	fu xu	2
+诸脉	zhu mai	2
+痛处	tong chu	2
+差迟	cha chi	2
+中上	zhong shang	2
+中下	zhong xia	2
+表气	biao qi	2
+微虚	wei xu	2
+里气	li qi	2
+微急	wei ji	2
+内外	nei wai	2
+不转	bu zhuan	2
+血凝	xue ning	2
+前通者	qian tong zhe	2
+藏府	zang fu	2
+热气	re qi	2
+下重	xia zhong	2
+口中	kou zhong	2
+唇口	chun kou	2
+八日	ba ri	2
+必欲	bi yu	2
+俱紧	ju jin	2
+为欲解	wei yu jie	2
+人大	ren da	2
+黄者	huang zhe	2
+风虚	feng xu	2
+浮为阳	fu wei yang	2
+数疾	shu ji	2
+之脉	zhi mai	2
+不治	bu zhi	2
+血气	xue qi	2
+呼吸	hu xi	2
+动作	dong zuo	2
+经常	jing chang	2
+虚实	xu shi	2
+动则	dong ze	2
+亦然	yi ran	2
+初持	chu chi	2
+此出	ci chu	2
+内虚	nei xu	2
+家人	jia ren	2
+知其差	zhi qi cha	2
+设令脉	she ling mai	2
+心痛	xin tong	2
+之内	zhi nei	2
+其面	qi mian	2
+何类	he lei	2
+自涩	zi se	2
+水行	shui xing	2
+乘火	cheng huo	2
+金行	jin xing	2
+乘木	cheng mu	2
+火行	huo xing	2
+乘水	cheng shui	2
+木行	mu xing	2
+乘金	cheng jin	2
+残贼	can zei	2
+作病	zuo bing	2
+灾怪	zai guai	2
+何缘	he yuan	2
+故为	gu wei	2
+肝脉	gan mai	2
+而长	er zhang	2
+南方	nan fang	2
+心脉	xin mai	2
+故名	gu ming	2
+病在表	bing zai biao	2
+关格	guan ge	2
+西方	xi fang	2
+肺脉	fei mai	2
+反得	fan de	2
+至秋死	zhi qiu si	2
+至关	zhi guan	2
+不病	bu bing	2
+不识	bu shi	2
+人者	ren zhe	2
+气盛	qi sheng	2
+高者	gao zhe	2
+气动	qi dong	2
+但欲眠	dan yu mian	2
+急痛	ji tong	2
+肌肉	ji rou	2
+胃气实	wei qi shi	2
+水谷	shui gu	2
+荣为	rong wei	2
+卫为	wei wei	2
+有余	you yu	2
+紧为	jin wei	2
+微而涩	wei er se	2
+涩者	se zhe	2
+引食	yin shi	2
+寒栗	han li	2
+涎沫	xian mo	2
+实则	shi ze	2
+水入	shui ru	2
+不仁	bu ren	2
+夏至	xia zhi	2
+秋分	qiu fen	2
+八月	ba yue	2
+冬至	dong zhi	2
+此则	ci ze	2
+君子	jun zi	2
+触冒	chu mao	2
+暑病	shu bing	2
+温热	wen re	2
+所致	suo zhi	2
+春时	chun shi	2
+其气	qi qi	2
+之中	zhi zhong	2
+相似	xiang si	2
+时行	shi xing	2
+谓之	wei zhi	2
+冰雪	bing xue	2
+以前	yi qian	2
+尚微	shang wei	2
+先后	xian hou	2
+一气	yi qi	2
+至者	zhi zhe	2
+天地	tian di	2
+冬伤	dong shang	2
+证候	zheng hou	2
+风府	feng fu	2
+长者	zhang zhe	2
+鼻干	bi gan	2
+三四日	san si ri	2
+此三经	ci san jing	2
+于府	yu fu	2
+沉细者	chen xi zhe	2
+故烦	gu fan	2
+满身	man shen	2
+而厥	er jue	2
+腹减	fu jian	2
+十二日	shi er ri	2
+俱盛	ju sheng	2
+风温	feng wen	2
+实大者	shi da zhe	2
+更遇	geng yu	2
+温毒	wen du	2
+时气	shi qi	2
+腠理	cou li	2
+数日	shu ri	2
+之要	zhi yao	2
+必难	bi nan	2
+若表	ruo biao	2
+病不除	bing bu chu	2
+大实	da shi	2
+阴虚	yin xu	2
+神丹	shen dan	2
+以亡	yi wang	2
+其祸	qi huo	2
+病重	bing zhong	2
+一夜	yi ye	2
+乃解	nai jie	2
+不当	bu dang	2
+可刺	ke ci	2
+五十九	wu shi jiu	2
+平人	ping ren	2
+身微	shen wei	2
+不过	bu guo	2
+合一	he yi	2
+头项	tou xiang	2
+呕逆	ou ni	2
+不传	bu chuan	2
+火者	huo zhe	2
+无热	wu re	2
+衣者	yi zhe	2
+皮肤	pi fu	2
+寒在	han zai	2
+自出	zi chu	2
+不必	bu bi	2
+乃服	nai fu	2
+生冷	sheng leng	2
+项背	xiang bei	2
+几几	ji ji	2
+禁忌	jin ji	2
+此云	ci yun	2
+但加	dan jia	2
+冲者	chong zhe	2
+方用	fang yong	2
+前法	qian fa	2
+温针	wen zhen	2
+坏病	huai bing	2
+不中	bu zhong	2
+知犯	zhi fan	2
+何逆	he ni	2
+酒客	jiu ke	2
+不喜	bu xi	2
+吐者	tu zhe	2
+难以	nan yi	2
+屈伸	qu shen	2
+方七	fang qi	2
+脉促	mai cu	2
+胸满者	xiong man zhe	2
+寒少	han shao	2
+未欲解	wei yu jie	2
+各半	ge ban	2
+如上法	ru shang fa	2
+三分之一	san fen zhi yi	2
+一汤	yi tang	2
+分再服	fen zai fu	2
+九分	jiu fen	2
+之二	zhi er	2
+十五个	shi wu ge	2
+所取	suo qu	2
+相合	xiang he	2
+即共得	ji gong de	2
+四分之一	si fen zhi yi	2
+八分	ba fen	2
+外台秘要	wai tai mi yao	2
+去桂加	qu gui jia	2
+若厥	ruo jue	2
+若重	ruo zhong	2
+复加	fu jia	2
+虚则	xu ze	2
+六十六	liu shi liu	2
+十九首	shi jiu shou	2
+利遂	li sui	2
+身疼	shen teng	2
+十枚	shi mei	2
+汗者	han zhe	2
+或渴	huo ke	2
+少腹满	shao fu man	2
+疑非仲景意	yi fei zhong jing yi	2
+治水	zhi shui	2
+第十	di shi	2
+下之为	xia zhi wei	2
+表证	biao zheng	2
+身无汗	shen wu han	2
+二阳	er yang	2
+先出	xian chu	2
+罢者	ba zhe	2
+如此	ru ci	2
+以汗	yi han	2
+出不彻	chu bu che	2
+出愈	chu yu	2
+宜以	yi yi	2
+因致	yin zhi	2
+自和者	zi he zhe	2
+昼日	zhou ri	2
+更行	geng xing	2
+自冒心	zi mao xin	2
+振振	zhen zhen	2
+疑非仲景方	yi fei zhong jing fang	2
+日二服	ri er fu	2
+消渴	xiao ke	2
+捣为	dao wei	2
+以白	yi bai	2
+第三十四	di san shi si	2
+而烦	er fan	2
+若剧者	ruo ju zhe	2
+用上	yong shang	2
+初方	chu fang	2
+下后	xia hou	2
+卧起	wo qi	2
+四十一	si shi yi	2
+医以	yi yi	2
+微烦者	wei fan zhe	2
+四十二	si shi er	2
+真武汤	zhen wu tang	2
+四十三	si shi san	2
+咽喉	yan hou	2
+有寒	you han	2
+治不为	zhi bu wei	2
+先下	xian xia	2
+医下	yi xia	2
+续得	xu de	2
+急当	ji dang	2
+实者	shi zhe	2
+不欲	bu yu	2
+若心	ruo xin	2
+脏腑	zang fu	2
+相连	xiang lian	2
+难者	nan zhe	2
+差者	cha zhe	2
+呕家	ou jia	2
+蒸蒸	zheng zheng	2
+而振	er zhen	2
+郁郁	yu yu	2
+若不加	ruo bu jia	2
+满而	man er	2
+得利	de li	2
+反利者	fan li zhe	2
+知医以	zhi yi yi	2
+汤下	tang xia	2
+微厥	wei jue	2
+内实	nei shi	2
+先食	xian shi	2
+转侧	zhuan ce	2
+六枚	liu mei	2
+取四升	qu si sheng	2
+此肝	ci gan	2
+入胃	ru wei	2
+口干	kou gan	2
+加蜀漆	jia shu qi	2
+去腥	qu xing	2
+必重	bi zhong	2
+而解	er jie	2
+出解	chu jie	2
+烧针	shao zhen	2
+赤者	chi zhe	2
+加温	jia wen	2
+脉细数	mai xi shu	2
+吐之者	tu zhi zhe	2
+今反	jin fan	2
+中虚冷	zhong xu leng	2
+温温	wen wen	2
+腹微满	fu wei man	2
+不尔者	bu er zhe	2
+发狂	fa kuang	2
+下血	xia xue	2
+三十个	san shi ge	2
+身黄	shen huang	2
+宜抵	yi di	2
+关脉	guan mai	2
+如结	ru jie	2
+胸状	xiong zhuang	2
+成结	cheng jie	2
+胸者	xiong zhe	2
+葶苈子	ting li zi	2
+盗汗	dao han	2
+空虚	kong xu	2
+动膈	dong ge	2
+因硬	yin ying	2
+胸汤	xiong tang	2
+甘遂	gan sui	2
+小陷	xiao xian	2
+脉弦者	mai xian zhe	2
+第六	di liu	2
+亦可	yi ke	2
+匕服	bi fu	2
+汤用	tang yong	2
+巴豆	ba dou	2
+一杯	yi bei	2
+大椎	da chui	2
+期门	qi men	2
+适来	shi lai	2
+其实	qi shi	2
+见鬼	jian gui	2
+此为阳	ci wei yang	2
+药下	yao xia	2
+以麻	yi ma	2
+二升渍	er sheng zi	2
+绞去	jiao qu	2
+本云加	ben yun jia	2
+雷鸣	lei ming	2
+本云理	ben yun li	2
+因发	yin fa	2
+三方	san fang	2
+脱落	tuo luo	2
+利益	li yi	2
+解后	jie hou	2
+痞硬	pi ying	2
+呕吐	ou tu	2
+头不痛	tou bu tong	2
+当吐	dang tu	2
+热汤	re tang	2
+作稀	zuo xi	2
+不吐者	bu tu zhe	2
+少少加	shao shao jia	2
+乃止	nai zhi	2
+无大热	wu da re	2
+风湿	feng shi	2
+疼烦	teng fan	2
+初一	chu yi	2
+人身	ren shen	2
+加桂	jia gui	2
+宜服	yi fu	2
+一证云	yi zheng yun	2
+表热里	biao re li	2
+麦门冬	mai men dong	2
+七升	qi sheng	2
+内胶	nei jiao	2
+中止	zhong zhi	2
+还者	hai zhe	2
+胃家实	wei jia shi	2
+利小便	li xiao bian	2
+胃中燥	wei zhong zao	2
+此亡	ci wang	2
+反恶	fan e	2
+浮而缓	fu er huan	2
+自温者	zi wen zhe	2
+咽干	yan gan	2
+此欲	ci yu	2
+不胜	bu sheng	2
+攻其	gong qi	2
+热必	re bi	2
+反无汗	fan wu han	2
+不厥者	bu jue zhe	2
+一云冬	yi yun dong	2
+必痛	bi tong	2
+额上	e shang	2
+不久	bu jiu	2
+二物	er wu	2
+一法	yi fa	2
+余勿服	yu wu fu	2
+转失	zhuan shi	2
+攻之必	gong zhi bi	2
+胀满	zhang man	2
+以小	yi xiao	2
+怵惕	chu ti	2
+硬则	ying ze	2
+转气者	zhuan qi zhe	2
+五六枚	wu liu mei	2
+一云大	yi yun da	2
+滑石	hua shi	2
+大猪	da zhu	2
+食顷	shi qing	2
+本有	ben you	2
+瘀血	yu xue	2
+宿食	su shi	2
+脉阳微	mai yang wei	2
+麻子	ma zi	2
+梧桐子	wu tong zi	2
+饮服	yin fu	2
+十丸	shi wan	2
+为顺	wei shun	2
+寒湿	han shi	2
+转入	zhuan ru	2
+十余行	shi yu xing	2
+必自止	bi zi zhi	2
+黄汤	huang tang	2
+色白者	se bai zhe	2
+脉细	mai xi	2
+下利必	xia li bi	2
+衣被	yi bei	2
+不死	bu si	2
+逆冷者	ni leng zhe	2
+四逆	si ni	2
+不烦	bu fan	2
+始得	shi de	2
+小冷	xiao leng	2
+桃花	tao hua	2
+一半	yi ban	2
+猪肤	zhu fu	2
+咽痛者	yan tong zhe	2
+不差	bu cha	2
+葱白	cong bai	2
+四茎	si jing	2
+白通加	bai tong jia	2
+猪胆	zhu dan	2
+泄利下	xie li xia	2
+水渍	shui zi	2
+悸者	ji zhe	2
+微涩	wei se	2
+先厥	xian jue	2
+今反能	jin fan neng	2
+日夜	ri ye	2
+半愈	ban yu	2
+其喉	qi hou	2
+必便	bi bian	2
+热少	re shao	2
+寒多	han duo	2
+通草	tong cao	2
+冷者	leng zhe	2
+更治	geng zhi	2
+不尔	bu er	2
+升麻	sheng ma	2
+必清	bi qing	2
+热故	re gu	2
+并治合六法	bing zhi he liu fa	2
+六首	liu shou	2
+用水	yong shui	2
+理中丸	li zhong wan	2
+蜜和为	mi he wei	2
+黄许	huang xu	2
+数合	shu he	2
+研碎	yan sui	2
+三四	san si	2
+劳复	lao fu	2
+散主	san zhu	2
+竹叶	zhu ye	2
+张仲景	zhang zhong jing	1
+简介	jian jie	1
+说明	shuo ming	1
+人民卫生出版社	ren min wei sheng chu ban she	1
+刘渡舟	liu du zhou	1
+主编	zhu bian	1
+校注	jiao zhu	1
+底本	di ben	1
+对照	dui zhao	1
+恽铁	yun tie	1
+先生	xian sheng	1
+年影	nian ying	1
+赵刻	zhao ke	1
+宋本	song ben	1
+改用	gai yong	1
+简化字	jian hua zi	1
+方后	fang hou	1
+本书	ben shu	1
+横排	heng pai	1
+形式	xing shi	1
+改为	gai wei	1
+为了	wei le	1
+保持	bao chi	1
+原貌	yuan mao	1
+不予	bu yu	1
+改动	gai dong	1
+序号	xu hao	1
+标记	biao ji	1
+末行	mo xing	1
+之尾列	zhi wei lie	1
+宗族	zong zu	1
+素多	su duo	1
+二百	er bai	1
+建安	jian an	1
+纪年	ji nian	1
+犹未十稔	you wei shi ren	1
+死亡者	si wang zhe	1
+十居	shi ju	1
+往昔	wang xi	1
+沦丧	lun sang	1
+伤横夭	shang heng yao	1
+之莫救	zhi mo jiu	1
+乃勤求	nai qin qiu	1
+古训	gu xun	1
+博采	bo cai	1
+众方	zhong fang	1
+撰用	zhuan yong	1
+素问	su wen	1
+九卷	jiu juan	1
+八十一	ba shi yi	1
+药录	yao lu	1
+平脉	ping mai	1
+辨证	bian zheng	1
+杂病	za bing	1
+论合	lun he	1
+十六卷	shi liu juan	1
+未能	wei neng	1
+尽愈	jin yu	1
+诸病	zhu bing	1
+见病	jian bing	1
+知源	zhi yuan	1
+余所	yu suo	1
+思过	si guo	1
+夫天布	fu tian bu	1
+五行	wu xing	1
+以运万类	yi yun wan lei	1
+五常	wu chang	1
+五藏	wu cang	1
+会通	hui tong	1
+玄冥	xuan ming	1
+幽微	you wei	1
+难极	nan ji	1
+自非	zi fei	1
+高识妙	gao shi miao	1
+岂能	qi neng	1
+探其理致	tan qi li zhi	1
+上古	shang gu	1
+神农	shen nong	1
+伯伯	bo bo	1
+雷公	lei gong	1
+俞少	yu shao	1
+师仲文	shi zhong wen	1
+中世有	zhong shi you	1
+长桑	zhang sang	1
+扁鹊	bian que	1
+汉有	han you	1
+公乘阳庆	gong cheng yang qing	1
+仓公	cang gong	1
+下此	xia ci	1
+以往	yi wang	1
+未之闻	wei zhi wen	1
+观今	guan jin	1
+之医	zhi yi	1
+不念思求	bu nian si qiu	1
+经旨	jing zhi	1
+以演	yi yan	1
+所知	suo zhi	1
+各承家技	ge cheng jia ji	1
+始终	shi zhong	1
+顺旧	shun jiu	1
+省疾	sheng ji	1
+问病	wen bing	1
+相对	xiang dui	1
+斯须	si xu	1
+便处	bian chu	1
+按寸	an cun	1
+握手	wo shou	1
+人迎	ren ying	1
+趺阳	fu yang	1
+不参	bu can	1
+数发	shu fa	1
+不满	bu man	1
+短期	duan qi	1
+决诊	jue zhen	1
+九候	jiu hou	1
+仿佛	fang fu	1
+明堂	ming tang	1
+所谓	suo wei	1
+窥管	kui guan	1
+夫欲视	fu yu shi	1
+别生	bie sheng	1
+实为	shi wei	1
+孔子	kong zi	1
+生而知之	sheng er zhi zhi	1
+学则亚	xue ze ya	1
+多闻	duo wen	1
+博识	bo shi	1
+知之次	zhi zhi ci	1
+余宿尚	yu su shang	1
+事斯语	shi si yu	1
+凡脉	fan mai	1
+此名阳	ci ming yang	1
+阴病	yin bing	1
+阳病	yang bing	1
+阴脉者	yin mai zhe	1
+有阳结	you yang jie	1
+阴结者	yin jie zhe	1
+十七日	shi qi ri	1
+十四日	shi si ri	1
+阳往	yang wang	1
+阴往	yin wang	1
+阳中	yang zhong	1
+陷入	xian ru	1
+阴中	yin zhong	1
+荣气微	rong qi wei	1
+如流	ru liu	1
+珠者	zhu zhe	1
+加烧针	jia shao zhen	1
+血留	xue liu	1
+而躁	er zao	1
+蔼蔼	ai ai	1
+车盖	che gai	1
+一云秋脉	yi yun qiu mai	1
+如循	ru xun	1
+长竿者	zhang gan zhe	1
+一云夏脉	yi yun xia mai	1
+脉瞥	mai pie	1
+如羹	ru geng	1
+脉萦萦如	mai ying ying ru	1
+蜘蛛丝	zhi zhu si	1
+绵绵	mian mian	1
+如泻	ru xie	1
+绝者	jue zhe	1
+脉来数	mai lai shu	1
+脉阳盛	mai yang sheng	1
+阴盛则	yin sheng ze	1
+此皆病	ci jie bing	1
+阳动	yang dong	1
+阴动	yin dong	1
+形冷	xing leng	1
+若数脉	ruo shu mai	1
+见于	jian yu	1
+头尾	tou wei	1
+如豆	ru dou	1
+动摇	dong yao	1
+弦者	xian zhe	1
+状如	zhuang ru	1
+弓弦	gong xian	1
+不移	bu yi	1
+无常	wu chang	1
+减则	jian ze	1
+寒虚	han xu	1
+半产	ban chan	1
+漏下	lou xia	1
+血失	xue shi	1
+战而汗	zhan er han	1
+本虚	ben xu	1
+故当战	gu dang zhan	1
+发战	fa zhan	1
+故当汗	gu dang han	1
+此人	ci ren	1
+本不虚	ben bu xu	1
+自解	zi jie	1
+不发战	bu fa zhan	1
+脉大而	mai da er	1
+不战汗	bu zhan han	1
+自微	zi wei	1
+故不战	gu bu zhan	1
+解以	jie yi	1
+必能	bi neng	1
+必大汗	bi da han	1
+脉病	mai bing	1
+知愈	zhi yu	1
+三处	san chu	1
+浮沉	fu chen	1
+迟数	chi shu	1
+和平	he ping	1
+虽剧	sui ju	1
+立夏得	li xia de	1
+洪一作	hong yi zuo	1
+浮大脉	fu da mai	1
+本位	ben wei	1
+其人病	qi ren bing	1
+苦疼	ku teng	1
+须发	xu fa	1
+便解	bian jie	1
+立夏脉	li xia mai	1
+使然	shi ran	1
+以阳得	yi yang de	1
+阴则解	yin ze jie	1
+阴得阳	yin de yang	1
+气实	qi shi	1
+浮一作	fu yi zuo	1
+沉才	chen cai	1
+调脉	diao mai	1
+故称	gu cheng	1
+反滑	fan hua	1
+当屎	dang shi	1
+玉函	yu han	1
+作溺	zuo ni	1
+伤卫	shang wei	1
+伤荣	shang rong	1
+荣卫俱病	rong wei ju bing	1
+当发	dang fa	1
+迟而缓	chi er huan	1
+伤胃	shang wei	1
+动脾	dong pi	1
+本病	ben bing	1
+医特下	yi te xia	1
+其人必	qi ren bi	1
+本以数	ben yi shu	1
+反浮	fan fu	1
+改微	gai wei	1
+杀谷	sha gu	1
+发渴	fa ke	1
+迟缓	chi huan	1
+度数	du shu	1
+恶疮	e chuang	1
+医所病	yi suo bing	1
+大发	da fa	1
+数大下	shu da xia	1
+其人亡	qi ren wang	1
+无休止	wu xiu zhi	1
+夏月	xia yue	1
+盛热	sheng re	1
+复衣	fu yi	1
+冬月	dong yue	1
+盛寒	sheng han	1
+此医发	ci yi fa	1
+内微	nei wei	1
+胜冷	sheng leng	1
+故欲	gu yu	1
+著复	zhu fu	1
+内弱	nei ruo	1
+胜热	sheng re	1
+故欲裸	gu yu luo	1
+属藏者	shu cang zhe	1
+属府	shu fu	1
+多则	duo ze	1
+热愈	re yu	1
+汗少	han shao	1
+浮而洪	fu er hong	1
+身汗	shen han	1
+如油	ru you	1
+乍静	zha jing	1
+命绝	ming jue	1
+先受	xian shou	1
+其灾	qi zai	1
+出发	chu fa	1
+先绝	xian jue	1
+阳反	yang fan	1
+烟熏	yan xun	1
+心绝	xin jue	1
+唇吻	chun wen	1
+反青	fan qing	1
+肝绝	gan jue	1
+环口	huan kou	1
+黧黑	li hei	1
+柔汗	rou han	1
+脾绝	pi jue	1
+遗失	yi shi	1
+狂言	kuang yan	1
+目反	mu fan	1
+肾绝	shen jue	1
+必青	bi qing	1
+必赤	bi chi	1
+腋下	ye xia	1
+大逆	da ni	1
+医乃	yi nai	1
+反饮	fan yin	1
+令汗	ling han	1
+大出	da chu	1
+水得	shui de	1
+冷必	leng bi	1
+音噎	yin ye	1
+故令气	gu ling qi	1
+言胃	yan wei	1
+医咎	yi jiu	1
+责虚	ze xu	1
+取实	qu shi	1
+守空迫	shou kong po	1
+鼻中燥	bi zhong zao	1
+若有	ruo you	1
+如常	ru chang	1
+畜积	chu ji	1
+面热	mian re	1
+战惕者	zhan ti zhe	1
+无阳	wu yang	1
+作汗	zuo han	1
+必痒	bi yang	1
+阴中于	yin zhong yu	1
+必内栗	bi nei li	1
+不守	bu shou	1
+阳中于	yang zhong yu	1
+项强	xiang qiang	1
+颈挛	jing luan	1
+胫酸	jing suan	1
+所为阳	suo wei yang	1
+中雾	zhong wu	1
+露之气	lu zhi qi	1
+故曰	gu yue	1
+为栗	wei li	1
+足膝	zu xi	1
+便溺	bian niao	1
+妄出	wang chu	1
+音佛	yin fu	1
+气相	qi xiang	1
+口烂	kou lan	1
+不流	bu liu	1
+赤黄	chi huang	1
+因热作	yin re zuo	1
+游于	you yu	1
+所过	suo guo	1
+阴无所	yin wu suo	1
+内入	nei ru	1
+乙骨切	yi gu qie	1
+咽塞	yan sai	1
+寒厥	han jue	1
+状如豚	zhuang ru tun	1
+俱厥	ju jue	1
+孤弱	gu ruo	1
+五液	wu ye	1
+注下	zhu xia	1
+令便	ling bian	1
+数难	shu nan	1
+齐筑	qi zhu	1
+难全	nan quan	1
+气出	qi chu	1
+卧足	wo zu	1
+鼻中涕出	bi zhong ti chu	1
+胎滑	tai hua	1
+妄治	wang zhi	1
+其人微	qi ren wei	1
+反大	fan da	1
+必欲利	bi yu li	1
+紧去	jin qu	1
+入安	ru an	1
+晚发	wan fa	1
+水停	shui ting	1
+食自	shi zi	1
+可者	ke zhe	1
+口禁	kou jin	1
+扰者	rao zhe	1
+必欲解	bi yu jie	1
+目重	mu zhong	1
+内际	nei ji	1
+此欲解	ci yu jie	1
+风为	feng wei	1
+虚为	xu wei	1
+滑为实	hua wei shi	1
+阳实	yang shi	1
+失度	shi du	1
+咳逆上	ke ni shang	1
+散者	san zhe	1
+形损	xing sun	1
+人体	ren ti	1
+因息	yin xi	1
+游布	you bu	1
+流通	liu tong	1
+随时	sui shi	1
+效象	xiao xiang	1
+形容	xing rong	1
+春弦秋浮	chun xian qiu fu	1
+冬沉夏洪	dong chen xia hong	1
+察色	cha se	1
+观脉	guan mai	1
+一时之间	yi shi zhi jian	1
+变无	bian wu	1
+参差	cen ci	1
+乖错	guai cuo	1
+或存	huo cun	1
+或亡	huo wang	1
+病辄	bing zhe	1
+改易	gai yi	1
+进退	jin tui	1
+低昂	di ang	1
+心迷	xin mi	1
+意惑	yi huo	1
+动失	dong shi	1
+纪纲	ji gang	1
+愿为	yuan wei	1
+令得	ling de	1
+分明	fen ming	1
+根源	gen yuan	1
+及关	ji guan	1
+流行	liu xing	1
+失衡	shi heng	1
+肾沉	shen chen	1
+心洪	xin hong	1
+肺浮	fei fu	1
+此自	ci zi	1
+不失	bu shi	1
+升降	sheng jiang	1
+漏刻	lou ke	1
+周旋	zhou xuan	1
+水下	shui xia	1
+百刻	bai ke	1
+一周	yi zhou	1
+循环	xun huan	1
+当复	dang fu	1
+相干	xiang gan	1
+牢坚	lao jian	1
+潜水	qian shui	1
+支饮	zhi yin	1
+热烦	re fan	1
+设有	she you	1
+知变	zhi bian	1
+所缘	suo yuan	1
+异端	yi duan	1
+大过	da guo	1
+可怪	ke guai	1
+空见	kong jian	1
+终必	zhong bi	1
+有奸	you jian	1
+审察	shen cha	1
+别焉	bie yan	1
+知其	zhi qi	1
+所舍	suo she	1
+诊看	zhen kan	1
+料度	liao du	1
+独见	du jian	1
+若神	ruo shen	1
+为子	wei zi	1
+条记	tiao ji	1
+贤人	xian ren	1
+脉之头	mai zhi tou	1
+来疾去	lai ji qu	1
+疾入	ji ru	1
+外实	wai shi	1
+迟入	chi ru	1
+内实外	nei shi wai	1
+上工	shang gong	1
+中工	zhong gong	1
+问而知	wen er zhi	1
+下工	xia gong	1
+脉而知	mai er zhi	1
+愿闻	yuan wen	1
+其说	qi shuo	1
+请云	qing yun	1
+自卧	zi wo	1
+诊其脉	zhen qi mai	1
+沉而	chen er	1
+若表有	ruo biao you	1
+反沉迟	fan chen chi	1
+自坐	zi zuo	1
+浮而大者	fu er da zhe	1
+若里	ruo li	1
+沉而细	chen er xi	1
+烦极	fan ji	1
+向壁	xiang bi	1
+此热	ci re	1
+设令	she ling	1
+闻师	wen shi	1
+惊起	jing qi	1
+若三言三止	ruo san yan san zhi	1
+脉之咽	mai zhi yan	1
+唾者	tuo zhe	1
+诈病	zha bing	1
+此病	ci bing	1
+大重	da zhong	1
+服吐	fu tu	1
+下药	xia yao	1
+针灸	zhen jiu	1
+数十百	shu shi bai	1
+处乃愈	chu nai yu	1
+师持	shi chi	1
+欠者	qian zhe	1
+无病	wu bing	1
+呻者	shen zhe	1
+行迟者	xing chi zhe	1
+表强	biao qiang	1
+伏者	fu zhe	1
+坐而下	zuo er xia	1
+一脚	yi jiao	1
+实护腹	shi hu fu	1
+如怀卵	ru huai luan	1
+物者	wu zhe	1
+以意候	yi yi hou	1
+今月	jin yue	1
+旧有	jiu you	1
+当喉	dang hou	1
+似伤	shi shang	1
+非喉	fei hou	1
+实咽	shi yan	1
+虽尔	sui er	1
+今复	jin fu	1
+恐怖	kong bu	1
+何状	he zhuang	1
+脉形	mai xing	1
+如循丝	ru xun si	1
+脱色	tuo se	1
+人愧	ren kui	1
+乍白	zha bai	1
+经说	jing shuo	1
+脉人以	mai ren yi	1
+如三菽	ru san shu	1
+肺气	fei qi	1
+如六菽	ru liu shu	1
+心气	xin qi	1
+如九菽	ru jiu shu	1
+肝气	gan qi	1
+按之至	an zhi zhi	1
+骨者	gu zhe	1
+菽者	shu zhe	1
+小豆	xiao dou	1
+然尺	ran chi	1
+中时	zhong shi	1
+一小	yi xiao	1
+举头	ju tou	1
+投者	tou zhe	1
+若见	ruo jian	1
+损脉	sun mai	1
+肾为	shen wei	1
+脾所胜	pi suo sheng	1
+脾胜	pi sheng	1
+应时	ying shi	1
+有逆有	you ni you	1
+此六脉	ci liu mai	1
+能为	neng wei	1
+令人	ling ren	1
+脉得	mai de	1
+形证	xing zheng	1
+因为	yin wei	1
+作汤	zuo tang	1
+如食顷	ru shi qing	1
+乃大吐	nai da tu	1
+若下利	ruo xia li	1
+前来	qian lai	1
+此证	ci zheng	1
+变异	bian yi	1
+名灾怪	ming zai guai	1
+作此	zuo ci	1
+旧时	jiu shi	1
+东方	dong fang	1
+肝者	gan zhe	1
+微弦濡弱	wei xian ru ruo	1
+肝病	gan bing	1
+纯弦脉者	chun xian mai zhe	1
+如弦直	ru xian zhi	1
+此是	ci shi	1
+肝藏伤	gan cang shang	1
+心者	xin zhe	1
+心病	xin bing	1
+微去	wei qu	1
+来头	lai tou	1
+小本	xiao ben	1
+微头	wei tou	1
+小者	xiao zhe	1
+下微	xia wei	1
+本大者	ben da zhe	1
+头无汗者	tou wu han zhe	1
+有汗者	you han zhe	1
+肺者	fei zhe	1
+毛浮	mao fu	1
+肺病	fei bing	1
+若得	ruo de	1
+缓迟者	huan chi zhe	1
+得数	de shu	1
+火克	huo ke	1
+痈肿	yong zhong	1
+浮脉	fu mai	1
+至秋当	zhi qiu dang	1
+当濡弱	dang ru ruo	1
+肝用	gan yong	1
+肝属	gan shu	1
+应濡弱	ying ru ruo	1
+浮脉者	fu mai zhe	1
+肺属	fei shu	1
+金来克木	jin lai ke mu	1
+脉肥	mai fei	1
+人责浮	ren ze fu	1
+瘦人责沉	shou ren ze chen	1
+肥人	fei ren	1
+当沉	dang chen	1
+今反浮	jin fan fu	1
+瘦人	shou ren	1
+当浮	dang fu	1
+今反沉	jin fan chen	1
+故责	gu ze	1
+为阳绝	wei yang jue	1
+阴绝	yin jue	1
+决死	jue si	1
+若计	ruo ji	1
+其余	qi yu	1
+生死	sheng si	1
+之期	zhi qi	1
+期以	qi yi	1
+节克	jie ke	1
+行尸	xing shi	1
+王气	wang qi	1
+眩仆	xuan pu	1
+短命	duan ming	1
+人病	ren bing	1
+谷神	gu shen	1
+虽困	sui kun	1
+无苦	wu ku	1
+翕奄沉	xi yan chen	1
+纯阴	chun yin	1
+关尺	guan chi	1
+自平	zi ping	1
+微沉	wei chen	1
+食饮	shi yin	1
+浮名	fu ming	1
+阴实	yin shi	1
+必股	bi gu	1
+阴下	yin xia	1
+紧脉	jin mai	1
+从何而来	cong he er lai	1
+亡汗	wang han	1
+肺里	fei li	1
+下利以	xia li yi	1
+胃虚冷	wei xu leng	1
+暴狂	bao kuang	1
+章者	zhang zhe	1
+暴泽而光	bao ze er guang	1
+高章	gao zhang	1
+纲者	gang zhe	1
+身筋	shen jin	1
+强直	qiang zhi	1
+迫怯	po qie	1
+荣气弱	rong qi ruo	1
+卑者	bei zhe	1
+常自	chang zi	1
+羞愧	xiu kui	1
+损者	sun zhe	1
+俱乏	ju fa	1
+自收	zi shou	1
+俱重	ju zhong	1
+缓迟	huan chi	1
+腰中直	yao zhong zhi	1
+不欲行	bu yu xing	1
+脉缓	mai huan	1
+缓则	huan ze	1
+其色鲜	qi se xian	1
+其颜光	qi yan guang	1
+其声商	qi sheng shang	1
+毛发	mao fa	1
+迟则	chi ze	1
+血满	xue man	1
+紧薄鲜	jin bao xian	1
+相抱	xiang bao	1
+荣卫俱行	rong wei ju xing	1
+滑而紧	hua er jin	1
+持实击	chi shi ji	1
+自伤	zi shang	1
+手把	shou ba	1
+坐作	zuo zuo	1
+尺为关	chi wei guan	1
+为格	wei ge	1
+关则	guan ze	1
+格则	ge ze	1
+伏而涩	fu er se	1
+伏则	fu ze	1
+不化	bu hua	1
+气强	qi qiang	1
+风气	feng qi	1
+必成	bi cheng	1
+隐疹	yin zhen	1
+痒者	yang zhe	1
+名泄风	ming xie feng	1
+久久	jiu jiu	1
+眉少	mei shao	1
+发稀	fa xi	1
+干疮	gan chuang	1
+腥臭	xing chou	1
+荣中寒	rong zhong han	1
+血寒	xue han	1
+气微者	qi wei zhe	1
+心内	xin nei	1
+饥而虚满	ji er xu man	1
+大而	da er	1
+当即	dang ji	1
+吞酸	tun suan	1
+食卒	shi zu	1
+气填于	qi tian yu	1
+紧而浮	jin er fu	1
+绞痛	jiao tong	1
+转即	zhuan ji	1
+气乃下	qi nai xia	1
+脉不出	mai bu chu	1
+其阴	qi yin	1
+肿大	zhong da	1
+相将	xiang jiang	1
+无所仰	wu suo yang	1
+卑不仁	bei bu ren	1
+疼口	teng kou	1
+难言	nan yan	1
+数欠	shu qian	1
+不归	bu gui	1
+其部	qi bu	1
+沉而数	chen er shu	1
+沉为实	chen wei shi	1
+数消谷	shu xiao gu	1
+荣卫俱微	rong wei ju wei	1
+根叶	gen ye	1
+枯槁	ku gao	1
+咳逆	ke ni	1
+唾腥	tuo xing	1
+浮而	fu er	1
+荣气伤	rong qi shang	1
+甲错	jia cuo	1
+微衰	wei shuai	1
+四属	si shu	1
+断绝	duan jue	1
+四属者	si shu zhe	1
+俱竭	ju jie	1
+微而缓	wei er huan	1
+疏则	shu ze	1
+其肤空	qi fu kong	1
+谷消	gu xiao	1
+水化	shui hua	1
+谷入	gu ru	1
+脉道	mai dao	1
+乃行	nai xing	1
+其血乃成	qi xue nai cheng	1
+荣盛则	rong sheng ze	1
+其肤	qi fu	1
+必疏	bi shu	1
+绝经	jue jing	1
+血崩	xue beng	1
+微而紧	wei er jin	1
+微则	wei ze	1
+微紧	wei jin	1
+身冷肤	shen leng fu	1
+精血	jing xue	1
+气促	qi cu	1
+胸膈	xiong ge	1
+反聚	fan ju	1
+血结	xue jie	1
+热归	re gui	1
+阴股	yin gu	1
+阴相动	yin xiang dong	1
+令身	ling shen	1
+尸厥	shi jue	1
+当剌期	dang la qi	1
+巨阙	ju que	1
+归气	gui qi	1
+有名	you ming	1
+无形	wu xing	1
+气之神	qi zhi shen	1
+下荣玉茎	xia rong yu jing	1
+故宗筋	gu zong jin	1
+聚缩	ju suo	1
+虚损	xu sun	1
+知阴常	zhi yin chang	1
+绝不	jue bu	1
+见阳	jian yang	1
+诸微亡阳	zhu wei wang yang	1
+诸濡亡	zhu ru wang	1
+诸弱	zhu ruo	1
+诸紧	zhu jin	1
+诸乘	zhu cheng	1
+郁冒	yu mao	1
+无谷气	wu gu qi	1
+脾涩	pi se	1
+口急	kou ji	1
+战而栗	zhan er li	1
+反适	fan shi	1
+知乘府	zhi cheng fu	1
+知乘藏	zhi cheng cang	1
+诸阳	zhu yang	1
+乘府	cheng fu	1
+诸阴	zhu yin	1
+乘藏	cheng cang	1
+四时八节	si shi ba jie	1
+七十二候	qi shi er hou	1
+决病法	jue bing fa	1
+立春	li chun	1
+节斗	jie dou	1
+指艮	zhi gen	1
+惊垫	jing dian	1
+指甲	zhi jia	1
+清明	qing ming	1
+谷雨	gu yu	1
+立夏	li xia	1
+小满	xiao man	1
+芒种	mang zhong	1
+五月节	wu yue jie	1
+指丙	zhi bing	1
+小暑	xiao shu	1
+节指丁	jie zhi ding	1
+大暑	da shu	1
+立秋	li qiu	1
+处暑	chu shu	1
+白露	bai lu	1
+八月节	ba yue jie	1
+指庚	zhi geng	1
+寒露	han lu	1
+节指辛	jie zhi xin	1
+立冬	li dong	1
+小雪	xiao xue	1
+大雪	da xue	1
+小寒	xiao han	1
+气温	qi wen	1
+夏气	xia qi	1
+暑热	shu re	1
+秋气	qiu qi	1
+清凉	qing liang	1
+冬气	dong qi	1
+冰列	bing lie	1
+之序	zhi xu	1
+严寒	yan han	1
+深藏	shen cang	1
+固密	gu mi	1
+伤于	shang yu	1
+之者	zhi zhe	1
+乃名	nai ming	1
+其伤	qi shang	1
+四时之气	si shi zhi qi	1
+毒者	du zhe	1
+以其	yi qi	1
+最成	zui cheng	1
+厉之气	li zhi qi	1
+不即	bu ji	1
+寒毒	han du	1
+藏于	cang yu	1
+肌肤	ji fu	1
+至春	zhi chun	1
+至夏	zhi xia	1
+热极	re ji	1
+重于	zhong yu	1
+辛苦	xin ku	1
+春夏	chun xia	1
+触寒	chu han	1
+非时	fei shi	1
+行之气	xing zhi qi	1
+凡时	fan shi	1
+行者	xing zhe	1
+夏时	xia shi	1
+应热	ying re	1
+反大凉	fan da liang	1
+秋时	qiu shi	1
+应凉	ying liang	1
+反大热	fan da re	1
+应寒	ying han	1
+反大温	fan da wen	1
+一岁	yi sui	1
+长幼	zhang you	1
+夫欲候	fu yu hou	1
+及时	ji shi	1
+行疫气	xing yi qi	1
+之法	zhi fa	1
+按斗历	an dou li	1
+宜渐	yi jian	1
+宜解	yi jie	1
+解而为	jie er wei	1
+气渐	qi jian	1
+和暖	he nuan	1
+夏大热	xia da re	1
+至秋	zhi qiu	1
+凡有触	fan you chu	1
+霜露	shuang lu	1
+体中寒	ti zhong han	1
+寒冽	han lie	1
+已严	yi yan	1
+寒渐	han jian	1
+病亦轻	bing yi qing	1
+不调	bu diao	1
+其冬有	qi dong you	1
+非节	fei jie	1
+之暖者	zhi nuan zhe	1
+之毒	zhi du	1
+大异	da yi	1
+相重	xiang zhong	1
+轻重	qing zhong	1
+为治	wei zhi	1
+证如后	zheng ru hou	1
+从立	cong li	1
+春节	chun jie	1
+其中	qi zhong	1
+无暴	wu bao	1
+有人	you ren	1
+壮热为	zhuang re wei	1
+伏寒	fu han	1
+节前	jie qian	1
+天有	tian you	1
+暴寒者	bao han zhe	1
+寒疫	han yi	1
+暴寒	bao han	1
+尚弱	shang ruo	1
+病热	bing re	1
+犹轻	you qing	1
+已盛	yi sheng	1
+病热则	bing re ze	1
+已衰	yi shuai	1
+病热亦微	bing re yi wei	1
+温及	wen ji	1
+但治有殊	dan zhi you shu	1
+十五日	shi wu ri	1
+有六气	you liu qi	1
+四六名	si liu ming	1
+气候	qi hou	1
+未应	wei ying	1
+过者	guo zhe	1
+成病	cheng bing	1
+动静	dong jing	1
+鼓击者	gu ji zhe	1
+各正	ge zheng	1
+以彼春	yi bi chun	1
+夏之暑	xia zhi shu	1
+彼秋	bi qiu	1
+冬之怒	dong zhi nu	1
+一阳	yi yang	1
+爻升	yao sheng	1
+一阴	yi yin	1
+斯则	si ze	1
+冬夏	dong xia	1
+二至	er zhi	1
+春秋	chun qiu	1
+交易	jiao yi	1
+变病	bian bing	1
+夏养阳	xia yang yang	1
+秋冬养	qiu dong yang	1
+小人	xiao ren	1
+必婴	bi ying	1
+暴疹	bao zhen	1
+须知	xu zhi	1
+毒烈	du lie	1
+留在	liu zai	1
+何经	he jing	1
+发何	fa he	1
+详而取	xiang er qu	1
+以春伤	yi chun shang	1
+夏必	xia bi	1
+夏伤	xia shang	1
+于暑	yu shu	1
+秋必病	qiu bi bing	1
+秋伤	qiu shang	1
+冬必	dong bi	1
+咳嗽	ke sou	1
+春必	chun bi	1
+病温	bing wen	1
+必然	bi ran	1
+之道	zhi dao	1
+可不	ke bu	1
+审明	shen ming	1
+逐日	zhu ri	1
+浅深	qian shen	1
+以施	yi shi	1
+方治	fang zhi	1
+世人	shi ren	1
+或始	huo shi	1
+早治	zao zhi	1
+或治	huo zhi	1
+日数	ri shu	1
+困乃告	kun nai gao	1
+医人	yi ren	1
+依次	yi ci	1
+第而治	di er zhi	1
+中病	zhong bing	1
+皆宜	jie yi	1
+临时	lin shi	1
+制方	zhi fang	1
+无不	wu bu	1
+搜采	sou cai	1
+仲景旧	zhong jing jiu	1
+录其	lu qi	1
+诊脉	zhen mai	1
+声色	sheng se	1
+对病	dui bing	1
+真方	zhen fang	1
+有神	you shen	1
+验者	yan zhe	1
+防世急	fang shi ji	1
+土地	tu di	1
+温凉	wen liang	1
+高下	gao xia	1
+物性	wu xing	1
+居亦异	ju yi yi	1
+四方	si fang	1
+之问	zhi wen	1
+岐伯举	qi bo ju	1
+四治之能	si zhi zhi neng	1
+以训	yi xun	1
+后贤	hou xian	1
+开其	kai qi	1
+未悟者	wei wu zhe	1
+临病	lin bing	1
+之工	zhi gong	1
+宜须	yi xu	1
+两审	liang shen	1
+凡伤	fan shang	1
+故头	gu tou	1
+项痛	xiang tong	1
+腰脊	yao ji	1
+鼻络	bi luo	1
+于目	yu mu	1
+故身	gu shen	1
+目痛	mu tong	1
+俱弦者	ju xian zhe	1
+循胁络	xun xie luo	1
+痛而	tong er	1
+未入	wei ru	1
+可汗	ke han	1
+布胃	bu wei	1
+络于	luo yu	1
+故腹	gu fu	1
+其脉贯	qi mai guan	1
+肾络于	shen luo yu	1
+系舌本	xi she ben	1
+故口燥	gu kou zao	1
+俱微	ju wei	1
+阴器络	yin qi luo	1
+满而囊	man er nang	1
+已入	yi ru	1
+烦满	fan man	1
+谵之廉切	zhan zhi lian qie	1
+监切	jian qie	1
+囊缩	nang suo	1
+不入	bu ru	1
+阴三阳	yin san yang	1
+传经	chuan jing	1
+不加	bu jia	1
+异气者	yi qi zhe	1
+少愈	shao yu	1
+身热少	shen re shao	1
+微闻	wei wen	1
+十一日	shi yi ri	1
+渴止	ke zhi	1
+已而嚏	yi er ti	1
+微下	wei xia	1
+大气	da qi	1
+精神爽	jing shen shuang	1
+若过	ruo guo	1
+不间	bu jian	1
+陷者	xian zhe	1
+大危	da wei	1
+感异气	gan yi qi	1
+当依后	dang yi hou	1
+而治	er zhi	1
+重感于	zhong gan yu	1
+变成	bian cheng	1
+温疟	wen nve	1
+遇于	yu yu	1
+洪数	hong shu	1
+最重	zui zhong	1
+温气	wen qi	1
+温疫	wen yi	1
+一本	yi ben	1
+作疟	zuo nve	1
+变证	bian zheng	1
+方治如	fang zhi ru	1
+凡人	fan ren	1
+即治	ji zhi	1
+隐忍	yin ren	1
+冀差	ji cha	1
+以成	yi cheng	1
+痼疾	gu ji	1
+小儿	xiao er	1
+女子	nv zi	1
+益以	yi yi	1
+早言	zao yan	1
+寻其	xun qi	1
+以时治	yi shi zhi	1
+罕有	han you	1
+患人忍	huan ren ren	1
+入藏	ru cang	1
+可制	ke zhi	1
+备虑	bei lv	1
+凡作	fan zuo	1
+避晨夜	bi chen ye	1
+觉病	jue bing	1
+即宜	ji yi	1
+便治	bian zhi	1
+早晚	zao wan	1
+病即	bing ji	1
+传变	chuan bian	1
+虽欲	sui yu	1
+除治	chu zhi	1
+为力	wei li	1
+不如	bu ru	1
+方法	fang fa	1
+纵意	zong yi	1
+违师	wei shi	1
+始表中	shi biao zhong	1
+入里	ru li	1
+未有	wei you	1
+温覆	wen fu	1
+消散	xiao san	1
+证治	zheng zhi	1
+拟欲攻	ni yu gong	1
+非大满	fei da man	1
+犹生	you sheng	1
+大满	da man	1
+坚有燥	jian you zao	1
+自可除	zi ke chu	1
+不宜	bu yi	1
+虚热	xu re	1
+协热遂利	xie re sui li	1
+诸变	zhu bian	1
+不可胜数	bu ke sheng shu	1
+轻者	qing zhe	1
+困笃	kun du	1
+必死	bi si	1
+夫阳盛	fu yang sheng	1
+阳虚阴	yang xu yin	1
+如是	ru shi	1
+误发	wu fa	1
+甘遂何	gan sui he	1
+妄攻	wang gong	1
+虚盛	xu sheng	1
+之治	zhi zhi	1
+相背	xiang bei	1
+千里	qian li	1
+吉凶	ji xiong	1
+之机	zhi ji	1
+应若	ying ruo	1
+影响	ying xiang	1
+容易	rong yi	1
+下咽	xia yan	1
+阳盛	yang sheng	1
+承气入	cheng qi ru	1
+阴盛	yin sheng	1
+死生	si sheng	1
+在乎	zai hu	1
+视身	shi shen	1
+不暇	bu xia	1
+计日	ji ri	1
+交错	jiao cuo	1
+其候	qi hou	1
+相反	xiang fan	1
+至速	zhi su	1
+医术	yi shu	1
+懵然	meng ran	1
+病源	bing yuan	1
+为治乃误	wei zhi nai wu	1
+殒没	yun mei	1
+自谓	zi wei	1
+其分	qi fen	1
+至令	zhi ling	1
+冤魂	yuan hun	1
+塞于	sai yu	1
+冥路	ming lu	1
+死尸	si shi	1
+盈于	ying yu	1
+旷野	kuang ye	1
+鉴此	jian ci	1
+岂不痛	qi bu tong	1
+两感	liang gan	1
+病俱作	bing ju zuo	1
+治有	zhi you	1
+发表	fa biao	1
+攻里	gong li	1
+本自	ben zi	1
+执迷	zhi mi	1
+用意	yong yi	1
+乃云	nai yun	1
+甘遂合	gan sui he	1
+解其表	jie qi biao	1
+言巧似	yan qiao shi	1
+其理	qi li	1
+实违	shi wei	1
+智者	zhi zhe	1
+举错	ju cuo	1
+常审	chang shen	1
+以慎	yi shen	1
+愚者	yu zhe	1
+必果	bi guo	1
+而速	er su	1
+安危	an wei	1
+之变	zhi bian	1
+岂可	qi ke	1
+诡哉	gui zai	1
+世上	shi shang	1
+之士	zhi shi	1
+但务	dan wu	1
+习之荣	xi zhi rong	1
+而莫见	er mo jian	1
+倾危	qing wei	1
+之败	zhi bai	1
+惟明者	wei ming zhe	1
+居然	ju ran	1
+能护	neng hu	1
+近取	jin qu	1
+诸身	zhu shen	1
+何远	he yuan	1
+之有	zhi you	1
+温煖	wen nuan	1
+其方	qi fang	1
+虽言日	sui yan ri	1
+病剧	bing ju	1
+当促	dang cu	1
+中尽	zhong jin	1
+相阻	xiang zu	1
+即便	ji bian	1
+有所	you suo	1
+时观	shi guan	1
+如服	ru fu	1
+一剂	yi ji	1
+故当复	gu dang fu	1
+作本	zuo ben	1
+汤服	tang fu	1
+不肯	bu ken	1
+服三剂	fu san ji	1
+死病	si bing	1
+凡得	fan de	1
+何者	he zhe	1
+热尚少	re shang shao	1
+消之	xiao zhi	1
+犹当	you dang	1
+依证	yi zheng	1
+之常令	zhi chang ling	1
+极意	ji yi	1
+言能	yan neng	1
+五升	wu sheng	1
+若喘若	ruo chuan ruo	1
+忽然	hu ran	1
+其不晓	qi bu xiao	1
+但闻病	dan wen bing	1
+乃强	nai qiang	1
+因成	yin cheng	1
+复数	fu shu	1
+更迟	geng chi	1
+减小	jian xiao	1
+初躁	chu zao	1
+后静	hou jing	1
+愈证	yu zheng	1
+凡治	fan zhi	1
+身之穴	shen zhi xue	1
+三百六十	san bai liu shi	1
+穴灸	xue jiu	1
+有害	you hai	1
+七十九	qi shi jiu	1
+中髓	zhong sui	1
+脉四损	mai si sun	1
+四息	si xi	1
+四损	si sun	1
+脉五损	mai wu sun	1
+五息	wu xi	1
+五损	wu sun	1
+脉六损	mai liu sun	1
+平人六息	ping ren liu xi	1
+六损	liu sun	1
+脉盛	mai sheng	1
+身寒	shen han	1
+脉虚身	mai xu shen	1
+伤暑	shang shu	1
+数乍	shu zha	1
+疏者	shu zhe	1
+其日	qi ri	1
+谵言	zhan yan	1
+妄语	wang yu	1
+热病	re bing	1
+并治上	bing zhi shang	1
+体痛	ti tong	1
+脉若静者	mai ruo jing zhe	1
+颇欲	po yu	1
+若躁	ruo zao	1
+急者	ji zhe	1
+而渴	er ke	1
+灼热	zhuo re	1
+名风温	ming feng wen	1
+俱浮	ju fu	1
+多眠	duo mian	1
+鼻息	bi xi	1
+必鼾	bi han	1
+微发	wei fa	1
+黄色	huang se	1
+剧则	ju ze	1
+若火	ruo huo	1
+一逆尚	yi ni shang	1
+引日	yin ri	1
+促命期	cu ming qi	1
+发于阳	fa yu yang	1
+阳数	yang shu	1
+阴数	yin shu	1
+六故	liu gu	1
+以行	yi xing	1
+其经	qi jing	1
+若欲作	ruo yu zuo	1
+针足	zhen zu	1
+使经	shi jing	1
+传则	chuan ze	1
+风家	feng jia	1
+身大热	shen da re	1
+反欲得	fan yu de	1
+反不欲近	fan bu yu jin	1
+阳浮	yang fu	1
+阳浮者	yang fu zhe	1
+自发	zi fa	1
+淅淅	xi xi	1
+鼻鸣	bi ming	1
+寒温	han wen	1
+服一升	fu yi sheng	1
+服已	fu yi	1
+一升余	yi sheng yu	1
+温覆令	wen fu ling	1
+遍身	bian shen	1
+令如	ling ru	1
+水流	shui liu	1
+病必	bing bi	1
+不除	bu chu	1
+出病	chu bing	1
+尽剂	jin ji	1
+若不汗	ruo bu han	1
+依前	yi qian	1
+服后	fu hou	1
+小促	xiao cu	1
+周时观	zhou shi guan	1
+服一剂	fu yi ji	1
+更作服	geng zuo fu	1
+不出	bu chu	1
+粘滑	zhan hua	1
+肉面	rou mian	1
+五辛	wu xin	1
+酒酪	jiu lao	1
+臭恶	chou e	1
+等物	deng wu	1
+仲景	zhong jing	1
+本论	ben lun	1
+今证	jin zheng	1
+云汗	yun han	1
+而方	er fang	1
+非本意	fei ben yi	1
+第三卷	di san juan	1
+云无汗	yun wu han	1
+此方同	ci fang tong	1
+合用	he yong	1
+若不上	ruo bu shang	1
+观其脉	guan qi mai	1
+随证治	sui zheng zhi	1
+本为	ben wei	1
+解肌	jie ji	1
+其人脉	qi ren mai	1
+常须	chang xu	1
+识此	shi ci	1
+令误	ling wu	1
+甘故	gan gu	1
+喘家作	chuan jia zuo	1
+凡服	fan fu	1
+微寒	wei han	1
+三度	san du	1
+更下	geng xia	1
+反有	fan you	1
+热色者	re se zhe	1
+得小汗	de xiao han	1
+身必痒	shen bi yang	1
+二十四枚	er shi si mei	1
+汤浸	tang jin	1
+一升八合	yi sheng ba he	1
+各取	ge qu	1
+二十三个	er shi san ge	1
+二十四个	er shi si ge	1
+详此方	xiang ci fang	1
+宜云合	yi yun he	1
+半汤	ban tang	1
+反烦	fan fan	1
+先刺	xian ci	1
+风池	feng chi	1
+形似	xing si	1
+发者	fa zhe	1
+必解	bi jie	1
+十二分	shi er fen	1
+之五	zhi wu	1
+十铢	shi zhu	1
+五铢	wu zhu	1
+出后	chu hou	1
+此无阳	ci wu yang	1
+二越	er yue	1
+当裁	dang cai	1
+合之	he zhi	1
+饮一升	yin yi sheng	1
+十二铢	shi er zhu	1
+汤取	tang qu	1
+九铢	jiu zhu	1
+之七	zhi qi	1
+三铢	san zhu	1
+旧云	jiu yun	1
+今取	jin qu	1
+当云	dang yun	1
+见仲景	jian zhong jing	1
+杂方中	za fang zhong	1
+一云起	yi yun qi	1
+脾汤	pi tang	1
+仍头项	reng tou xiang	1
+满微痛	man wei tong	1
+脚挛	jiao luan	1
+欲攻	yu gong	1
+此误	ci wu	1
+吐逆者	tu ni zhe	1
+以复	yi fu	1
+愈足	yu zu	1
+其脚	qi jiao	1
+针者	zhen zhe	1
+微煮	wei zhu	1
+令沸	ling fei	1
+证象	zheng xiang	1
+阳旦	yang dan	1
+增剧	zeng ju	1
+两胫拘急	liang jing ju ji	1
+两脚	liang jiao	1
+当伸	dang shen	1
+如师言	ru shi yan	1
+知此	zhi ci	1
+生微	sheng wei	1
+两胫挛	liang jing luan	1
+形象	xing xiang	1
+因加	yin jia	1
+增桂令	zeng gui ling	1
+温经	wen jing	1
+内结	nei jie	1
+烦乱	fan luan	1
+两足	liang zu	1
+当热	dang re	1
+重与	zhong yu	1
+尔乃胫伸	er nai jing shen	1
+病可愈	bing ke yu	1
+并治中	bing zhi zhong	1
+诸汤	zhu tang	1
+必自下利	bi zi xia li	1
+促者	cu zhe	1
+喘而汗	chuan er han	1
+以去	yi qu	1
+浮细	fu xi	1
+设胸满	she xiong man	1
+胁痛	xie tong	1
+服之	fu zhi	1
+服之则	fu zhi ze	1
+筋惕	jin ti	1
+取微	qu wei	1
+似汗	shi han	1
+温粉	wen fen	1
+若复服	ruo fu fu	1
+多亡阳	duo wang yang	1
+浮缓	fu huan	1
+但重	dan zhong	1
+轻时	qing shi	1
+发之	fa zhi	1
+第八	di ba	1
+或利	huo li	1
+或喘者	huo chuan zhe	1
+加荛	jia rao	1
+熬令	ao ling	1
+赤色	chi se	1
+若噎者	ruo ye zhe	1
+若喘	ruo chuan	1
+且荛	qie rao	1
+不治利	bu zhi li	1
+主喘	zhu chuan	1
+今此语	jin ci yu	1
+反之	fan zhi	1
+本草	ben cao	1
+花下	hua xia	1
+若水去	ruo shui qu	1
+利则止	li ze zhi	1
+形肿者	xing zhong zhe	1
+应内	ying nei	1
+乃内	nai nei	1
+发其阳	fa qi yang	1
+证之	zheng zhi	1
+岂非	qi fei	1
+仲景意	zhong jing yi	1
+此寒	ci han	1
+微喘者	wei chuan zhe	1
+外者	wai zhe	1
+此当	ci dang	1
+已微	yi wei	1
+发烦目	fa fan mu	1
+剧者	ju zhe	1
+重故	zhong gu	1
+续自微	xu zi wei	1
+可小	ke xiao	1
+缘缘	yuan yuan	1
+正赤者	zheng chi zhe	1
+郁在表	yu zai biao	1
+当解	dang jie	1
+知汗	zhi han	1
+心悸	xin ji	1
+出乃解	chu nai jie	1
+尺中脉	chi zhong mai	1
+此里	ci li	1
+法当身	fa dang shen	1
+知然	zhi ran	1
+以荣气	yi rong qi	1
+血少	xue shao	1
+法用	fa yong	1
+病常	bing chang	1
+外不谐	wai bu xie	1
+不共荣气	bu gong rong qi	1
+谐和	xie he	1
+故尔	gu er	1
+荣行	rong xing	1
+卫行	wei xing	1
+脉外	mai wai	1
+出而	chu er	1
+清者	qing zhe	1
+知不在	zhi bu zai	1
+己解	ji jie	1
+许复烦	xu fu fan	1
+勿治	wu zhi	1
+必振寒	bi zhen han	1
+俱虚故	ju xu gu	1
+夜而	ye er	1
+安静	an jing	1
+无表证	wu biao zheng	1
+沉微	chen wei	1
+身无大	shen wu da	1
+新加	xin jia	1
+黄耳	huang er	1
+过多	guo duo	1
+叉手	cha shou	1
+按者	an zhe	1
+欲作	yu zuo	1
+以甘澜水	yi gan lan shui	1
+作甘澜	zuo gan lan	1
+水法	shui fa	1
+取水	qu shui	1
+二斗	er dou	1
+大盆内	da pen nei	1
+以杓扬	yi biao yang	1
+水上	shui shang	1
+珠子	zhu zi	1
+五六千	wu liu qian	1
+相逐	xiang zhu	1
+取用	qu yong	1
+逆满	ni man	1
+起则	qi ze	1
+动经	dong jing	1
+身为	shen wei	1
+摇者	yao zhe	1
+两沸	liang fei	1
+令胃	ling wei	1
+水逆	shui ni	1
+未持	wei chi	1
+手叉	shou cha	1
+师因	shi yin	1
+教试	jiao shi	1
+无闻	wu wen	1
+以重	yi zhong	1
+必喘	bi chuan	1
+水灌	shui guan	1
+之亦喘	zhi yi chuan	1
+水药	shui yao	1
+必吐下	bi tu xia	1
+反复	fan fu	1
+颠倒	dian dao	1
+音到	yin dao	1
+乌浩	wu hao	1
+奴冬切	nu dong qie	1
+若少	ruo shao	1
+得二升	de er sheng	1
+分为	fen wei	1
+汤豉	tang shi	1
+窒者	zhi zhe	1
+结痛者	jie tong zhe	1
+水浸	shui jin	1
+炙令	zhi ling	1
+凡用	fan yong	1
+旧微	jiu wei	1
+一作僻	yi zuo pi	1
+地者	di zhe	1
+淋家	lin jia	1
+疮家	chuang jia	1
+虽身	sui shen	1
+必额	bi e	1
+陷脉	xian mai	1
+急紧	ji jin	1
+音唤	yin huan	1
+胡绢切	hu juan qie	1
+亡血家	wang xue jia	1
+汗家	han jia	1
+恍惚	huang hu	1
+阴疼	yin teng	1
+方本	fang ben	1
+若先	ruo xian	1
+本先	ben xian	1
+清谷	qing gu	1
+救里	jiu li	1
+自调者	zi diao zhe	1
+救表	jiu biao	1
+救里宜	jiu li yi	1
+救表宜	jiu biao yi	1
+四十五	si shi wu	1
+反沉	fan chen	1
+若不差	ruo bu cha	1
+当救	dang jiu	1
+冒家	mao jia	1
+出表	chu biao	1
+然后	ran hou	1
+病未解	bing wei jie	1
+俱停	ju ting	1
+必先振	bi xian zhen	1
+先汗	xian han	1
+微一作	wei yi zuo	1
+下之而解	xia zhi er jie	1
+若欲下	ruo yu xia	1
+宜调	yi diao	1
+四十六	si shi liu	1
+一云用	yi yun yong	1
+荣弱	rong ruo	1
+卫强	wei qiang	1
+四十七	si shi qi	1
+苦满	ku man	1
+喜呕	xi ou	1
+或胁	huo xie	1
+或心	huo xin	1
+四十八	si shi ba	1
+参合	can he	1
+前成	qian cheng	1
+若胁	ruo xie	1
+若不渴	ruo bu ke	1
+外有	wai you	1
+微热者	wei re zhe	1
+温覆微	wen fu wei	1
+血弱	xue ruo	1
+因入	yin ru	1
+结于	jie yu	1
+正邪	zheng xie	1
+纷争	fen zheng	1
+休作	xiu zuo	1
+其痛	qi tong	1
+邪高痛	xie gao tong	1
+四十九	si shi jiu	1
+浮弱	fu ruo	1
+而胁	er xie	1
+满痛	man tong	1
+面目	mian mu	1
+及身	ji shen	1
+必下重	bi xia zhong	1
+本渴	ben ke	1
+汤不中	tang bu zhong	1
+食谷者	shi gu zhe	1
+温而	wen er	1
+中汤	zhong tang	1
+五十一	wu shi yi	1
+胶饴	jiao yi	1
+内饴	nei yi	1
+消解	xiao jie	1
+建中	jian zhong	1
+以甜	yi tian	1
+但见	dan jian	1
+一症	yi zheng	1
+便是	bian shi	1
+悉具	xi ju	1
+汤病证	tang bing zheng	1
+证不罢者	zheng bu ba zhe	1
+热汗	re han	1
+五十二	wu shi er	1
+第五十一	di wu shi yi	1
+呕止	ou zhi	1
+小安	xiao an	1
+五十三	wu shi san	1
+恐不为	kong bu wei	1
+下之以	xia zhi yi	1
+其治	qi zhi	1
+先宜服	xian yi fu	1
+汤以	tang yi	1
+后以	hou yi	1
+加芒	jia mang	1
+消汤主	xiao tang zhu	1
+五十四	wu shi si	1
+微沸	wei fei	1
+反下利	fan xia li	1
+调和	tiao he	1
+非其治	fei qi zhi	1
+反和者	fan he zhe	1
+五十五	wu shi wu	1
+如狂	ru kuang	1
+血自下	xue zi xia	1
+解其外	jie qi wai	1
+外解	wai jie	1
+但少	dan shao	1
+腹急	fu ji	1
+结者	jie zhe	1
+桃核	tao he	1
+五十六	wu shi liu	1
+后云	hou yun	1
+微沸下	wei fei xia	1
+胸满烦	xiong man fan	1
+尽重	jin zhong	1
+五十七	wu shi qi	1
+铅丹	qian dan	1
+各一	ge yi	1
+切如	qie ru	1
+五十八	wu shi ba	1
+其腹	qi fu	1
+必满	bi man	1
+反躁	fan zao	1
+凡熨其	fan yun qi	1
+大热入	da re ru	1
+烧瓦	shao wa	1
+水竭	shui jie	1
+振栗	zhen li	1
+故其汗	gu qi han	1
+反呕	fan ou	1
+欲失	yu shi	1
+足下	zu xia	1
+反不数	fan bu shu	1
+卓然	zhuo ran	1
+而痛	er tong	1
+其人足心	qi ren zu xin	1
+必热	bi re	1
+下流	xia liu	1
+以火劫	yi huo jie	1
+火热	huo re	1
+流溢	liu yi	1
+失其常度	shi qi chang du	1
+两阳	liang yang	1
+相熏	xiang xun	1
+阳盛则	yang sheng ze	1
+俱虚竭	ju xu jie	1
+枯燥	ku zao	1
+咽烂	yan lan	1
+甚则	shen ze	1
+躁扰	zao rao	1
+衣摸床	yi mo chuang	1
+火迫	huo po	1
+必惊狂	bi jing kuang	1
+救逆	jiu ni	1
+六十	liu shi	1
+形作	xing zuo	1
+紧而弱	jin er ruo	1
+必渴	bi ke	1
+解之当	jie zhi dang	1
+以火	yi huo	1
+必躁	bi zao	1
+到经	dao jing	1
+必清血	bi qing xue	1
+火邪	huo xie	1
+浮热	fu re	1
+反灸	fan jiu	1
+实以	shi yi	1
+虚治	xu zhi	1
+因火而动	yin huo er dong	1
+必咽燥	bi yan zao	1
+吐血	tu xie	1
+微数	wei shu	1
+因火为	yin huo wei	1
+追虚	zhui xu	1
+逐实	zhu shi	1
+血散	xue san	1
+虽微	sui wei	1
+内攻	nei gong	1
+有力	you li	1
+骨伤	gu shang	1
+血难复	xue nan fu	1
+用火灸	yong huo jiu	1
+无从	wu cong	1
+因火	yin huo	1
+名火	ming huo	1
+自解者	zi jie zhe	1
+烦乃有	fan nai you	1
+针处	zhen chu	1
+核起	he qi	1
+腹上	fu shang	1
+冲心者	chong xin zhe	1
+核上	he shang	1
+各一壮	ge yi zhuang	1
+加桂汤	jia gui tang	1
+更加	geng jia	1
+六十一	liu shi yi	1
+今加桂满	jin jia gui man	1
+加桂者	jia gui zhe	1
+以能	yi neng	1
+火逆	huo ni	1
+因烧针	yin shao zhen	1
+六十二	liu shi er	1
+针必	zhen bi	1
+医吐之过	yi tu zhi guo	1
+欲食	yu shi	1
+冷食	leng shi	1
+朝食	chao shi	1
+以医吐	yi yi tu	1
+病吐	bing tu	1
+不欲近	bu yu jin	1
+反吐者	fan tu zhe	1
+脉乃数	mai nai shu	1
+客热	ke re	1
+故吐	gu tu	1
+反溏	fan tang	1
+此时	ci shi	1
+自极	zi ji	1
+极吐下	ji tu xia	1
+六十三	liu shi san	1
+反不结	fan bu jie	1
+当硬满	dang ying man	1
+随经	sui jing	1
+六十四	liu shi si	1
+沉结	chen jie	1
+狂者	kuang zhe	1
+血证	xue zheng	1
+六十五	liu shi wu	1
+余药	yu yao	1
+当丸	dang wan	1
+二十五个	er shi wu ge	1
+捣分	dao fen	1
+四丸	si wan	1
+取七合服	qu qi he fu	1
+必心	bi xin	1
+必苦里	bi ku li	1
+并治下	bing zhi xia	1
+有藏结	you cang jie	1
+其状	qi zhuang	1
+何如	he ru	1
+按之痛	an zhi tong	1
+何为	he wei	1
+小细	xiao xi	1
+白胎	bai tai	1
+阳证	yang zheng	1
+一云寒	yi yun han	1
+反静	fan jing	1
+胎滑者	tai hua zhe	1
+病发	bing fa	1
+于阳	yu yang	1
+因作	yin zuo	1
+病发于	bing fa yu	1
+因作痞	yin zuo pi	1
+之太早	zhi tai zao	1
+结胸者	jie xiong zhe	1
+项亦强	xiang yi qiang	1
+宜大陷	yi da xian	1
+胸丸	xiong wan	1
+合研	he yan	1
+如脂	ru zhi	1
+取如	qu ru	1
+弹丸	dan wan	1
+甘遂末	gan sui mo	1
+白蜜	bai mi	1
+水二升	shui er sheng	1
+取下	qu xia	1
+为效	wei xiao	1
+禁如	jin ru	1
+药法	yao fa	1
+结胸证	jie xiong zheng	1
+证悉	zheng xi	1
+浮而动数	fu er dong shu	1
+动数	dong shu	1
+变迟	bian chi	1
+拒痛	ju tong	1
+即眩	ji xuan	1
+若不结	ruo bu jie	1
+余处	yu chu	1
+消一升	xiao yi sheng	1
+内甘遂	nei gan sui	1
+快利	kuai li	1
+热实	re shi	1
+沉而紧	chen er jin	1
+心下痛	xin xia tong	1
+按之石	an zhi shi	1
+水结	shui jie	1
+恐不名	kong bu ming	1
+所小有	suo xiao you	1
+心胸	xin xiong	1
+从心	cong xin	1
+至少	zhi shao	1
+近者	jin zhe	1
+小结	xiao jie	1
+胸病	xiong bing	1
+正在	zheng zai	1
+按之则	an zhi ze	1
+寒分	han fen	1
+若利止	ruo li zhi	1
+必作	bi zuo	1
+作协	zuo xie	1
+热利	re li	1
+其脉促	qi mai cu	1
+必咽	bi yan	1
+必两胁	bi liang xie	1
+沉滑者	chen hua zhe	1
+协热利	xie re li	1
+病在阳	bing zai yang	1
+应以	ying yi	1
+反以	fan yi	1
+被劫	bei jie	1
+弥更益	mi geng yi	1
+肉上	rou shang	1
+粟起	su qi	1
+意欲	yi yu	1
+反不渴	fan bu ke	1
+寒实	han shi	1
+白散	bai san	1
+小白散	xiao bai san	1
+散方	san fang	1
+黑皮	hei pi	1
+白散方	bai san fang	1
+研如脂	yan ru zhi	1
+贝母	bei mu	1
+半钱	ban qian	1
+羸者	lei zhe	1
+必利	bi li	1
+进热	jin re	1
+利过	li guo	1
+进冷	jin leng	1
+皮粟	pi su	1
+引衣	yin yi	1
+自覆	zi fu	1
+若以	ruo yi	1
+益令	yi ling	1
+热劫	re jie	1
+或眩	huo xuan	1
+时如结	shi ru jie	1
+第一间	di yi jian	1
+热除	re chu	1
+下满	xia man	1
+而取	er qu	1
+适断	shi duan	1
+暮则	mu ze	1
+状者	zhuang zhe	1
+无犯	wu fan	1
+上二焦	shang er jiao	1
+支节	zhi jie	1
+微呕	wei ou	1
+支结	zhi jie	1
+汤作	tang zuo	1
+复如	fu ru	1
+今用	jin yong	1
+作半剂	zuo ban ji	1
+满微结	man wei jie	1
+渴而	ke er	1
+复服	fu fu	1
+头汗	tou han	1
+口不欲食	kou bu yu shi	1
+脉细者	mai xi zhe	1
+微结	wei jie	1
+必有表	bi you biao	1
+为阳微	wei yang wei	1
+纯阴结	chun yin jie	1
+悉入	xi ru	1
+今头	jin tou	1
+汤证具	tang zheng ju	1
+不为	bu wei	1
+紧反入	jin fan ru	1
+作痞	zuo pi	1
+气痞	qi pi	1
+引胁	yin xie	1
+下痛	xia tong	1
+十枣	shi zao	1
+芫花	yuan hua	1
+大戟	da ji	1
+取八合	qu ba he	1
+内药末	nei yao mo	1
+服一钱	fu yi qian	1
+羸人	lei ren	1
+服半钱	fu ban qian	1
+平旦服	ping dan fu	1
+若下少	ruo xia shao	1
+加半钱	jia ban qian	1
+糜粥	mi zhou	1
+自养	zi yang	1
+因复	yin fu	1
+无阳则	wu yang ze	1
+阴独	yin du	1
+因胸烦	yin xiong fan	1
+青黄	qing huang	1
+今色	jin se	1
+微黄	wei huang	1
+易愈	yi yu	1
+其脉关	qi mai guan	1
+上浮	shang fu	1
+诸本	zhu ben	1
+中亦有	zhong yi you	1
+故后	gu hou	1
+故心	gu xin	1
+渴而口燥	ke er kou zao	1
+日乃愈	ri nai yu	1
+第七	di qi	1
+证方	zheng fang	1
+同体	tong ti	1
+别名	bie ming	1
+并泻	bing xie	1
+肝法	gan fa	1
+数十行	shu shi xing	1
+谷不化	gu bu hua	1
+医见	yi jian	1
+不尽	bu jin	1
+痞益	pi yi	1
+结热	jie re	1
+详泻	xiang xie	1
+心以	xin yi	1
+疗痞	liao pi	1
+痞气	pi qi	1
+阴而生	yin er sheng	1
+泻心	xie xin	1
+本于	ben yu	1
+理中	li zhong	1
+其方必	qi fang bi	1
+各有	ge you	1
+无者	wu zhe	1
+匿虫	ni chong	1
+此方	ci fang	1
+无疑	wu yi	1
+复以	fu yi	1
+医以理	yi yi li	1
+理中者	li zhong zhe	1
+此利	ci li	1
+当利	dang li	1
+太一	tai yi	1
+甚微	shen wei	1
+胁下痛	xie xia tong	1
+经脉	jing mai	1
+动惕者	dong ti zhe	1
+成痿	cheng wei	1
+除者	chu zhe	1
+旋覆代	xuan fu dai	1
+旋覆花	xuan fu hua	1
+黄耳杯	huang er bei	1
+未除	wei chu	1
+数下	shu xia	1
+协热而利	xie re er li	1
+利下	li xia	1
+别切	bie qie	1
+内桂	nei gui	1
+第十七	di shi qi	1
+病如	bing ru	1
+项不强	xiang bu qiang	1
+微浮	wei fu	1
+冲喉	chong hou	1
+息者	xi zhe	1
+胸有	xiong you	1
+取一钱	qu yi qian	1
+以香豉	yi xiang shi	1
+病胁	bing xie	1
+素有	su you	1
+痛引少	tong yin shao	1
+阴筋者	yin jin zhe	1
+俱热	ju re	1
+数升者	shu sheng zhe	1
+此方立	ci fang li	1
+夏后	xia hou	1
+立秋前	li qiu qian	1
+可服	ke fu	1
+秋后	qiu hou	1
+尚凛冷	shang lin leng	1
+呕利	ou li	1
+可温	ke wen	1
+背微	bei wei	1
+无表	wu biao	1
+强而	qiang er	1
+眩者	xuan zhe	1
+勿下	wu xia	1
+呕吐者	ou tu zhe	1
+三夜	san ye	1
+自转	zi zhuan	1
+浮虚而涩	fu xu er se	1
+一云脐	yi yun qi	1
+下心	xia xin	1
+如痹	ru bi	1
+许复服	xu fu fu	1
+皮内	pi nei	1
+未得	wei de	1
+二法	er fa	1
+不硬	bu ying	1
+当加桂	dang jia gui	1
+恐多	kong duo	1
+虚弱	xu ruo	1
+家及	jia ji	1
+产妇	chan fu	1
+减服	jian fu	1
+掣痛	che tong	1
+近之则	jin zhi ze	1
+痛剧	tong ju	1
+不欲去	bu yu qu	1
+或身	huo shen	1
+微肿者	wei zhong zhe	1
+服得	fu de	1
+汗止	han zhi	1
+复烦者	fu fan zhe	1
+服五合	fu wu he	1
+恐一升	kong yi sheng	1
+六七	liu qi	1
+以表有	yi biao you	1
+前篇云	qian pian yun	1
+俱热者	ju re zhe	1
+表有	biao you	1
+差矣	cha yi	1
+浮迟	fu chi	1
+自差	zi cha	1
+明矣	ming yi	1
+云白通	yun bai tong	1
+结代	jie dai	1
+心动	xin dong	1
+生地黄	sheng di huang	1
+麻仁	ma ren	1
+水八升	shui ba sheng	1
+消尽	xiao jin	1
+一名	yi ming	1
+复脉	fu mai	1
+来动	lai dong	1
+更来	geng lai	1
+小数	xiao shu	1
+中有	zhong you	1
+反动	fan dong	1
+脉来动	mai lai dong	1
+因而	yin er	1
+复动者	fu dong zhe	1
+此脉者	ci mai zhe	1
+脉证	mai zheng	1
+十首	shi shou	1
+脾约	pi yue	1
+一云络	yi yun luo	1
+难是	nan shi	1
+一作寒	yi zuo han	1
+云何	yun he	1
+虽得	sui de	1
+出而恶	chu er e	1
+何故	he gu	1
+自罢	zi ba	1
+居中	ju zhong	1
+主土	zhu tu	1
+万物	wan wu	1
+所归	suo gui	1
+无所复	wu suo fu	1
+然者	ran zhe	1
+转属	zhuan shu	1
+脉大	mai da	1
+身当	shen dang	1
+转系	zhuan xi	1
+然微	ran wei	1
+名中寒	ming zhong han	1
+若中	ruo zhong	1
+作固	zuo gu	1
+初硬后	chu ying hou	1
+不别	bu bie	1
+初欲食	chu yu shi	1
+翕如	xi ru	1
+热状	re zhuang	1
+奄然	yan ran	1
+此水	ci shui	1
+申至戌上	shen zhi xu shang	1
+冷故	leng gu	1
+食难用	shi nan yong	1
+饱则	bao ze	1
+此欲作	ci yu zuo	1
+虽下	sui xia	1
+如虫	ru chong	1
+行皮	xing pi	1
+中状者	zhong zhuang zhe	1
+必苦	bi ku	1
+故能	gu neng	1
+其人咽	qi ren yan	1
+咽不痛	yan bu tong	1
+但欲漱水	dan yu shu shui	1
+咽者	yan zhe	1
+医更重	yi geng zhong	1
+尚微烦	shang wei fan	1
+硬故	ying gu	1
+当问	dang wen	1
+几行	ji xing	1
+若本	ruo ben	1
+四行	si xing	1
+今日	jin ri	1
+再行	zai xing	1
+今为	jin wei	1
+数少	shu shao	1
+呕多	ou duo	1
+有阳明	you yang ming	1
+面合色	mian he se	1
+不吐	bu tu	1
+以调	yi diao	1
+虽汗	sui han	1
+此外	ci wai	1
+外未解	wai wei jie	1
+不潮	bu chao	1
+腹大满	fu da man	1
+泄下	xie xia	1
+汤当	tang dang	1
+尽饮	jin yin	1
+微硬者	wei ying zhe	1
+不硬者	bu ying zhe	1
+恐有燥	kong you zao	1
+知之法	zhi zhi fa	1
+汤入	tang ru	1
+水则	shui ze	1
+复硬	fu ying	1
+失气者	shi qi zhe	1
+郑声	zheng sheng	1
+郑声者	zheng sheng zhe	1
+重语	zhong yu	1
+喘满者	chuan man zhe	1
+短者	duan zhe	1
+独语	du yu	1
+发则	fa ze	1
+循衣	xun yi	1
+一云顺	yi yun shun	1
+衣妄	yi wang	1
+后服	hou fu	1
+外出	wai chu	1
+止者	zhi zhe	1
+更莫复服	geng mo fu fu	1
+疾者	ji zhe	1
+反微涩	fan wei se	1
+必有燥	bi you zao	1
+而泻	er xie	1
+出则	chu ze	1
+以有燥	yi you zao	1
+必乱	bi luan	1
+以表虚里	yi biao xu li	1
+实故	shi gu	1
+下之愈	xia zhi yu	1
+沉而喘满	chen er chuan man	1
+反发	fan fa	1
+越出	yue chu	1
+表虚里实	biao xu li shi	1
+口不仁	kou bu ren	1
+面垢	mian gou	1
+一云向经	yi yun xiang jing	1
+遗尿	yi niao	1
+生汗	sheng han	1
+证罢	zheng ba	1
+但发	dan fa	1
+咽燥	yan zao	1
+心愦	xin kui	1
+公对切	gong dui qie	1
+苔者	tai zhe	1
+快吐者	kuai tu zhe	1
+口干舌燥	kou gan she zao	1
+中燥	zhong zao	1
+若胃	ruo wei	1
+鼻燥	bi zao	1
+其外	qi wai	1
+第十一	di shi yi	1
+满不去	man bu qu	1
+白胎者	bai tai zhe	1
+得通	de tong	1
+浮大而	fu da er	1
+目悉	mu xi	1
+小差	xiao cha	1
+病过	bing guo	1
+脉续	mai xu	1
+无余	wu yu	1
+症者	zheng zhe	1
+腹满加	fu man jia	1
+内竭	nei jie	1
+虽硬	sui ying	1
+自欲	zi yu	1
+宜蜜	yi mi	1
+导而通	dao er tong	1
+若土瓜	ruo tu gua	1
+根及	gen ji	1
+为导	wei dao	1
+蜜煎方	mi jian fang	1
+食蜜七合	shi mi qi he	1
+铜器	tong qi	1
+凝如	ning ru	1
+饴状	yi zhuang	1
+搅之勿令	jiao zhi wu ling	1
+焦著	jiao zhu	1
+可丸	ke wan	1
+并手	bing shou	1
+捻作	nian zuo	1
+令头锐	ling tou rui	1
+大如指	da ru zhi	1
+二寸	er cun	1
+当热时	dang re shi	1
+急作	ji zuo	1
+冷则	leng ze	1
+谷道	gu dao	1
+以手	yi shou	1
+时乃去	shi nai qu	1
+已试	yi shi	1
+甚良	shen liang	1
+泻汁	xie zhi	1
+少许	shao xu	1
+法醋	fa cu	1
+灌谷	guan gu	1
+如一	ru yi	1
+出宿食	chu su shi	1
+恶物	e wu	1
+甚效	shen xiao	1
+取汗	qu han	1
+热越	re yue	1
+浆者	jiang zhe	1
+茵陈	yin chen	1
+减六升	jian liu sheng	1
+皂荚	zao jia	1
+色正	se zheng	1
+从小	cong xiao	1
+明证	ming zheng	1
+喜忘者	xi wang zhe	1
+必有	bi you	1
+畜血	chu xue	1
+反易	fan yi	1
+其色	qi se	1
+黑者	hei zhe	1
+若有燥	ruo you zao	1
+绕脐痛	rao qi tong	1
+宜下	yi xia	1
+浮虚者	fu xu zhe	1
+第二十一	di er shi yi	1
+难乍易	nan zha yi	1
+时有	shi you	1
+食谷	shi gu	1
+反剧者	fan ju zhe	1
+寸缓	cun huan	1
+关浮	guan fu	1
+尺弱	chi ruo	1
+痞者	pi zhe	1
+此转	ci zhuan	1
+无所苦	wu suo ku	1
+以法	yi fa	1
+为阳	wei yang	1
+绝于	jue yu	1
+胃气生	wei qi sheng	1
+胃气强	wei qi qiang	1
+浮涩	fu se	1
+其脾为	qi pi wei	1
+仁丸主	ren wan zhu	1
+仁二升	ren er sheng	1
+一尺	yi chi	1
+别作脂	bie zuo zhi	1
+蜜和丸	mi he wan	1
+渐加	jian jia	1
+以知	yi zhi	1
+为度	wei du	1
+蒸发热	zheng fa re	1
+吐后	tu hou	1
+因硬者	yin ying zhe	1
+虽能	sui neng	1
+令小安	ling xiao an	1
+虽不受	sui bu shou	1
+未定	wei ding	1
+成硬	cheng ying	1
+不减	bu jian	1
+必下利	bi xia li	1
+不负	bu fu	1
+负者	fu zhe	1
+互相	hu xiang	1
+克贼	ke zei	1
+虽脉	sui mai	1
+已下	yi xia	1
+合热则	he re ze	1
+喜饥	xi ji	1
+当汤	dang tang	1
+第二十四	di er shi si	1
+若脉数	ruo mai shu	1
+必协热	bi xie re	1
+身目	shen mu	1
+一作温	yi zuo wen	1
+以为	yi wei	1
+中求	zhong qiu	1
+身黄如	shen huang ru	1
+橘子	ju zi	1
+腹微	fu wei	1
+第十三	di shi san	1
+柏皮	bai pi	1
+连翘	lian qiao	1
+根是	gen shi	1
+四十个	si shi ge	1
+生梓	sheng zi	1
+白皮	bai pi	1
+以潦水	yi lao shui	1
+再沸	zai fei	1
+服尽	fu jin	1
+一首	yi shou	1
+目眩	mu xuan	1
+两耳无所闻	liang er wu suo wen	1
+目赤	mu chi	1
+脉弦细	mai xian xi	1
+烦而悸	fan er ji	1
+一云躁	yi yun zao	1
+目合	mu he	1
+阴故	yin gu	1
+三阴	san yin	1
+当受	dang shou	1
+反能	fan neng	1
+阴不受	yin bu shou	1
+脉小者	mai xiao zhe	1
+从寅	cong yin	1
+至辰	zhi chen	1
+三首	san shou	1
+时腹	shi fu	1
+自痛	zi tong	1
+必胸下	bi xiong xia	1
+结硬	jie ying	1
+阴涩	yin se	1
+从亥至	cong hai zhi	1
+温覆取	wen fu qu	1
+藏有	cang you	1
+寒故	han gu	1
+四逆辈	si ni bei	1
+系在	xi zai	1
+当发身	dang fa shen	1
+虽暴烦	sui bao fan	1
+以脾家实	yi pi jia shi	1
+腐秽	fu hui	1
+当去	dang qu	1
+因尔腹	yin er fu	1
+满时	man shi	1
+其人续	qi ren xu	1
+设当行	she dang xing	1
+宜减	yi jian	1
+以其人	yi qi ren	1
+胃气弱	wei qi ruo	1
+易动	yi dong	1
+二沸	er fei	1
+并治合	bing zhi he	1
+引水	yin shui	1
+自救	zi jiu	1
+病形悉	bing xing xi	1
+白者	bai zhe	1
+焦虚	jiao xu	1
+制水	zhi shui	1
+故令色	gu ling se	1
+强责	qiang ze	1
+沉数	chen shu	1
+病为	bing wei	1
+阳已	yang yi	1
+弱涩	ruo se	1
+自下利	zi xia li	1
+暴微	bao wei	1
+反温	fan wen	1
+反去	fan qu	1
+虽烦	sui fan	1
+若利	ruo li	1
+时自烦	shi zi fan	1
+阴浮者	yin fu zhe	1
+从子	cong zi	1
+至寅上	zhi yin shang	1
+不逆冷	bu ni leng	1
+一作足	yi zuo zu	1
+七壮	qi zhuang	1
+尽热者	jin re zhe	1
+但厥	dan jue	1
+强发	qiang fa	1
+必动	bi dong	1
+从何	cong he	1
+从口	cong kou	1
+从目	cong mu	1
+名下	ming xia	1
+上竭	shang jie	1
+四逆者	si ni zhe	1
+下利止	xia li zhi	1
+自冒者	zi mao zhe	1
+而身	er shen	1
+躁者	zao zhe	1
+吐利而躁	tu li er zao	1
+逆者	ni zhe	1
+自欲吐	zi yu tu	1
+卧寐者	wo mei zhe	1
+汤微	tang wei	1
+无证	wu zheng	1
+故微	gu wei	1
+一云三挺	yi yun san ting	1
+搅令	jiao ling	1
+其背	qi bei	1
+当灸	dang jiu	1
+全用	quan yong	1
+筛末	shai mo	1
+令熟	ling shu	1
+死者	si zhe	1
+胸满	xiong man	1
+加白蜜	jia bai mi	1
+白粉	bai fen	1
+六服	liu fu	1
+中伤	zhong shang	1
+生疮	sheng chuang	1
+破如	po ru	1
+枣核	zao he	1
+内上	nei shang	1
+环中	huan zhong	1
+安火上	an huo shang	1
+令三沸	ling san fei	1
+含咽	han yan	1
+三剂	san ji	1
+咽中痛	yan zhong tong	1
+散及	san ji	1
+捣散	dao san	1
+服者	fu zhe	1
+煎七沸	jian qi fei	1
+内散	nei san	1
+三沸	san fei	1
+下火令	xia huo ling	1
+有毒	you du	1
+散服	san fu	1
+逆无脉	ni wu mai	1
+脉暴	mai bao	1
+微续者	wei xu zhe	1
+人尿五合	ren niao wu he	1
+人尿	ren niao	1
+若无胆	ruo wu dan	1
+不已	bu yi	1
+沉重	chen zhong	1
+身反	shen fan	1
+或利止	huo li zhi	1
+加葱	jia cong	1
+九茎	jiu jing	1
+或悸	huo ji	1
+四逆散	si ni san	1
+炙干	zhi gan	1
+十分	shi fen	1
+主下利	zhu xia li	1
+炮令	pao ling	1
+先以	xian yi	1
+水五升	shui wu sheng	1
+薤白	xie bai	1
+三升	san sheng	1
+以散	yi san	1
+内汤	nei tang	1
+呕渴	ou ke	1
+四物	si wu	1
+干者	gan zhe	1
+清水	qing shui	1
+色纯	se chun	1
+一法用	yi fa yong	1
+腹胀	fu zhang	1
+急温	ji wen	1
+方依上	fang yi shang	1
+呕而汗	ou er han	1
+必数	bi shu	1
+脉经	mai jing	1
+并治厥利	bing zhi jue li	1
+十六首	shi liu shou	1
+撞心	zhuang xin	1
+疼热	teng re	1
+饥而	ji er	1
+食则	shi ze	1
+下之利	xia zhi li	1
+不浮	bu fu	1
+卯上	mao shang	1
+诸四逆厥者	zhu si ni jue zhe	1
+虚家	xu jia	1
+而利者	er li zhe	1
+见厥	jian jue	1
+凡厥	fan jue	1
+恐为	kong wei	1
+消中	xiao zhong	1
+食以	shi yi	1
+索饼	suo bing	1
+知胃	zhi wei	1
+气尚	qi shang	1
+必愈	bi yu	1
+暴热	bao re	1
+来出	lai chu	1
+日脉	ri mai	1
+其热续	qi re xu	1
+期之旦	qi zhi dan	1
+故期	gu qi	1
+之旦	zhi dan	1
+汤彻	tang che	1
+汤复	tang fu	1
+应冷	ying leng	1
+而利必	er li bi	1
+不痹	bu bi	1
+前热者	qian re zhe	1
+必厥	bi jue	1
+深者	shen zhe	1
+热亦深	re yi shen	1
+热亦微	re yi wei	1
+应下	ying xia	1
+必口	bi kou	1
+伤烂	shang lan	1
+伤寒病	shang han bing	1
+当复厥	dang fu jue	1
+凡厥者	fan jue zhe	1
+气不相	qi bu xiang	1
+顺接	shun jie	1
+微而厥	wei er jue	1
+肤冷	fu leng	1
+暂安时者	zan an shi zhe	1
+藏厥	cang jue	1
+时烦者	shi fan zhe	1
+藏寒	cang han	1
+复止	fu zhi	1
+得食	de shi	1
+蛔闻食	hui wen shi	1
+臭出	chou chu	1
+其人常	qi ren chang	1
+自吐	zi tu	1
+丸主	wan zhu	1
+久利	jiu li	1
+三百	san bai	1
+十两	shi liang	1
+十六两	shi liu liang	1
+蜀椒	shu jiao	1
+出汗	chu han	1
+右十味	you shi wei	1
+去核	qu he	1
+五斗	wu dou	1
+饭熟	fan shu	1
+捣成	dao cheng	1
+药令	yao ling	1
+内臼	nei jiu	1
+二千	er qian	1
+稍加	shao jia	1
+滑物	hua wu	1
+臭食	chou shi	1
+指一作	zhi yi zuo	1
+头寒	tou han	1
+此热除	ci re chu	1
+烦满者	fan man zhe	1
+小腹	xiao fu	1
+此冷结	ci leng jie	1
+关元	guan yuan	1
+复热	fu re	1
+热不除	re bu chu	1
+热反	re fan	1
+复厥	fu jue	1
+下利至	xia li zhi	1
+其人汗	qi ren han	1
+阴无阳	yin wu yang	1
+脉虚	mai xu	1
+复厥者	fu jue zhe	1
+可灸	ke jiu	1
+脉滑	mai hua	1
+而厥者	er jue zhe	1
+六升	liu sheng	1
+五服	wu fu	1
+水酒	shui jiu	1
+各四升	ge si sheng	1
+热不去	re bu qu	1
+内拘急	nei ju ji	1
+可用	ke yong	1
+若大下	ruo da xia	1
+利而厥	li er jue	1
+邪结	xie jie	1
+满而烦	man er fan	1
+各等分	ge deng fen	1
+合内	he nei	1
+别以	bie yi	1
+宜先	yi xian	1
+当服	dang fu	1
+却治	que zhi	1
+其厥	qi jue	1
+必作利	bi zuo li	1
+下部	xia bu	1
+喉咽	hou yan	1
+泄利	xie li	1
+萎蕤	wei rui	1
+菖蒲	chang pu	1
+天门冬	tian men dong	1
+相去	xiang qu	1
+如炊	ru chui	1
+三斗	san dou	1
+米顷	mi qing	1
+令尽	ling jin	1
+转气	zhuan qi	1
+趋少	qu shao	1
+腹者	fu zhe	1
+本自寒	ben zi han	1
+医复	yi fu	1
+寒格	han ge	1
+更逆吐下	geng ni tu xia	1
+若食	ruo shi	1
+微热汗	wei re han	1
+设复紧	she fu jin	1
+设脉	she mai	1
+浮复紧	fu fu jin	1
+无脉者	wu mai zhe	1
+不温	bu wen	1
+反微	fan wei	1
+阳者	yang zhe	1
+反浮数	fan fu shu	1
+攻表	gong biao	1
+出必	chu bi	1
+沉弦者	chen xian zhe	1
+脉大者	mai da zhe	1
+人面	ren mian	1
+少赤	shao chi	1
+必郁	bi yu	1
+冒汗	mao han	1
+必微厥	bi wei jue	1
+戴阳	dai yang	1
+下虚故	xia xu gu	1
+设不差	she bu cha	1
+脉绝	mai jue	1
+时脉	shi mai	1
+下利日	xia li ri	1
+反实者	fan shi zhe	1
+出而厥者	chu er jue zhe	1
+热利下	re li xia	1
+秦皮	qin pi	1
+先温	xian wen	1
+乃攻	nai gong	1
+温里宜	wen li yi	1
+攻表宜	gong biao yi	1
+宜小	yi xiao	1
+尽服	jin fu	1
+更烦	geng fan	1
+按之心	an zhi xin	1
+下濡者	xia ru zhe	1
+脓者	nong zhe	1
+治呕	zhi ou	1
+脓尽	nong jin	1
+呕而脉	ou er mai	1
+见厥者	jian jue zhe	1
+汤洗	tang xi	1
+七遍	qi bian	1
+大吐大下	da tu da xia	1
+极虚	ji xu	1
+复极	fu ji	1
+外气	wai qi	1
+之水	zhi shui	1
+以发	yi fa	1
+寒冷	han leng	1
+视其	shi qi	1
+知何部	zhi he bu	1
+利之即	li zhi ji	1
+吐利者	tu li zhe	1
+何病	he bing	1
+自吐下	zi tu xia	1
+本是	ben shi	1
+今是	jin shi	1
+至阴	zhi yin	1
+经上	jing shang	1
+阴必利	yin bi li	1
+本呕	ben ou	1
+欲似	yu shi	1
+反失气	fan shi qi	1
+经尽	jing jin	1
+当便	dang bian	1
+经中	jing zhong	1
+复过	fu guo	1
+一经	yi jing	1
+日当	ri dang	1
+不属	bu shu	1
+方下	fang xia	1
+有作	you zuo	1
+汤加减	tang jia jian	1
+夜二服	ye er fu	1
+未热	wei re	1
+益至	yi zhi	1
+汤法	tang fa	1
+以四物	yi si wu	1
+两数切	liang shu qie	1
+八升	ba sheng	1
+若脐	ruo qi	1
+上筑者	shang zhu zhe	1
+用术	yong shu	1
+渴欲得	ke yu de	1
+水者	shui zhe	1
+加术	jia shu	1
+腹满者	fu man zhe	1
+饮热	yin re	1
+一升许	yi sheng xu	1
+微自温	wei zi wen	1
+发揭	fa jie	1
+吐利止	tu li zhi	1
+身痛	shen tong	1
+和解	he jie	1
+吐利汗	tu li han	1
+既吐且	ji tu qie	1
+而大汗	er da han	1
+内寒外	nei han wai	1
+下断	xia duan	1
+出而厥	chu er jue	1
+半合	ban he	1
+内猪	nei zhu	1
+无猪	wu zhu	1
+以羊	yi yang	1
+胆代	dan dai	1
+脉平	mai ping	1
+小烦者	xiao fan zhe	1
+以新虚	yi xin xu	1
+易差	yi cha	1
+阴易	yin yi	1
+体重	ti zhong	1
+少气	shao qi	1
+少腹里	shao fu li	1
+引阴中	yin yin zhong	1
+拘挛	ju luan	1
+热上	re shang	1
+头重	tou zhong	1
+不欲举	bu yu ju	1
+眼中	yan zhong	1
+生花	sheng hua	1
+拘急者	ju ji zhe	1
+近隐处	jin yin chu	1
+取烧	qu shao	1
+作灰	zuo hui	1
+水服	shui fu	1
+即利	ji li	1
+阴头	yin tou	1
+微肿	wei zhong	1
+妇人病	fu ren bing	1
+烧服	shao fu	1
+以清	yi qing	1
+浆水	jiang shui	1
+空煮	kong zhu	1
+下豉	xia shi	1
+五六	wu liu	1
+覆令	fu ling	1
+如博	ru bo	1
+服之愈	fu zhi yu	1
+以汗解	yi han jie	1
+沉实	chen shi	1
+一作紧	yi zuo jin	1
+解之	jie zhi	1
+水洗	shui xi	1
+商陆	shang lu	1
+根熬	gen ao	1
+海藻	hai zao	1
+筛为	shai wei	1
+中治	zhong zhi	1
+胸上	xiong shang	1
+温之	wen zhi	1
+宜理	yi li	1
+中丸	zhong wan	1
+羸少气	lei shao qi	1
+气逆欲	qi ni yu	1
+日暮	ri mu	1
+以病	yi bing	1
+新差	xin cha	1
+人强	ren qiang	1
+脾胃	pi wei	1
+气尚弱	qi shang ruo	1
+谷则	gu ze	1
