@@ -1,0 +1,940 @@
+# 生成工具 https://github.com/B-Beginner/rimetool
+# 生成时间 2025-10-05_11-38-22
+# 类型: 长句子级别词典
+---
+name: 温热论•湿热论 (中医临床必读丛书) - 清·薛雪_simple_chinese_output_2025-10-05_11-38-22_long_sentence
+version: "1.0"
+sort: by_weight
+...
+版权页	ban quan ye	1
+图书在版编目(CIP)数据	tu shu zai ban bian mu (CIP) shu ju	1
+温热论/清·叶桂撰 张志斌整理.	wen re lun / qing · ye gui zhuan   zhang zhi bin zheng li	1
+湿热论/清·薛雪著 张志斌整理.—北京：人民卫生出版社,2007.6	shi re lun / qing · xue xue zhu   zhang zhi bin zheng li bei jing ren min wei sheng chu ban she 20076	1
+(中医临床必读丛书)	( zhong yi lin chuang bi du cong shu )	1
+ISBN978─7─117─08661─5	ISBN978─7─117─08661─5	1
+Ⅰ.①温…②湿… Ⅱ.①叶…②张…③薛…④张…Ⅲ.①温病学说─中国─清代②湿热(中医)─中国─清代Ⅳ.R254﹒2 R228	yi ① wen …② shi …  er ① ye …② zhang …③ xue …④ zhang … san ① wen bing xue shuo ─ zhong guo ─ qing dai ② shi re ( zhong yi )─ zhong guo ─ qing dai si R254﹒2 R228	1
+中国版本图书馆CIP数据核字(2007)第054756号	zhong guo ban ben tu shu guan CIP shu ju he zi (2007) di 054756 hao	1
+中医临床必读丛书	zhong yi lin chuang bi du cong shu	1
+温热论 湿热论	wen re lun   shi re lun	1
+撰 者：清·叶桂	zhuan   zhe qing · ye gui	1
+整 理：张志斌	zheng   li zhang zhi bin	1
+著 者：清·薛雪	zhu   zhe qing · xue xue	1
+整 理：张志斌	zheng   li zhang zhi bin	1
+出版发行：人民卫生出版社(中继线010‐67616688)	chu ban fa xing ren min wei sheng chu ban she ( zhong ji xian 010‐67616688)	1
+地 址：北京市朝阳区潘家园南里19号	di   zhi bei jing shi chao yang qu pan jia yuan nan li 19 hao	1
+邮 编：100078	you   bian 100078	1
+网 址：http://www.pmph.com	wang   zhi http//wwwpmphcom	1
+E‐mail:pmph@pmph.com	E‐mailpmph@pmphcom	1
+购书热线：010－67605754 010－65264830 010－59787586 010－59787592	gou shu re xian 010－67605754 010－65264830 010－59787586 010－59787592	1
+印 刷：	yin   shua	1
+经 销：新华书店	jing   xiao xin hua shu dian	1
+开 本：850×1168 1/32 印张：2.25	kai   ben 850×1168 1/32  yin zhang 225	1
+字 数：33千字	zi   shu 33 qian zi	1
+版 次：2007年7月第1版 2007年7月第1版第1次印刷	ban   ci 2007 nian 7 yue di 1 ban  2007 nian 7 yue di 1 ban di 1 ci yin shua	1
+标准书号：ISBN978‐7‐117‐08661‐5/R·8662	biao zhun shu hao ISBN978‐7‐117‐08661‐5/R·8662	1
+定 价：9.00元	ding   jia 900 yuan	1
+版权所有，侵权必究，打击盗版举报电话：010‐59787491 E-mail：WQ＠pmph.com	ban quan suo you qin quan bi jiu da ji dao ban ju bao dian hua 010‐59787491 EmailWQ＠pmphcom	1
+Table of Contents 温热论 温热论文前	Table of Contents  wen re lun   wen re lun wen qian	1
+温热论	wen re lun	1
+湿热论 湿热论文前	shi re lun   shi re lun wen qian	1
+湿热论	shi re lun	1
+温热论	wen re lun	1
+温热论文前	wen re lun wen qian	1
+内容提要	nei rong ti yao	1
+《温热论》（另一传本为《温证论治》）由清代著名中医温病大家叶天士编撰	wen re lun ling yi chuan ben wei wen zheng lun zhi you qing dai zhu ming zhong yi wen bing da jia ye tian shi bian zhuan	1
+内容简短，仅四千余字，却对温病理论与临床有极大的指导价值，对后世温病学的发展起了积极的推动作用，是一部切合临床实用的温病理论性著作	nei rong jian duan jin si qian yu zi que dui wen bing li lun yu lin chuang you ji da de zhi dao jia zhi dui hou shi wen bing xue de fa zhan qi le ji ji de tui dong zuo yong shi yi bu qie he lin chuang shi yong de wen bing li lun xing zhu zuo	1
+叶天士创立的卫气营血辨证方法和辨舌辨齿辨癍疹的诊断方法，对后世的温病学说发展有着重要影响，至今仍是临床辨治外感温热病最为常用的临证辨治方法	ye tian shi chuang li de wei qi ying xue bian zheng fang fa he bian she bian chi bian ban zhen de zhen duan fang fa dui hou shi de wen bing xue shuo fa zhan you zhe zhong yao ying xiang zhi jin reng shi lin chuang bian zhi wai gan wen re bing zui wei chang yong de lin zheng bian zhi fang fa	1
+近年来，不断出现的由新的变异病毒引起的传染性疾病，使以针对病原治疗为特色的现代医学面临严重挑战	jin nian lai bu duan chu xian de you xin de bian yi bing du yin qi de chuan ran xing ji bing shi yi zhen dui bing yuan zhi liao wei te se de xian dai yi xue mian lin yan zhong tiao zhan	1
+而以叶天士创立的卫气营血辨证论治为特色的中医温病治疗方法对现代各种感染性疾病乃至传染性疾病都有重要的临床参考价值，并已引起世界范围的广泛关注	er yi ye tian shi chuang li de wei qi ying xue bian zheng lun zhi wei te se de zhong yi wen bing zhi liao fang fa dui xian dai ge zhong gan ran xing ji bing nai zhi chuan ran xing ji bing dou you zhong yao de lin chuang can kao jia zhi bing yi yin qi shi jie fan wei de guang fan guan zhu	1
+本书是从事中医温病医、教、研人员的重要参考书，对中医各科临床医生均有参考价值	ben shu shi cong shi zhong yi wen bing yi jiao yan ren yuan de zhong yao can kao shu dui zhong yi ge ke lin chuang yi sheng jun you can kao jia zhi	1
+鉴于本书有《温热论》与《温证论治》两种传本，且两书的文字表述有较大的差异，故本次整理以《温热论》为主，其后附出《温证论治》	jian yu ben shu you wen re lun yu wen zheng lun zhi liang zhong chuan ben qie liang shu de wen zi biao shu you jiao da de cha yi gu ben ci zheng li yi wen re lun wei zhu qi hou fu chu wen zheng lun zhi	1
+前者以清乾隆四十二年（1777）卫生堂刻本为底本，后者以乾隆五十七年（1792）吴门唐氏问心草堂刻《吴医汇讲》本为底本，并参照其他刻本重新点校	qian zhe yi qing qian long si shi er nian 1777 wei sheng tang ke ben wei di ben hou zhe yi qian long wu shi qi nian 1792 wu men tang shi wen xin cao tang ke wu yi hui jiang ben wei di ben bing can zhao qi ta ke ben chong xin dian xiao	1
+书前撰有导读，便于读者学习	shu qian zhuan you dao du bian yu du zhe xue xi	1
+导读	dao du	1
+《温热论》（另一传本为《温证论治》）是中医温病学说最重要的著作之一	wen re lun ling yi chuan ben wei wen zheng lun zhi shi zhong yi wen bing xue shuo zui zhong yao de zhu zuo zhi yi	1
+此书是一部切合临床实用的温病理论性著作，全文十分简短，仅四千余字，却对温病理论有了极其关键的创新	ci shu shi yi bu qie he lin chuang shi yong de wen bing li lun xing zhu zuo quan wen shi fen jian duan jin si qian yu zi que dui wen bing li lun you le ji qi guan jian de chuang xin	1
+叶氏原创的卫气营血辨证方法及辨舌辨癍疹的诊断方法，不仅对其后的温病学说发展有着重要影响，至今仍是临床辨治外感温热病最为常用的方法	ye shi yuan chuang de wei qi ying xue bian zheng fang fa ji bian she bian ban zhen de zhen duan fang fa bu jin dui qi hou de wen bing xue shuo fa zhan you zhe zhong yao ying xiang zhi jin reng shi lin chuang bian zhi wai gan wen re bing zui wei chang yong de fang fa	1
+一、《温热论》与作者	yi wen re lun yu zuo zhe	1
+《温热论》的作者是叶桂	wen re lun de zuo zhe shi ye gui	1
+叶桂（1667～1746），字天士，号香岩，江苏吴县人，清代著名的临床医家	ye gui 1667～1746 zi tian shi hao xiang yan jiang su wu xian ren qing dai zhu ming de lin chuang yi jia	1
+叶桂出身于世医之家，自幼随父习医	ye gui chu shen yu shi yi zhi jia zi you sui fu xi yi	1
+14岁丧父，立下业医之志	14 sui sang fu li xia ye yi zhi zhi	1
+此后，他刻苦探求医学，孜孜不倦	ci hou ta ke ku tan qiu yi xue zi zi bu juan	1
+凡有擅长医术者，无论遐迩，均上门以执师礼	fan you shan chang yi shu zhe wu lun xia er jun shang men yi zhi shi li	1
+据说10年之间，从师凡17人	ju shuo 10 nian zhi jian cong shi fan 17 ren	1
+叶氏博采众家，勤于临床，终成显赫医名	ye shi bo cai zhong jia qin yu lin chuang zhong cheng xian he yi ming	1
+据《清史稿》载，他“治病多奇中”，求治者络绎不绝	ju qing shi gao zai ta zhi bing duo qi zhong qiu zhi zhe luo yi bu jue	1
+但是叶氏也因此而忙于医务，无暇著书立说，一生少有著作存世	dan shi ye shi ye yin ci er mang yu yi wu wu xia zhu shu li shuo yi sheng shao you zhu zuo cun shi	1
+此书非叶桂亲笔所成，是他携徒弟游于太湖洞庭山，在舟中口述，由弟子顾景文执笔著录	ci shu fei ye gui qin bi suo cheng shi ta xie tu di you yu tai hu dong ting shan zai zhou zhong kou shu you di zi gu jing wen zhi bi zhu lu	1
+本是叶氏师徒之间的问答授课，原无书名，后因整理者不同而形成两种传本	ben shi ye shi shi tu zhi jian de wen da shou ke yuan wu shu ming hou yin zheng li zhe bu tong er xing cheng liang zhong chuan ben	1
+由华岫云修改整理，书名《温热论》，首刊于清乾隆四十二年（1777）；由唐大烈修改整理，书名《温证论治》，收入《吴医汇讲》，首刊于清乾隆五十七年（1792）	you hua xiu yun xiu gai zheng li shu ming wen re lun shou kan yu qing qian long si shi er nian 1777 you tang da lie xiu gai zheng li shu ming wen zheng lun zhi shou ru wu yi hui jiang shou kan yu qing qian long wu shi qi nian 1792	1
+据研究，《温热论》的首次整理者应该是华岫云，故简称“华本”	ju yan jiu wen re lun de shou ci zheng li zhe ying gai shi hua xiu yun gu jian cheng hua ben	1
+华岫云（1696～1773），字南田，号召溪漫士，江苏锡山（今江苏无锡）人	hua xiu yun 1696～1773 zi nan tian hao zhao xi man shi jiang su xi shan jin jiang su wu xi ren	1
+平生钦佩叶桂的学识，努力寻访收购叶桂的晚年日记医案，二三年之间得以万数	ping sheng qin pei ye gui de xue shi nu li xun fang shou gou ye gui de wan nian ri ji yi an er san nian zhi jian de yi wan shu	1
+并本着济世之心，对这些医案进行分类整理，选辑成书，付梓刊行，实乃叶氏学术传承中的一大功臣	bing ben zhe ji shi zhi xin dui zhe xie yi an jin xing fen lei zheng li xuan ji cheng shu fu zi kan xing shi nai ye shi xue shu chuan cheng zhong de yi da gong chen	1
+因此，从清代开始就有人误认为他是叶桂的学生，并认为他“精于岐黄之术”	yin ci cong qing dai kai shi jiu you ren wu ren wei ta shi ye gui de xue sheng bing ren wei ta jing yu qi huang zhi shu	1
+这其实是个误会	zhe qi shi shi ge wu hui	1
+华氏本人为《临证指南医案》所写“凡例”第一条说：“余本不业医”，可见华氏本不是医生，只是个钦佩叶桂医术的文人，出于敬重之心而觅购叶桂医案，他本人也说：“此案出自数年采集”，而且“本欲再为购求，广刻行世，奈无觅处	hua shi ben ren wei lin zheng zhi nan yi an suo xie fan li di yi tiao shuo yu ben bu ye yi ke jian hua shi ben bu shi yi sheng zhi shi ge qin pei ye gui yi shu de wen ren chu yu jing zhong zhi xin er mi gou ye gui yi an ta ben ren ye shuo ci an chu zi shu nian cai ji er qie ben yu zai wei gou qiu guang ke xing shi nai wu mi chu	1
+”所以，他的工作只是对已经收购的医案进行分类选编	suo yi ta de gong zuo zhi shi dui yi jing shou gou de yi an jin xing fen lei xuan bian	1
+《温证论治》由苏州名医唐大烈整理，简称“吴本”	wen zheng lun zhi you su zhou ming yi tang da lie zheng li jian cheng wu ben	1
+唐大烈（？～1801），字立三，号笠山	tang da lie ～1801 zi li san hao li shan	1
+自1792年开始编辑刊行《吴医汇讲》，凡11卷	zi 1792 nian kai shi bian ji kan xing wu yi hui jiang fan 11 juan	1
+其编辑《吴医汇讲》的目的是“或疏往训，既发复而摘微；或出心裁，尤领拳而标异”，以使医家们的心得与经验能“共表深思，互相欣赏”，共同提高	qi bian ji wu yi hui jiang de mu di shi huo shu wang xun ji fa fu er zhai wei huo chu xin cai you ling quan er biao yi yi shi yi jia men de xin de yu jing yan neng gong biao shen si hu xiang xin shang gong tong ti gao	1
+正是出于这样的目的，他整理了《温证论治》，收入《吴医汇讲》中	zheng shi chu yu zhe yang de mu di ta zheng li le wen zheng lun zhi shou ru wu yi hui jiang zhong	1
+二、主要学术特点及对临床的指导意义	er zhu yao xue shu te dian ji dui lin chuang de zhi dao yi yi	1
+《温热论》与《温证论治》是同一本书的两个不同版本，两书的语言表述及内容先后的安排有所不同，但基本内容一致	wen re lun yu wen zheng lun zhi shi tong yi ben shu de liang ge bu tong ban ben liang shu de yu yan biao shu ji nei rong xian hou de an pai you suo bu tong dan ji ben nei rong yi zhi	1
+此书不涉及医案，是一部温病理论性著作	ci shu bu she ji yi an shi yi bu wen bing li lun xing zhu zuo	1
+但这又是一部学术特色鲜明与临床治疗紧密结合，毫无虚玄之赘词的理论性著作	dan zhe you shi yi bu xue shu te se xian ming yu lin chuang zhi liao jin mi jie he hao wu xu xuan zhi zhui ci de li lun xing zhu zuo	1
+主要学术特点可分为卫气营血辨证体系的创建与温病望诊的阐发两个方面	zhu yao xue shu te dian ke fen wei wei qi ying xue bian zheng ti xi de chuang jian yu wen bing wang zhen de chan fa liang ge fang mian	1
+1﹒卫气营血辨证体系	1﹒ wei qi ying xue bian zheng ti xi	1
+叶天士认同吴有性温邪“由口鼻而入”的观点，但对于感邪之后，病邪在人体内的传变过程，却创建了新的温病辨证体系，提出了由浅而深分为卫分、气分、营分、血分4个病机层次	ye tian shi ren tong wu you xing wen xie you kou bi er ru de guan dian dan dui yu gan xie zhi hou bing xie zai ren ti nei de chuan bian guo cheng que chuang jian le xin de wen bing bian zheng ti xi ti chu le you qian er shen fen wei wei fen qi fen ying fen xue fen 4 ge bing ji ceng ci	1
+应该说，叶桂的卫气营血辨证方法，是十分彻底的创新，完全从温热病的传变特点出发进行辨证	ying gai shuo ye gui de wei qi ying xue bian zheng fang fa shi shi fen che di de chuang xin wan quan cong wen re bing de chuan bian te dian chu fa jin xing bian zheng	1
+卫气营血辨证正是一种在精熟临床经验基础上的高度概括，既简洁明了，又逻辑严密，抓住了温热病发展的几个关键性环节	wei qi ying xue bian zheng zheng shi yi zhong zai jing shu lin chuang jing yan ji chu shang de gao du gai kuo ji jian jie ming liao you luo ji yan mi zhua zhu le wen re bing fa zhan de ji ge guan jian xing huan jie	1
+所以，既十分便于临床医生的学习使用，又有着极高的临床适用性	suo yi ji shi fen bian yu lin chuang yi sheng de xue xi shi yong you you zhe ji gao de lin chuang shi yong xing	1
+2﹒辨舌、辨齿、辨癍疹白	2﹒ bian she bian chi bian ban zhen bai	1
+望舌、望皮肤是中医四诊中望诊的重要内容，历来受到古代医家的重视	wang she wang pi fu shi zhong yi si zhen zhong wang zhen de zhong yao nei rong li lai shou dao gu dai yi jia de zhong shi	1
+但是叶桂《温热论》中，专门论述望舌、望癍疹在温病过程中的诊断意义，内容细致而具体周到，超出前人的见解	dan shi ye gui wen re lun zhong zhuan men lun shu wang she wang ban zhen zai wen bing guo cheng zhong de zhen duan yi yi nei rong xi zhi er ju ti zhou dao chao chu qian ren de jian jie	1
+将各种舌象及癍疹表现与病情的进退、预后的好坏及如何用药密切联系在一起，对于临床有良好的指导作用	jiang ge zhong she xiang ji ban zhen biao xian yu bing qing de jin tui yu hou de hao huai ji ru he yong yao mi qie lian xi zai yi qi dui yu lin chuang you liang hao de zhi dao zuo yong	1
+对于望齿诊断法，可以说又是叶桂的一个创新，他将望齿与外感病过程中正气的存留及病邪的进退联系在一起，尤其重视的是通过望齿的荣枯来判断温病过程中阴液存留，而阴液的存亡确实是古代温病治疗中最为至关重要的	dui yu wang chi zhen duan fa ke yi shuo you shi ye gui de yi ge chuang xin ta jiang wang chi yu wai gan bing guo cheng zhong zheng qi de cun liu ji bing xie de jin tui lian xi zai yi qi you qi zhong shi de shi tong guo wang chi de rong ku lai pan duan wen bing guo cheng zhong yin ye cun liu er yin ye de cun wang que shi shi gu dai wen bing zhi liao zhong zui wei zhi guan zhong yao de	1
+三、如何学习应用《温热论》	san ru he xue xi ying yong wen re lun	1
+《温热论》是文字非常简短，观点也非常鲜明，没有任何艰涩的语言	wen re lun shi wen zi fei chang jian duan guan dian ye fei chang xian ming mei you ren he jian se de yu yan	1
+本来就是师徒之间的授课，因此很适合初学者学习	ben lai jiu shi shi tu zhi jian de shou ke yin ci hen shi he chu xue zhe xue xi	1
+但此书所论述的医学道理却是精辟非凡	dan ci shu suo lun shu de yi xue dao li que shi jing pi fei fan	1
+学习此书要紧扣它的学术特点，抓住临床辨证与望诊两个方面	xue xi ci shu yao jin kou ta de xue shu te dian zhua zhu lin chuang bian zheng yu wang zhen liang ge fang mian	1
+1﹒辨证	1﹒ bian zheng	1
+叶桂创建了由浅由深的温病卫气营血辨证体系，这是学习《温热论》首先要用心领会的重点内容	ye gui chuang jian le you qian you shen de wen bing wei qi ying xue bian zheng ti xi zhe shi xue xi wen re lun shou xian yao yong xin ling hui de zhong dian nei rong	1
+卫气营血辨证是最为简洁明了的中医传统辨证体系，因此也是最具有可操作性，最容易被学习者所掌握使用的一种	wei qi ying xue bian zheng shi zui wei jian jie ming liao de zhong yi chuan tong bian zheng ti xi yin ci ye shi zui ju you ke cao zuo xing zui rong yi bei xue xi zhe suo zhang wo shi yong de yi zhong	1
+学习的重点除了要熟记关键的原文段落之外，还需要真正理解这一辨证体系的临床实际意义，与临床治疗相关联	xue xi de zhong dian chu le yao shu ji guan jian de yuan wen duan luo zhi wai hai xu yao zhen zheng li jie zhe yi bian zheng ti xi de lin chuang shi ji yi yi yu lin chuang zhi liao xiang guan lian	1
+温热之邪从人体上部口鼻感受之后，首先侵犯的是肺，形成卫分证	wen re zhi xie cong ren ti shang bu kou bi gan shou zhi hou shou xian qin fan de shi fei xing cheng wei fen zheng	1
+如果温病进一步发展，则可能按两种方式发展	ru guo wen bing jin yi bu fa zhan ze ke neng an liang zhong fang shi fa zhan	1
+其一为顺传：按照“卫之后方言气，营之后方言血”，即从卫分气分营分补血分的顺序由浅入深，逐步传变	qi yi wei shun chuan an zhao wei zhi hou fang yan qi ying zhi hou fang yan xue ji cong wei fen qi fen ying fen bu xue fen de shun xu you qian ru shen zhu bu chuan bian	1
+其二为逆传：邪从肺卫不经气分，直接传入心营，迅速出现神志昏乱	qi er wei ni chuan xie cong fei wei bu jing qi fen zhi jie chuan ru xin ying xun su chu xian shen zhi hun luan	1
+叶桂进一步提出了卫气营血的规范治法：“在卫汗之可也，到气才宜清气”，“入营犹可透热仍转气分而解”，“入血直须凉血散血	ye gui jin yi bu ti chu le wei qi ying xue de gui fan zhi fa zai wei han zhi ke ye dao qi cai yi qing qi ru ying you ke tou re reng zhuan qi fen er jie ru xue zhi xu liang xue san xue	1
+”具体来说，在表初用辛凉轻剂，并要分为风热与湿热区别对待	ju ti lai shuo zai biao chu yong xin liang qing ji bing yao fen wei feng re yu shi re qu bie dui dai	1
+而卫气治法没有严格的界线	er wei qi zhi fa mei you yan ge de jie xian	1
+但是，有一种特殊情况，可能邪在气分停留的时间会较长，治疗也就有其特殊性，即“气病有不传血分而邪留三焦”，则应该根据三焦的不同表现进行论治	dan shi you yi zhong te shu qing kuang ke neng xie zai qi fen ting liu de shi jian hui jiao zhang zhi liao ye jiu you qi te shu xing ji qi bing you bu chuan xue fen er xie liu san jiao ze ying gai gen ju san jiao de bu tong biao xian jin xing lun zhi	1
+入营可用清解营分，透热转气，如犀角、元参、羚羊角等物	ru ying ke yong qing jie ying fen tou re zhuan qi ru xi jiao yuan can ling yang jiao deng wu	1
+入血则以清热凉血，活血透癍为主，如生地、丹皮、阿胶、赤芍等物	ru xue ze yi qing re liang xue huo xue tou ban wei zhu ru sheng di dan pi e jiao chi shao deng wu	1
+”		1
+2﹒温病诊法	2﹒ wen bing zhen fa	1
+《温热论》中最有特色的温病诊法就是前面提到过的望舌、望齿、望癍疹，这是学习的另一个重点	wen re lun zhong zui you te se de wen bing zhen fa jiu shi qian mian ti dao guo de wang she wang chi wang ban zhen zhe shi xue xi de ling yi ge zhong dian	1
+（1）望舌：温病望舌的主要目的是判断热之深浅轻重与津液之存亡	1 wang she wen bing wang she de zhu yao mu di shi pan duan re zhi shen qian qing zhong yu jin ye zhi cun wang	1
+如①望舌苔：以有无及润燥判断正气津液之虚实；以厚薄及是否腻浊判断湿浊宿滞之有无；以黄白及黄色之深浅判断寒热属性及轻重	ru ① wang she tai yi you wu ji run zao pan duan zheng qi jin ye zhi xu shi yi hou bo ji shi fou ni zhuo pan duan shi zhuo su zhi zhi you wu yi huang bai ji huang se zhi shen qian pan duan han re shu xing ji qing zhong	1
+②望舌绛：舌之红绛为热入营血，同时：以红绛紫色之不同判别邪热的深浅；以绛舌之干燥与否及干燥所在部位判断津液存亡及所伤脏器；以绛色之亮泽或晦暗判断其正气之盛衰	② wang she jiang she zhi hong jiang wei re ru ying xue tong shi yi hong jiang zi se zhi bu tong pan bie xie re de shen qian yi jiang she zhi gan zao yu fou ji gan zao suo zai bu wei pan duan jin ye cun wang ji suo shang zang qi yi jiang se zhi liang ze huo hui an pan duan qi zheng qi zhi sheng shuai	1
+③舌体运动不利：舌绛难伸，痰阻舌根，为有内风也；舌绛而不鲜，干枯而痿者，为肾阴涸	③ she ti yun dong bu li she jiang nan shen tan zu she gen wei you nei feng ye she jiang er bu xian gan ku er wei zhe wei shen yin he	1
+④其他：舌有芒刺，为上焦热极；舌淡不荣而干为胃之气津损伤；舌黑为肾脏色见	④ qi ta she you mang ci wei shang jiao re ji she dan bu rong er gan wei wei zhi qi jin sun shang she hei wei shen zang se jian	1
+（2）望齿：望齿主要是用以判断胃肾阴阳	2 wang chi wang chi zhu yao shi yong yi pan duan wei shen yin yang	1
+如①齿光燥为胃热甚，齿干枯为肾液枯，下半截干而上半截润为水不上承而心火上炎；②齿上结血紫如干漆为阳血属胃热，齿上结血黄如酱瓣为阴血属肾枯；③咬牙啮齿，或牙关不开，均为风痰之兆	ru ① chi guang zao wei wei re shen chi gan ku wei shen ye ku xia ban jie gan er shang ban jie run wei shui bu shang cheng er xin huo shang yan ② chi shang jie xue zi ru gan qi wei yang xue shu wei re chi shang jie xue huang ru jiang ban wei yin xue shu shen ku ③ yao ya nie chi huo ya guan bu kai jun wei feng tan zhi zhao	1
+（3）望癍疹白堁：首先要学会区别癍、疹、白堁的不同皮肤表现	3 wang ban zhen bai ke shou xian yao xue hui qu bie ban zhen bai ke de bu tong pi fu biao xian	1
+一般癍疹属热入营血，白堁属湿郁肺气	yi ban ban zhen shu re ru ying xue bai ke shu shi yu fei qi	1
+但癍疹相对而言，癍属血者为多，疹也有属气分者	dan ban zhen xiang dui er yan ban shu xue zhe wei duo zhen ye you shu qi fen zhe	1
+在此基础上，①色深浅：以癍色红为热、色紫为热盛、色黑为热极，色淡红为虚癍；②色荣枯：以色亮泽为正未伤，色枯暗为正已伤；③癍块大小：以色紫而点小为心包热，点大而紫为胃中热；④癍疹的伴随症状：出而神情清爽为外解里和，出而昏蒙则为正不胜邪或胃津内涸	zai ci ji chu shang ① se shen qian yi ban se hong wei re se zi wei re sheng se hei wei re ji se dan hong wei xu ban ② se rong ku yi se liang ze wei zheng wei shang se ku an wei zheng yi shang ③ ban kuai da xiao yi se zi er dian xiao wei xin bao re dian da er zi wei wei zhong re ④ ban zhen de ban sui zheng zhuang chu er shen qing qing shuang wei wai jie li he chu er hun meng ze wei zheng bu sheng xie huo wei jin nei he	1
+张志斌	zhang zhi bin	1
+2007年3月	2007 nian 3 yue	1
+整理说明	zheng li shuo ming	1
+一、由于该书有《温热论》与《温证论治》两种传本，且两书的文字表述有较大的差异，由于这两种版本并无优劣可分，且篇幅均小，为了分清学术源流，解决阅读的迷惑，本次整理将《温证论治》附出在后	yi you yu gai shu you wen re lun yu wen zheng lun zhi liang zhong chuan ben qie liang shu de wen zi biao shu you jiao da de cha yi you yu zhe liang zhong ban ben bing wu you lie ke fen qie pian fu jun xiao wei le fen qing xue shu yuan liu jie jue yue du de mi huo ben ci zheng li jiang wen zheng lun zhi fu chu zai hou	1
+前者以清乾隆四十二年（1777）卫生堂刻本为底本，清道光九年（1829）卫生堂刻本为校本；后者以乾隆五十七年（1792）吴门唐氏问心草堂刻《吴医汇讲》本为底本，清道光十五（1835）年《医门棒喝》本为校本	qian zhe yi qing qian long si shi er nian 1777 wei sheng tang ke ben wei di ben qing dao guang jiu nian 1829 wei sheng tang ke ben wei jiao ben hou zhe yi qian long wu shi qi nian 1792 wu men tang shi wen xin cao tang ke wu yi hui jiang ben wei di ben qing dao guang shi wu 1835 nian yi men bang he ben wei jiao ben	1
+二、凡底本不误而校本有误者，悉据底本	er fan di ben bu wu er jiao ben you wu zhe xi ju di ben	1
+底本引文虽有化裁，但文理通顺，意义无实质性改变者，也据底本	di ben yin wen sui you hua cai dan wen li tong shun yi yi wu shi zhi xing gai bian zhe ye ju di ben	1
+惟底本有误或引文改变原意时，方据情酌改	wei di ben you wu huo yin wen gai bian yuan yi shi fang ju qing zhuo gai	1
+如《温热论》第一自然段有云：“或透风于热外，或渗湿于热下”，其中“风”字：卫生堂本与经锄堂本均作“湿”，据《温热经纬》本改	ru wen re lun di yi zi ran duan you yun huo tou feng yu re wai huo shen shi yu re xia qi zhong feng zi wei sheng tang ben yu jing chu tang ben jun zuo shi ju wen re jing wei ben gai	1
+三、本书采用横排、简体，现代标点	san ben shu cai yong heng pai jian ti xian dai biao dian	1
+四、该书药名有与今通行之名用字不同者，为便利当代读者使用，一般改用通行之名（如“梹榔”改为“槟榔”、“查肉”改为“楂肉”等）；药物异名、或能体现时代用药特征的药名不改（如“延胡”不改为“延胡索”等）	si gai shu yao ming you yu jin tong xing zhi ming yong zi bu tong zhe wei bian li dang dai du zhe shi yong yi ban gai yong tong xing zhi ming ru bin lang gai wei bing lang cha rou gai wei zha rou deng yao wu yi ming huo neng ti xian shi dai yong yao te zheng de yao ming bu gai ru yan hu bu gai wei yan hu suo deng	1
+五、底本中医名词术语用字与今规范用语者，为便利当代读者使用，一般改用规范用语（如“心胞”改为“心包”等，“斑疹”改为“癍疹”）	wu di ben zhong yi ming ci shu yu yong zi yu jin gui fan yong yu zhe wei bian li dang dai du zhe shi yong yi ban gai yong gui fan yong yu ru xin bao gai wei xin bao deng ban zhen gai wei ban zhen	1
+六、凡底本中的异体字、俗写字，或笔画差错残缺，均径改作正体字（如“膜视”改为“漠视”等）	liu fan di ben zhong de yi ti zi su xie zi huo bi hua cha cuo can que jun jing gai zuo zheng ti zi ru mo shi gai wei mo shi deng	1
+若显系笔误或误用之字，则径予改正（如“已”误为“巳”等）	ruo xian xi bi wu huo wu yong zhi zi ze jing yu gai zheng ru yi wu wei si deng	1
+七、《温热论》原书眉批栏中之文字，当为华岫云整理时所加	qi wen re lun yuan shu mei pi lan zhong zhi wen zi dang wei hua xiu yun zheng li shi suo jia	1
+整理中根据其文意，插入正文相应的文字之处	zheng li zhong gen ju qi wen yi cha ru zheng wen xiang ying de wen zi zhi chu	1
+眉批用小字，前后用黑鱼尾号（【】）括注以为标记	mei pi yong xiao zi qian hou yong hei yu wei hao 【】 kuo zhu yi wei biao ji	1
+序	xu	1
+华与余家，世为姻娅	hua yu yu jia shi wei yin ya	1
+华君岫云精通岐黄术，常存利济救人之心，孜孜不倦	hua jun xiu yun jing tong qi huang shu chang cun li ji jiu ren zhi xin zi zi bu juan	1
+向慕吴门叶天士先生为当世卢扁，留心觅其医案约计盈万，分门选刻，共成十卷，名曰《临证指南》，已通行海宇矣	xiang mu wu men ye tian shi xian sheng wei dang shi lu bian liu xin mi qi yi an yue ji ying wan fen men xuan ke gong cheng shi juan ming yue lin zheng zhi nan yi tong xing hai yu yi	1
+壬申岁，又将其续补医案《温热论》与平生所集各种经验奇方付刊，以备救急	ren shen sui you jiang qi xu bu yi an wen re lun yu ping sheng suo ji ge zhong jing yan qi fang fu kan yi bei jiu ji	1
+其愿甚诚	qi yuan shen cheng	1
+忽于癸秋谢世	hu yu gui qiu xie shi	1
+其方止刻十之二三，半途而废，见者咸为惋惜	qi fang zhi ke shi zhi er san ban tu er fei jian zhe xian wei wan xi	1
+华君好友岳君廷璋不忍漠视，力劝徽苏义商程叶两君子授梓，完璧以公同志	hua jun hao you yue jun ting zhang bu ren mo shi li quan hui su yi shang cheng ye liang jun zi shou zi wan bi yi gong tong zhi	1
+一日汉川程君来蜀，出此编，丐余作序，予素不知医，且公务纷拏，军书旁午，竟不暇及	yi ri han chuan cheng jun lai shu chu ci bian gai yu zuo xu yu su bu zhi yi qie gong wu fen na jun shu pang wu jing bu xia ji	1
+第展阅一过，了然心目	di zhan yue yi guo liao ran xin mu	1
+询为青囊家不可缺一之书	xun wei qing nang jia bu ke que yi zhi shu	1
+即卢扁复起，亦不能舍是而别开 窴，倘于乡陬僻壤，症患奇难，一时罕有良医调剂，备此查考，对症用药，立能起死回生，功效匪浅，慎勿以此编易简而忽诸	ji lu bian fu qi yi bu neng she shi er bie kai   tian tang yu xiang zou pi rang zheng huan qi nan yi shi han you liang yi tiao ji bei ci cha kao dui zheng yong yao li neng qi si hui sheng gong xiao fei qian shen wu yi ci bian yi jian er hu zhu	1
+乾隆四十年冬小春月赐进士出身钦命四川	qian long si shi nian dong xiao chun yue ci jin shi chu shen qin ming si chuan	1
+按察使司按察司加三级凝台杜玉林撰并书	an cha shi si an cha si jia san ji ning tai du yu lin zhuan bing shu	1
+温热论	wen re lun	1
+古吴叶 桂天士先生论	gu wu ye   gui tian shi xian sheng lun	1
+锡山华南田岫云 校	xi shan hua nan tian xiu yun   xiao	1
+温邪上受【邪从口鼻而入，故曰“上受”	wen xie shang shou 【 xie cong kou bi er ru gu yue shang shou	1
+但春温冬时伏寒藏于少阴，遇春时温气而发，非必上受之邪也	dan chun wen dong shi fu han cang yu shao yin yu chun shi wen qi er fa fei bi shang shou zhi xie ye	1
+则此所论温邪乃是温风湿温之发于春末夏初者也】 ，首先犯肺，逆传心包	ze ci suo lun wen xie nai shi wen feng shi wen zhi fa yu chun mo xia chu zhe ye 】  shou xian fan fei ni chuan xin bao	1
+肺主气属卫，心主血属营，辨营卫气血虽与伤寒同，若论治法，则与伤寒大异	fei zhu qi shu wei xin zhu xue shu ying bian ying wei qi xue sui yu shang han tong ruo lun zhi fa ze yu shang han da yi	1
+盖伤寒之邪留恋在表，然后化热入里，温邪则热变最速	gai shang han zhi xie liu lian zai biao ran hou hua re ru li wen xie ze re bian zui su	1
+未传心包，邪尚在肺	wei chuan xin bao xie shang zai fei	1
+肺主气，其合皮毛，故云在表	fei zhu qi qi he pi mao gu yun zai biao	1
+在表初用辛凉轻剂	zai biao chu yong xin liang qing ji	1
+挟风则加入薄荷、牛蒡之属；挟湿加芦根、滑石之流	xie feng ze jia ru bo he niu bang zhi shu xie shi jia lu gen hua shi zhi liu	1
+或透风于热外，或渗湿于热下，不与热相抟，势必孤矣	huo tou feng yu re wai huo shen shi yu re xia bu yu re xiang tuan shi bi gu yi	1
+不尔，风挟温热而燥生，清窍必干，谓水主之气不能上荣，两阳相劫也	bu er feng xie wen re er zao sheng qing qiao bi gan wei shui zhu zhi qi bu neng shang rong liang yang xiang jie ye	1
+湿与温合，蒸郁而蒙痹于上，清窍为之壅塞，浊邪害清也	shi yu wen he zheng yu er meng bi yu shang qing qiao wei zhi yong se zhuo xie hai qing ye	1
+其病有类伤寒，其验之之法，伤寒多有变症，温热虽久在一经不移，以此为辨	qi bing you lei shang han qi yan zhi zhi fa shang han duo you bian zheng wen re sui jiu zai yi jing bu yi yi ci wei bian	1
+前言辛凉散风，甘淡驱湿，若病仍不解，是渐欲入营也	qian yan xin liang san feng gan dan qu shi ruo bing reng bu jie shi jian yu ru ying ye	1
+营分受热，则血液受劫	ying fen shou re ze xue ye shou jie	1
+心神不安，夜甚无寐，或癍点隐隐，即撤去气药	xin shen bu an ye shen wu mei huo ban dian yin yin ji che qu qi yao	1
+如从风热陷入者，用犀角、竹叶之属；如从湿热陷入者，犀角、花露之品，参入凉血清热方中	ru cong feng re xian ru zhe yong xi jiao zhu ye zhi shu ru cong shi re xian ru zhe xi jiao hua lu zhi pin can ru liang xue qing re fang zhong	1
+若加烦躁、大便不通，金汁亦可加入	ruo jia fan zao da bian bu tong jin zhi yi ke jia ru	1
+老年或平素有寒者，以人中黄代之	lao nian huo ping su you han zhe yi ren zhong huang dai zhi	1
+急急透癍为要	ji ji tou ban wei yao	1
+若癍出热不解者，胃津亡也，主以甘寒，重则如玉女煎，轻则如梨皮、蔗浆之类	ruo ban chu re bu jie zhe wei jin wang ye zhu yi gan han zhong ze ru yu nv jian qing ze ru li pi zhe jiang zhi lei	1
+或其人肾水素亏，虽未及下焦，先自彷徨矣	huo qi ren shen shui su kui sui wei ji xia jiao xian zi pang huang yi	1
+必验之于舌	bi yan zhi yu she	1
+如甘寒之中加入咸寒，务在先安未受邪之地，恐其陷入易易耳	ru gan han zhi zhong jia ru xian han wu zai xian an wei shou xie zhi di kong qi xian ru yi yi er	1
+若其邪始终在气分流连者，可冀其战汗透邪，法宜益胃，令水与汗并，热达腠开，邪从汗出	ruo qi xie shi zhong zai qi fen liu lian zhe ke ji qi zhan han tou xie fa yi yi wei ling shui yu han bing re da cou kai xie cong han chu	1
+解后胃气空虚，当肤冷一昼夜，待气还自温暖如常矣	jie hou wei qi kong xu dang fu leng yi zhou ye dai qi hai zi wen nuan ru chang yi	1
+盖战汗而解，邪退正虚，阳从寒泄，故渐肤冷，未必即成脱症	gai zhan han er jie xie tui zheng xu yang cong han xie gu jian fu leng wei bi ji cheng tuo zheng	1
+此时宜令病者安舒静卧，以养阳气来复	ci shi yi ling bing zhe an shu jing wo yi yang yang qi lai fu	1
+旁人切勿惊惶，频频呼唤，扰其元神，使其烦躁	pang ren qie wu jing huang pin pin hu huan rao qi yuan shen shi qi fan zao	1
+但诊其脉，若虚软和缓，虽倦卧不语，汗出肤冷，却非脱症	dan zhen qi mai ruo xu ruan huo huan sui juan wo bu yu han chu fu leng que fei tuo zheng	1
+若脉急疾，躁扰不卧，肤冷汗出，便为气脱之症矣	ruo mai ji ji zao rao bu wo fu leng han chu bian wei qi tuo zhi zheng yi	1
+更有邪盛正虚，不能一战而解，停一二日再战汗而愈者，不可不知	geng you xie sheng zheng xu bu neng yi zhan er jie ting yi er ri zai zhan han er yu zhe bu ke bu zhi	1
+再论气病有不传血分而邪留三焦，亦如伤寒中少阳病也	zai lun qi bing you bu chuan xue fen er xie liu san jiao yi ru shang han zhong shao yang bing ye	1
+彼则和解表里之半，此则分消上下之势，随症变法，如近时杏朴苓等类，或如温胆汤之走泄	bi ze he jie biao li zhi ban ci ze fen xiao shang xia zhi shi sui zheng bian fa ru jin shi xing pu ling deng lei huo ru wen dan tang zhi zou xie	1
+因其仍在气分，犹可望其战汗之门户，转疟之机括	yin qi reng zai qi fen you ke wang qi zhan han zhi men hu zhuan nve zhi ji kuo	1
+大凡看法，卫之后方言气，营之后方言血	da fan kan fa wei zhi hou fang yan qi ying zhi hou fang yan xue	1
+在卫汗之可也【辛凉开肺便是汗剂，非如伤寒之用麻、桂辛温也】 ，到气才可清气	zai wei han zhi ke ye 【 xin liang kai fei bian shi han ji fei ru shang han zhi yong ma gui xin wen ye 】  dao qi cai ke qing qi	1
+入营犹可透热转气，如犀角、元参、羚羊等物	ru ying you ke tou re zhuan qi ru xi jiao yuan can ling yang deng wu	1
+入血就恐耗血动血，直须凉血散血，如生地、丹皮、阿胶、赤芍等物	ru xue jiu kong hao xue dong xue zhi xu liang xue san xue ru sheng di dan pi e jiao chi shao deng wu	1
+否则前后不循缓急之法，虑其动手便错，反至慌张矣	fou ze qian hou bu xun huan ji zhi fa lv qi dong shou bian cuo fan zhi huang zhang yi	1
+且吾吴湿邪害人最广	qie wu wu shi xie hai ren zui guang	1
+如面色白者，须要顾其阳气，湿胜则阳微也	ru mian se bai zhe xu yao gu qi yang qi shi sheng ze yang wei ye	1
+法应清凉，然到十分之六七，即不可过于寒凉，恐成功反弃	fa ying qing liang ran dao shi fen zhi liu qi ji bu ke guo yu han liang kong cheng gong fan qi	1
+何以故耶？湿热一去，阳亦衰微也	he yi gu ye shi re yi qu yang yi shuai wei ye	1
+面色苍者，须要顾其津液，清凉到十分之六七，往往热减身寒者，不可就云虚寒而投补剂，恐炉烟虽熄，灰中有火也	mian se cang zhe xu yao gu qi jin ye qing liang dao shi fen zhi liu qi wang wang re jian shen han zhe bu ke jiu yun xu han er tou bu ji kong lu yan sui xi hui zhong you huo ye	1
+须细察精详，方少少与之，慎不可直率而往也	xu xi cha jing xiang fang shao shao yu zhi shen bu ke zhi shuai er wang ye	1
+又有酒客里湿素盛，外邪入里，里湿为合	you you jiu ke li shi su sheng wai xie ru li li shi wei he	1
+在阳旺之躯胃湿恒多，在阴盛之体脾湿亦不少，然其化热则一	zai yang wang zhi qu wei shi heng duo zai yin sheng zhi ti pi shi yi bu shao ran qi hua re ze yi	1
+热病救阴则易，通阳最难	re bing jiu yin ze yi tong yang zui nan	1
+救阴不在血，而在津与汗；通阳不在温，而在利小便	jiu yin bu zai xue er zai jin yu han tong yang bu zai wen er zai li xiao bian	1
+然较之杂症，则有不同也	ran jiao zhi za zheng ze you bu tong ye	1
+再论三焦不得从外解，必致成里结	zai lun san jiao bu de cong wai jie bi zhi cheng li jie	1
+里结于何？在阳明胃与肠也	li jie yu he zai yang ming wei yu chang ye	1
+亦须用下法，不可以气血之分，就不可下也	yi xu yong xia fa bu ke yi qi xue zhi fen jiu bu ke xia ye	1
+但伤寒热邪在里，劫烁津液，下之宜猛；此多湿邪内抟，下之宜轻	dan shang han re xie zai li jie shuo jin ye xia zhi yi meng ci duo shi xie nei tuan xia zhi yi qing	1
+伤寒大便溏为邪已尽，不可再下；湿温病大便溏为邪未尽，必大便硬慎不可再攻也，以屎燥为无湿矣	shang han da bian tang wei xie yi jin bu ke zai xia shi wen bing da bian tang wei xie wei jin bi da bian ying shen bu ke zai gong ye yi shi zao wei wu shi yi	1
+再人之体，脘在腹上，其地位处于中，按之痛，或自痛，或痞胀，当用苦泄，以其入腹近也	zai ren zhi ti wan zai fu shang qi di wei chu yu zhong an zhi tong huo zi tong huo pi zhang dang yong ku xie yi qi ru fu jin ye	1
+必验之于舌，或黄，或浊，可与小陷胸汤，或泻心汤，随症治之	bi yan zhi yu she huo huang huo zhuo ke yu xiao xian xiong tang huo xie xin tang sui zheng zhi zhi	1
+若白不燥，或黄白相兼，或灰白不渴，慎不可乱投苦泄，其中有外邪未解里先结者，或邪郁未伸，或素属中冷者，虽有脘中痞痛，宜从开泄，宣通气滞，以达归于肺，如近俗之杏、蔻、橘、桔等，是轻苦微辛具流动之品可耳	ruo bai bu zao huo huang bai xiang jian huo hui bai bu ke shen bu ke luan tou ku xie qi zhong you wai xie wei jie li xian jie zhe huo xie yu wei shen huo su shu zhong leng zhe sui you wan zhong pi tong yi cong kai xie xuan tong qi zhi yi da gui yu fei ru jin su zhi xing kou ju ju deng shi qing ku wei xin ju liu dong zhi pin ke er	1
+【论舌黄】 再前云舌黄或浊，须要有地之黄	【 lun she huang 】  zai qian yun she huang huo zhuo xu yao you di zhi huang	1
+若光滑者，乃无形湿热中已虚象，大忌前法	ruo guang hua zhe nai wu xing shi re zhong yi xu xiang da ji qian fa	1
+其脐以上为大腹，或满，或胀，或痛，此必邪已入里矣，表症必无，或十之存一	qi qi yi shang wei da fu huo man huo zhang huo tong ci bi xie yi ru li yi biao zheng bi wu huo shi zhi cun yi	1
+亦要验之于舌，或黄甚，或如沉香色，或如灰黄色，或老黄色，或中有断纹，皆当下之，如小承气汤，用槟榔、青皮、枳实、元明粉、生首乌等	yi yao yan zhi yu she huo huang shen huo ru chen xiang se huo ru hui huang se huo lao huang se huo zhong you duan wen jie dang xia zhi ru xiao cheng qi tang yong bing lang qing pi zhi shi yuan ming fen sheng shou wu deng	1
+若未现此等舌，不宜用此等法，恐其中有湿聚，太阴为满，或寒湿错杂为痛，或气壅为胀，又当以别法治之	ruo wei xian ci deng she bu yi yong ci deng fa kong qi zhong you shi ju tai yin wei man huo han shi cuo za wei tong huo qi yong wei zhang you dang yi bie fa zhi zhi	1
+再黄苔不甚厚而滑者，热未伤津，犹可清热透表	zai huang tai bu shen hou er hua zhe re wei shang jin you ke qing re tou biao	1
+若虽薄而干者，邪虽去而津受伤也，苦重之药当禁，宜甘寒轻剂可也	ruo sui bao er gan zhe xie sui qu er jin shou shang ye ku zhong zhi yao dang jin yi gan han qing ji ke ye	1
+【论舌绛】 再论其热传营，舌色必绛	【 lun she jiang 】  zai lun qi re chuan ying she se bi jiang	1
+绛，深红色也	jiang shen hong se ye	1
+初传，绛色中兼黄白色，此气分之邪未尽也，泄卫透营，两和可也	chu chuan jiang se zhong jian huang bai se ci qi fen zhi xie wei jin ye xie wei tou ying liang he ke ye	1
+纯绛鲜泽者，胞络受病也，宜犀角、鲜生地、连翘、郁金、石菖蒲等	chun jiang xian ze zhe bao luo shou bing ye yi xi jiao xian sheng di lian qiao yu jin shi chang pu deng	1
+延之数日，或平素心虚有痰，外热一陷，里络就闭，非菖蒲、郁金等所能开，须用牛黄丸、至宝丹之类，以开其闭，恐其昏厥为痉也	yan zhi shu ri huo ping su xin xu you tan wai re yi xian li luo jiu bi fei chang pu yu jin deng suo neng kai xu yong niu huang wan zhi bao dan zhi lei yi kai qi bi kong qi hun jue wei jing ye	1
+再色绛而舌中心干者，乃心胃火燔，劫烁津液，即黄连、石膏亦可加入	zai se jiang er she zhong xin gan zhe nai xin wei huo fan jie shuo jin ye ji huang lian shi gao yi ke jia ru	1
+若烦渴，烦热，舌心干，四边色红，中心或黄或白者，此非血分也，乃上焦气热烁津，急用凉膈散散其无形之热，再看其后转变可也	ruo fan ke fan re she xin gan si bian se hong zhong xin huo huang huo bai zhe ci fei xue fen ye nai shang jiao qi re shuo jin ji yong liang ge san san qi wu xing zhi re zai kan qi hou zhuan bian ke ye	1
+慎勿用血药，以滋腻难散	shen wu yong xue yao yi zi ni nan san	1
+至舌绛望之若干，手扪之原有津液，此津亏湿热熏蒸，将成浊痰蒙闭心包也	zhi she jiang wang zhi ruo gan shou men zhi yuan you jin ye ci jin kui shi re xun zheng jiang cheng zhuo tan meng bi xin bao ye	1
+再有热传营血，其人素有瘀伤宿血在胸膈中，挟热而抟，其舌色必紫而暗，扪之湿，当加入散血之品，如琥珀、丹参、桃仁、丹皮等	zai you re chuan ying xue qi ren su you yu shang su xue zai xiong ge zhong xie re er tuan qi she se bi zi er an men zhi shi dang jia ru san xue zhi pin ru hu po dan shen tao ren dan pi deng	1
+不尔，瘀血与热为伍，阻遏正气，遂变如狂发狂之症	bu er yu xue yu re wei wu zu e zheng qi sui bian ru kuang fa kuang zhi zheng	1
+若紫而肿大者，乃酒毒冲心	ruo zi er zhong da zhe nai jiu du chong xin	1
+紫而干晦者，肾肝色泛也，难治	zi er gan hui zhe shen gan se fan ye nan zhi	1
+舌色绛而上有黏腻似苔非苔者，中挟秽浊之气，急加芳香逐之	she se jiang er shang you nian ni shi tai fei tai zhe zhong xie hui zhuo zhi qi ji jia fang xiang zhu zhi	1
+舌绛欲伸出口而抵齿难骤伸者，痰阻舌根，有内风也	she jiang yu shen chu kou er di chi nan zhou shen zhe tan zu she gen you nei feng ye	1
+舌绛而光亮胃阴亡也，急用甘凉濡润之品	she jiang er guang liang wei yin wang ye ji yong gan liang ru run zhi pin	1
+若舌绛而干燥者，火邪劫营，凉血清火为要	ruo she jiang er gan zao zhe huo xie jie ying liang xue qing huo wei yao	1
+舌绛而有碎点白黄者，当生疳也	she jiang er you sui dian bai huang zhe dang sheng gan ye	1
+大红点者，热毒乘心也，用黄连、金汁	da hong dian zhe re du cheng xin ye yong huang lian jin zhi	1
+其有虽绛而不鲜，干枯而痿者，此肾阴涸，急以阿胶、鸡子黄、地黄、天冬等救之，缓则恐涸极而无救也	qi you sui jiang er bu xian gan ku er wei zhe ci shen yin he ji yi e jiao ji zi huang di huang tian dong deng jiu zhi huan ze kong he ji er wu jiu ye	1
+其有舌独中心绛干者，此胃热心营受灼也，当于清胃方中加入清心之品，否则，延及于尖，为津干火盛矣	qi you she du zhong xin jiang gan zhe ci wei re xin ying shou zhuo ye dang yu qing wei fang zhong jia ru qing xin zhi pin fou ze yan ji yu jian wei jin gan huo sheng yi	1
+舌尖绛独干，此心火上炎，用导赤散泻其腑	she jian jiang du gan ci xin huo shang yan yong dao chi san xie qi fu	1
+【论舌苔】 再舌苔白厚而干燥者，此胃燥气伤也，滋肾药中加甘草，令甘守津还之意	【 lun she tai 】  zai she tai bai hou er gan zao zhe ci wei zao qi shang ye zi shen yao zhong jia gan cao ling gan shou jin hai zhi yi	1
+舌白而薄者，外感风寒也，当疏散之	she bai er bao zhe wai gan feng han ye dang shu san zhi	1
+若白干薄者，肺津伤也，加麦冬、花露、芦根汁等轻清之品，为上者上之也	ruo bai gan bao zhe fei jin shang ye jia mai dong hua lu lu gen zhi deng qing qing zhi pin wei shang zhe shang zhi ye	1
+若白苔绛底者，湿遏热伏也，当先泄湿透热，防其就干也	ruo bai tai jiang di zhe shi e re fu ye dang xian xie shi tou re fang qi jiu gan ye	1
+勿忧之，再从里透于外则变润矣	wu you zhi zai cong li tou yu wai ze bian run yi	1
+初病舌就干，神不昏者，急养正微，加透邪之药	chu bing she jiu gan shen bu hun zhe ji yang zheng wei jia tou xie zhi yao	1
+若神已昏，此内匮矣，不可救药	ruo shen yi hun ci nei kui yi bu ke jiu yao	1
+又不拘何色，舌上生芒刺者，皆是上焦热极也，当用青布拭令薄荷水揩之	you bu ju he se she shang sheng mang ci zhe jie shi shang jiao re ji ye dang yong qing bu shi ling bo he shui kai zhi	1
+即去者轻，旋即生者险矣	ji qu zhe qing xuan ji sheng zhe xian yi	1
+舌苔不燥，自觉闷极者，属脾湿盛也	she tai bu zao zi jue men ji zhe shu pi shi sheng ye	1
+或有伤痕血迹者，必问曾经搔挖否，不可以有血而便为枯症，仍从湿治可也	huo you shang hen xue ji zhe bi wen ceng jing sao wa fou bu ke yi you xue er bian wei ku zheng reng cong shi zhi ke ye	1
+再有神情清爽，舌胀大不能出口者，此脾湿胃热，郁极化风，而毒延于口也，用大黄磨入当用剂内，则舌胀自消矣	zai you shen qing qing shuang she zhang da bu neng chu kou zhe ci pi shi wei re yu ji hua feng er du yan yu kou ye yong da huang mo ru dang yong ji nei ze she zhang zi xiao yi	1
+再舌上白苔黏腻，吐出浊厚涎沫者，口必甜味也，为脾瘅病	zai she shang bai tai nian ni tu chu zhuo hou xian mo zhe kou bi tian wei ye wei pi dan bing	1
+乃湿热气聚，与谷气相抟，土有余也	nai shi re qi ju yu gu qi xiang tuan tu you yu ye	1
+盈满则上泛，当用醒头草芳香辛散以逐之则退	ying man ze shang fan dang yong xing tou cao fang xiang xin san yi zhu zhi ze tui	1
+若舌上苔如碱者，胃中宿滞挟浊秽郁伏，当急急开泄，否则闭结中焦，不能从膜原达出矣	ruo she shang tai ru jian zhe wei zhong su zhi xie zhuo hui yu fu dang ji ji kai xie fou ze bi jie zhong jiao bu neng cong mo yuan da chu yi	1
+【舌有烟煤】 若舌无苔而有如烟煤隐隐者，不渴肢寒知挟阴病	【 she you yan mei 】  ruo she wu tai er you ru yan mei yin yin zhe bu ke zhi han zhi xie yin bing	1
+如口渴烦热，平时胃燥舌也，不可攻之	ru kou ke fan re ping shi wei zao she ye bu ke gong zhi	1
+若燥者，甘寒益胃；若润者，甘温扶中	ruo zao zhe gan han yi wei ruo run zhe gan wen fu zhong	1
+此何故？外露而里无也	ci he gu wai lu er li wu ye	1
+【论舌黑】 若舌黑而滑者，水来克火，为阴症，当温之	【 lun she hei 】  ruo she hei er hua zhe shui lai ke huo wei yin zheng dang wen zhi	1
+若见短缩，此肾气竭也，为难治	ruo jian duan suo ci shen qi jie ye wei nan zhi	1
+欲救之，加人参、五味子，勉希万一	yu jiu zhi jia ren shen wu wei zi mian xi wan yi	1
+舌黑而干者，津枯火炽，急急泻南补北	she hei er gan zhe jin ku huo chi ji ji xie nan bu bei	1
+若燥而中心厚堁者，土燥水竭，急以咸苦下之	ruo zao er zhong xin hou ke zhe tu zao shui jie ji yi xian ku xia zhi	1
+【论舌淡红无色】 舌淡红无色者，或干而色不荣者，当是胃津伤而气无化液也，当用炙甘草汤，不可用寒凉药	【 lun she dan hong wu se 】  she dan hong wu se zhe huo gan er se bu rong zhe dang shi wei jin shang er qi wu hua ye ye dang yong zhi gan cao tang bu ke yong han liang yao	1
+【论舌白如粉】 若舌白如粉而滑，四边色紫绛者，温疫病初入膜原未归胃腑，急急透解，莫待传陷而入为险恶之病	【 lun she bai ru fen 】  ruo she bai ru fen er hua si bian se zi jiang zhe wen yi bing chu ru mo yuan wei gui wei fu ji ji tou jie mo dai chuan xian er ru wei xian e zhi bing	1
+且见此舌者，病必见凶，须要小心	qie jian ci she zhe bing bi jian xiong xu yao xiao xin	1
+凡癍疹初见，须用纸燃照看	fan ban zhen chu jian xu yong zhi ran zhao kan	1
+胸背两胁点大而在皮肤之上者为癍，或云头隐隐，或琐碎小粒者为疹，又宜见而不宜见多	xiong bei liang xie dian da er zai pi fu zhi shang zhe wei ban huo yun tou yin yin huo suo sui xiao li zhe wei zhen you yi jian er bu yi jian duo	1
+按方书谓癍色红者属胃热，紫者热极，黑者胃烂	an fang shu wei ban se hong zhe shu wei re zi zhe re ji hei zhe wei lan	1
+然亦必看外症所合，方可断之	ran yi bi kan wai zheng suo he fang ke duan zhi	1
+然而春夏之问湿病，俱发疹为甚，且其色要辨	ran er chun xia zhi wen shi bing ju fa zhen wei shen qie qi se yao bian	1
+如淡红色，四肢清，口不甚渴，脉不洪数，非虚癍即阴癍	ru dan hong se si zhi qing kou bu shen ke mai bu hong shu fei xu ban ji yin ban	1
+或胸微见数点，面赤足冷，或下利清谷，此阴盛格阳于上而见，当温之	huo xiong wei jian shu dian mian chi zu leng huo xia li qing gu ci yin sheng ge yang yu shang er jian dang wen zhi	1
+若癍色紫小点者，心包热也	ruo ban se zi xiao dian zhe xin bao re ye	1
+点大而紫，胃中热也	dian da er zi wei zhong re ye	1
+黑癍而光亮者，热胜毒盛	hei ban er guang liang zhe re sheng du sheng	1
+虽属不治，若其人气血充者，依法治之，尚可救	sui shu bu zhi ruo qi ren qi xue chong zhe yi fa zhi zhi shang ke jiu	1
+若黑而晦者必死	ruo hei er hui zhe bi si	1
+若黑而隐隐四旁赤色，火郁内伏，大用清凉透发，间有转红成可救者	ruo hei er yin yin si pang chi se huo yu nei fu da yong qing liang tou fa jian you zhuan hong cheng ke jiu zhe	1
+若夹癍带疹，皆是邪之不一，各随其部而泄	ruo jia ban dai zhen jie shi xie zhi bu yi ge sui qi bu er xie	1
+然癍属血者恒多，疹属气者不少	ran ban shu xue zhe heng duo zhen shu qi zhe bu shao	1
+癍疹皆是邪气外露之象，发出宜神情清爽，为外解里和之意	ban zhen jie shi xie qi wai lu zhi xiang fa chu yi shen qing qing shuang wei wai jie li he zhi yi	1
+如癍疹出而昏者，正不胜邪，内陷为患，或胃津内涸之故	ru ban zhen chu er hun zhe zheng bu sheng xie nei xian wei huan huo wei jin nei he zhi gu	1
+【论白 堁】 再有一种白堁，小粒如水晶色者，此湿热伤肺，邪虽出而气液枯也，必得甘药补之	【 lun bai   ke 】  zai you yi zhong bai ke xiao li ru shui jing se zhe ci shi re shang fei xie sui chu er qi ye ku ye bi dei gan yao bu zhi	1
+或未至久延伤及气液，乃湿郁卫分，汗出不彻之故，当理气分之邪	huo wei zhi jiu yan shang ji qi ye nai shi yu wei fen han chu bu che zhi gu dang li qi fen zhi xie	1
+或白枯如骨者多凶，为气液竭也	huo bai ku ru gu zhe duo xiong wei qi ye jie ye	1
+【论齿】 再温热之病，看舌之后，亦须验齿	【 lun chi 】  zai wen re zhi bing kan she zhi hou yi xu yan chi	1
+齿为肾之余，龈为胃之络，热邪不燥胃津，必耗肾液	chi wei shen zhi yu ken wei wei zhi luo re xie bu zao wei jin bi hao shen ye	1
+且二经之血皆走其地，病深动血，结瓣于上	qie er jing zhi xue jie zou qi di bing shen dong xue jie ban yu shang	1
+阳血者色必紫，紫如干漆；阴血者色必黄，黄如酱瓣	yang xue zhe se bi zi zi ru gan qi yin xue zhe se bi huang huang ru jiang ban	1
+阳血若见，安胃为主；阴血若见，救肾为要	yang xue ruo jian an wei wei zhu yin xue ruo jian jiu shen wei yao	1
+然豆瓣色者多险，若症还不逆者尚可治，否则难治矣	ran dou ban se zhe duo xian ruo zheng hai bu ni zhe shang ke zhi fou ze nan zhi yi	1
+何以故耶？盖阴下竭阳上厥也	he yi gu ye gai yin xia jie yang shang jue ye	1
+齿若光燥如石者，胃热甚也	chi ruo guang zao ru shi zhe wei re shen ye	1
+若无汗恶寒，卫偏胜也，辛凉泄卫透汗为要	ruo wu han e han wei pian sheng ye xin liang xie wei tou han wei yao	1
+若如枯骨色者，肾液枯也，为难治	ruo ru ku gu se zhe shen ye ku ye wei nan zhi	1
+若上半截润，水不上承，心火炎上也，急急清心救水，俟枯处转润为妥	ruo shang ban jie run shui bu shang cheng xin huo yan shang ye ji ji qing xin jiu shui qi ku chu zhuan run wei tuo	1
+若咬牙啮齿者，湿热化风	ruo yao ya nie chi zhe shi re hua feng	1
+痉病但咬牙者，胃热气走其络也	jing bing dan yao ya zhe wei re qi zou qi luo ye	1
+若咬牙而脉症皆衰者，胃虚无谷以内荣亦咬牙也	ruo yao ya er mai zheng jie shuai zhe wei xu wu gu yi nei rong yi yao ya ye	1
+何以故耶？虚则喜实也	he yi gu ye xu ze xi shi ye	1
+舌本不缩而硬，而牙关咬定难开者，此非风痰阻络，即欲作痉症，用酸物擦之即开	she ben bu suo er ying er ya guan yao ding nan kai zhe ci fei feng tan zu luo ji yu zuo jing zheng yong suan wu ca zhi ji kai	1
+酸走筋，木来泄土故也	suan zou jin mu lai xie tu gu ye	1
+若齿垢如灰糕样者，胃气无权，津亡湿浊用事，多死	ruo chi gou ru hui gao yang zhe wei qi wu quan jin wang shi zhuo yong shi duo si	1
+而初病齿缝流清血，痛者为胃火冲激也，不痛者龙火内燔也	er chu bing chi feng liu qing xue tong zhe wei wei huo chong ji ye bu tong zhe long huo nei fan ye	1
+齿焦无垢者死，齿焦有垢者肾热胃劫也	chi jiao wu gou zhe si chi jiao you gou zhe shen re wei jie ye	1
+当微下之，或玉女煎清胃救肾可也	dang wei xia zhi huo yu nv jian qing wei jiu shen ke ye	1
+【论妇女温热病】 再妇人病温与男子同，但多胎前产后，以及经水适来适断	【 lun fu nv wen re bing 】  zai fu ren bing wen yu nan zi tong dan duo tai qian chan hou yi ji jing shui shi lai shi duan	1
+大凡胎前病，古人皆以四物加减用之，谓护胎为要，恐来害妊	da fan tai qian bing gu ren jie yi si wu jia jian yong zhi wei hu tai wei yao kong lai hai ren	1
+如热极用井底泥、蓝布浸冷覆盖腹上等，皆是保护之意，但亦要看其邪之可解处用	ru re ji yong jing di ni lan bu jin leng fu gai fu shang deng jie shi bao hu zhi yi dan yi yao kan qi xie zhi ke jie chu yong	1
+用血腻之药不灵，又当审察，不可认板法	yong xue ni zhi yao bu ling you dang shen cha bu ke ren ban fa	1
+然须步步保护胎元，恐损正邪陷也	ran xu bu bu bao hu tai yuan kong sun zheng xie xian ye	1
+至于产后之法，按方书谓慎用苦寒药，恐伤其已亡之阴也	zhi yu chan hou zhi fa an fang shu wei shen yong ku han yao kong shang qi yi wang zhi yin ye	1
+然亦要辨其邪能从上中解者，稍从症用之亦无妨也	ran yi yao bian qi xie neng cong shang zhong jie zhe shao cong zheng yong zhi yi wu fang ye	1
+不过勿犯下焦，且属虚体，当如虚怯人病邪而治	bu guo wu fan xia jiao qie shu xu ti dang ru xu qie ren bing xie er zhi	1
+总之，勿犯实实虚虚之禁	zong zhi wu fan shi shi xu xu zhi jin	1
+况产后当血气沸腾之候，最多空窦，邪势必乘虚内陷，虚处受邪为难治也	kuang chan hou dang xue qi fei teng zhi hou zui duo kong dou xie shi bi cheng xu nei xian xu chu shou xie wei nan zhi ye	1
+如经水适来适断，邪将陷血室，少阳伤寒 言之详悉，不必多赘	ru jing shui shi lai shi duan xie jiang xian xue shi shao yang shang han   yan zhi xiang xi bu bi duo zhui	1
+但数动与正伤寒不同，仲景立小柴胡汤，提出所陷热邪，参枣扶胃气，冲脉隶属阳明也，此与虚者为合治	dan shu dong yu zheng shang han bu tong zhong jing li xiao chai hu tang ti chu suo xian re xie can zao fu wei qi chong mai li shu yang ming ye ci yu xu zhe wei he zhi	1
+若热邪陷入与血相结者，当宗陶氏小柴胡汤，去参枣，加生地、桃仁、楂肉、丹皮，或犀角等	ruo re xie xian ru yu xue xiang jie zhe dang zong tao shi xiao chai hu tang qu can zao jia sheng di tao ren zha rou dan pi huo xi jiao deng	1
+若本经血结自甚，必少腹满痛	ruo ben jing xue jie zi shen bi shao fu man tong	1
+轻者刺期门，重者小柴胡汤去甘药，加延胡、归尾、桃仁，挟寒加肉桂，心气滞者加香附、陈皮、枳壳等	qing zhe ci qi men zhong zhe xiao chai hu tang qu gan yao jia yan hu gui wei tao ren xie han jia rou gui xin qi zhi zhe jia xiang fu chen pi zhi ke deng	1
+然热陷血室之症，多有谵语如狂之象，防是阳明胃热，当辨之	ran re xian xue shi zhi zheng duo you zhan yu ru kuang zhi xiang fang shi yang ming wei re dang bian zhi	1
+血结者身体必重，非若阳明之轻旋便捷者	xue jie zhe shen ti bi zhong fei ruo yang ming zhi qing xuan bian jie zhe	1
+何以故耶？阴主重浊，络脉被阻，侧旁气痹，连胸背皆拘束不遂，故去邪通络，正合其病	he yi gu ye yin zhu zhong zhuo luo mai bei zu ce pang qi bi lian xiong bei jie ju shu bu sui gu qu xie tong luo zheng he qi bing	1
+往往延久，上逆心包，胸中痛，即陶氏所谓血结胸也	wang wang yan jiu shang ni xin bao xiong zhong tong ji tao shi suo wei xue jie xiong ye	1
+王海藏出一桂枝红花汤加海蛤、桃仁，原为表里上下一齐尽解之理，看此方大有巧手，故录出以备学者之用	wang hai cang chu yi gui zhi hong hua tang jia hai ha tao ren yuan wei biao li shang xia yi qi jin jie zhi li kan ci fang da you qiao shou gu lu chu yi bei xue zhe zhi yong	1
+附：温证论治	fu wen zheng lun zhi	1
+叶天士，名桂，号香岩，世居阊门外下塘	ye tian shi ming gui hao xiang yan shi ju chang men wai xia tang	1
+所著《温证论治》二十则，乃先生游于洞庭山，门人顾景文随之舟中，以当时所语信笔录记	suo zhu wen zheng lun zhi er shi ze nai xian sheng you yu dong ting shan men ren gu jing wen sui zhi zhou zhong yi dang shi suo yu xin bi lu ji	1
+一时未加修饰，是以辞多佶屈，语亦稍乱，读者不免晦目	yi shi wei jia xiu shi shi yi ci duo ji qu yu yi shao luan du zhe bu mian hui mu	1
+烈不揣冒昧，窃以语句少为条达，前后少为移掇，惟使晦者明之，至先生立论之要旨，未敢稍更一字也	lie bu chuai mao mei qie yi yu ju shao wei tiao da qian hou shao wei yi duo wei shi hui zhe ming zhi zhi xian sheng li lun zhi yao zhi wei gan shao geng yi zi ye	1
+温邪上受，首先犯肺，逆传心包	wen xie shang shou shou xian fan fei ni chuan xin bao	1
+肺主气属卫，心主血属营，辨营卫气血虽与伤寒同，若论治法，则与伤寒大异	fei zhu qi shu wei xin zhu xue shu ying bian ying wei qi xue sui yu shang han tong ruo lun zhi fa ze yu shang han da yi	1
+盖伤寒之邪留恋在表，然后化热入里，温邪则化热最速	gai shang han zhi xie liu lian zai biao ran hou hua re ru li wen xie ze hua re zui su	1
+未传心包，邪尚在肺	wei chuan xin bao xie shang zai fei	1
+肺合皮毛而主气，故云在表	fei he pi mao er zhu qi gu yun zai biao	1
+初用辛凉轻剂	chu yong xin liang qing ji	1
+挟风加薄荷、牛蒡之属；挟湿加芦根、滑石之流	xie feng jia bo he niu bang zhi shu xie shi jia lu gen hua shi zhi liu	1
+或透风于热外，或渗湿于热下，不与热相抟，势必孤矣	huo tou feng yu re wai huo shen shi yu re xia bu yu re xiang tuan shi bi gu yi	1
+不尔，风挟温热而燥生，清窍必干，谓水主之气不能上荣，两阳相劫也	bu er feng xie wen re er zao sheng qing qiao bi gan wei shui zhu zhi qi bu neng shang rong liang yang xiang jie ye	1
+湿与温合，蒸郁而蒙痹于上，清窍为之壅塞，浊邪害清也	shi yu wen he zheng yu er meng bi yu shang qing qiao wei zhi yong se zhuo xie hai qing ye	1
+其病有类伤寒，验之之法，伤寒多有变症，温热虽久总在一经为辨	qi bing you lei shang han yan zhi zhi fa shang han duo you bian zheng wen re sui jiu zong zai yi jing wei bian	1
+前言辛凉散风，甘淡驱湿，若病仍不解，是渐欲入营也	qian yan xin liang san feng gan dan qu shi ruo bing reng bu jie shi jian yu ru ying ye	1
+营分受热，则血液受劫	ying fen shou re ze xue ye shou jie	1
+心神不安，夜甚无寐，或癍点隐隐，即撤去气药	xin shen bu an ye shen wu mei huo ban dian yin yin ji che qu qi yao	1
+如从风热陷入者，用犀角、竹叶之属；如从湿热陷入者，用犀角、花露之品，参入凉血清热方中	ru cong feng re xian ru zhe yong xi jiao zhu ye zhi shu ru cong shi re xian ru zhe yong xi jiao hua lu zhi pin can ru liang xue qing re fang zhong	1
+若加烦躁、大便不通，金汁亦可加入	ruo jia fan zao da bian bu tong jin zhi yi ke jia ru	1
+老年及平素有寒者，以人中黄代之	lao nian ji ping su you han zhe yi ren zhong huang dai zhi	1
+急速透癍为要	ji su tou ban wei yao	1
+若癍出热不解者，胃津亡也，主以甘寒，重则玉女煎，轻则梨皮、蔗浆之类	ruo ban chu re bu jie zhe wei jin wang ye zhu yi gan han zhong ze yu nv jian qing ze li pi zhe jiang zhi lei	1
+或其人肾水素亏，病虽未及下焦，每多先自彷徨，此必验之于舌	huo qi ren shen shui su kui bing sui wei ji xia jiao mei duo xian zi pang huang ci bi yan zhi yu she	1
+如甘寒之中加入咸寒，务在先安未受邪之地，恐其陷入耳	ru gan han zhi zhong jia ru xian han wu zai xian an wei shou xie zhi di kong qi xian ru er	1
+若其邪始终在气分流连者，可冀其战汗透邪，法宜益胃，令邪与汗并，热达腠开，邪从汗出	ruo qi xie shi zhong zai qi fen liu lian zhe ke ji qi zhan han tou xie fa yi yi wei ling xie yu han bing re da cou kai xie cong han chu	1
+解后胃气空虚，当肤冷一昼夜，待气还自温暖如常矣	jie hou wei qi kong xu dang fu leng yi zhou ye dai qi hai zi wen nuan ru chang yi	1
+盖战汗而解，邪退正虚，阳从汗泄，故渐肤冷，未必即成脱症	gai zhan han er jie xie tui zheng xu yang cong han xie gu jian fu leng wei bi ji cheng tuo zheng	1
+此时宜安舒静卧，以养阳气来复	ci shi yi an shu jing wo yi yang yang qi lai fu	1
+旁人切勿惊惶，频频呼唤，扰其元气	pang ren qie wu jing huang pin pin hu huan rao qi yuan qi	1
+但诊其脉，若虚软和缓，虽倦卧不语，汗出肤冷，却非脱症	dan zhen qi mai ruo xu ruan huo huan sui juan wo bu yu han chu fu leng que fei tuo zheng	1
+若脉急疾，躁扰不卧，肤冷汗出，便为气脱之症矣	ruo mai ji ji zao rao bu wo fu leng han chu bian wei qi tuo zhi zheng yi	1
+更有邪盛正虚，不能一战而解，停一二日再战汗而愈者，不可不知	geng you xie sheng zheng xu bu neng yi zhan er jie ting yi er ri zai zhan han er yu zhe bu ke bu zhi	1
+再论气病有不传血分而邪留三焦，犹之伤寒中少阳病也	zai lun qi bing you bu chuan xue fen er xie liu san jiao you zhi shang han zhong shao yang bing ye	1
+彼则和解表里之半，此则分消上下之势，随症变法，如近时杏朴苓等类，或如温胆汤之走泄	bi ze he jie biao li zhi ban ci ze fen xiao shang xia zhi shi sui zheng bian fa ru jin shi xing pu ling deng lei huo ru wen dan tang zhi zou xie	1
+因其仍在气分，犹有战汗之门户，转疟之机括也	yin qi reng zai qi fen you you zhan han zhi men hu zhuan nve zhi ji kuo ye	1
+大凡看法，卫之后方言气，营之后方言血	da fan kan fa wei zhi hou fang yan qi ying zhi hou fang yan xue	1
+在卫汗之可也，到气才宜清气	zai wei han zhi ke ye dao qi cai yi qing qi	1
+乍入营分犹可透热，仍转气分而解，如犀角、元参、羚羊等物是也	zha ru ying fen you ke tou re reng zhuan qi fen er jie ru xi jiao yuan can ling yang deng wu shi ye	1
+至入于血，则恐耗血动血，直须凉血散血，如生地、丹皮、阿胶、赤芍等物是也	zhi ru yu xue ze kong hao xue dong xue zhi xu liang xue san xue ru sheng di dan pi e jiao chi shao deng wu shi ye	1
+若不循缓急之法，虑其动手便错耳	ruo bu xun huan ji zhi fa lv qi dong shou bian cuo er	1
+且吾吴湿邪害人最多	qie wu wu shi xie hai ren zui duo	1
+如面色白者，须要顾其阳气，湿胜则阳微也	ru mian se bai zhe xu yao gu qi yang qi shi sheng ze yang wei ye	1
+如法应清凉，用到十分之六七，即不可过凉，盖恐湿热一去，阳亦衰微也	ru fa ying qing liang yong dao shi fen zhi liu qi ji bu ke guo liang gai kong shi re yi qu yang yi shuai wei ye	1
+面色苍者，须要顾其津液，清凉到十分之六七，往往热减身寒者，不可便云虚寒而投补剂，恐炉烟虽熄，灰中有火也	mian se cang zhe xu yao gu qi jin ye qing liang dao shi fen zhi liu qi wang wang re jian shen han zhe bu ke bian yun xu han er tou bu ji kong lu yan sui xi hui zhong you huo ye	1
+须细察精详，方少少与之，慎不可漫然而进也	xu xi cha jing xiang fang shao shao yu zhi shen bu ke man ran er jin ye	1
+又有酒客里湿素盛，外邪入里，与之相抟	you you jiu ke li shi su sheng wai xie ru li yu zhi xiang tuan	1
+在阳旺之躯胃湿恒多，在阴盛之体脾湿亦不少，然其化热则一	zai yang wang zhi qu wei shi heng duo zai yin sheng zhi ti pi shi yi bu shao ran qi hua re ze yi	1
+热病救阴犹易，通阳最难	re bing jiu yin you yi tong yang zui nan	1
+救阴不在补血，而在养津与测汗；通阳不在温，而在利小便	jiu yin bu zai bu xue er zai yang jin yu ce han tong yang bu zai wen er zai li xiao bian	1
+较之杂症有不同也	jiao zhi za zheng you bu tong ye	1
+再论三焦不从外解，必致里结	zai lun san jiao bu cong wai jie bi zhi li jie	1
+里结于何？在阳明胃与肠也	li jie yu he zai yang ming wei yu chang ye	1
+亦须用下法，不可以气血之分，谓其不可下也	yi xu yong xia fa bu ke yi qi xue zhi fen wei qi bu ke xia ye	1
+惟伤寒热邪在里，劫烁津液，下之宜猛；此多湿邪内抟，下之宜轻	wei shang han re xie zai li jie shuo jin ye xia zhi yi meng ci duo shi xie nei tuan xia zhi yi qing	1
+伤寒大便溏为邪已尽，不可再下；湿温病大便溏为邪未尽，必大便硬乃为无湿，始不可再攻也	shang han da bian tang wei xie yi jin bu ke zai xia shi wen bing da bian tang wei xie wei jin bi da bian ying nai wei wu shi shi bu ke zai gong ye	1
+再人之体，脘在腹上，其位居中，按之痛，或自痛，或痞胀，当用苦泄，以其入腹近也	zai ren zhi ti wan zai fu shang qi wei ju zhong an zhi tong huo zi tong huo pi zhang dang yong ku xie yi qi ru fu jin ye	1
+必验之于舌，或黄，或浊，可与小陷胸汤，或泻心汤，随症治之	bi yan zhi yu she huo huang huo zhuo ke yu xiao xian xiong tang huo xie xin tang sui zheng zhi zhi	1
+若白不燥，或黄白相兼，或灰白不渴，慎不可乱投苦泄，其中有外邪未解里先结者，或邪郁未伸，或素属中冷者，虽有脘中痞痛，宜从开泄，宣通气滞，以达归于肺，如近世之杏、蔻、橘、桔等，轻苦微辛具流动之品可耳	ruo bai bu zao huo huang bai xiang jian huo hui bai bu ke shen bu ke luan tou ku xie qi zhong you wai xie wei jie li xian jie zhe huo xie yu wei shen huo su shu zhong leng zhe sui you wan zhong pi tong yi cong kai xie xuan tong qi zhi yi da gui yu fei ru jin shi zhi xing kou ju ju deng qing ku wei xin ju liu dong zhi pin ke er	1
+又有舌上白苔黏腻，吐出浊厚涎沫者，其口必甜，此为脾瘅	you you she shang bai tai nian ni tu chu zhuo hou xian mo zhe qi kou bi tian ci wei pi dan	1
+乃湿热气聚，与谷气相抟，土有余也	nai shi re qi ju yu gu qi xiang tuan tu you yu ye	1
+盈满则上泛，当用佩兰叶芳香辛散以逐之	ying man ze shang fan dang yong pei lan ye fang xiang xin san yi zhu zhi	1
+若舌上苔如碱者，胃中宿滞挟浊秽郁伏，当急急开泄，否则闭结中焦，不能从膜原达出矣	ruo she shang tai ru jian zhe wei zhong su zhi xie zhuo hui yu fu dang ji ji kai xie fou ze bi jie zhong jiao bu neng cong mo yuan da chu yi	1
+再舌苔白厚而干燥者，此胃燥气伤也，滋润药中加甘草，令甘守津还之意	zai she tai bai hou er gan zao zhe ci wei zao qi shang ye zi run yao zhong jia gan cao ling gan shou jin hai zhi yi	1
+舌白而薄者，外感风寒也，当疏散之	she bai er bao zhe wai gan feng han ye dang shu san zhi	1
+若薄白而干者，肺液伤也，加麦冬、花露、芦根汁等轻清之品，为上者上之也	ruo bao bai er gan zhe fei ye shang ye jia mai dong hua lu lu gen zhi deng qing qing zhi pin wei shang zhe shang zhi ye	1
+若苔白而底绛者，湿遏热伏也，当先泄湿透热，防其即干也	ruo tai bai er di jiang zhe shi e re fu ye dang xian xie shi tou re fang qi ji gan ye	1
+此可勿忧，再从里而透于外则变润矣	ci ke wu you zai cong li er tou yu wai ze bian run yi	1
+初病舌即干，神不昏者，宜急养正微，加透邪之药	chu bing she ji gan shen bu hun zhe yi ji yang zheng wei jia tou xie zhi yao	1
+若神已昏，此内匮，不可救药矣	ruo shen yi hun ci nei kui bu ke jiu yao yi	1
+前云舌黄或浊，当用陷胸泻心，须要有地之黄	qian yun she huang huo zhuo dang yong xian xiong xie xin xu yao you di zhi huang	1
+若光滑者，乃无形湿热已有中虚之象，大忌前法	ruo guang hua zhe nai wu xing shi re yi you zhong xu zhi xiang da ji qian fa	1
+其脐以上为大腹，或满，或胀，或痛，此必邪已入里，表症必无，或存十之一二	qi qi yi shang wei da fu huo man huo zhang huo tong ci bi xie yi ru li biao zheng bi wu huo cun shi zhi yi er	1
+亦须验之于舌，或黄甚，或如沉香色，或如灰黄色，或老黄色，或中有断纹，皆当下之，如小承气汤，用槟榔、青皮、枳实、元明粉、生首乌等皆可	yi xu yan zhi yu she huo huang shen huo ru chen xiang se huo ru hui huang se huo lao huang se huo zhong you duan wen jie dang xia zhi ru xiao cheng qi tang yong bing lang qing pi zhi shi yuan ming fen sheng shou wu deng jie ke	1
+若未现此等舌，不宜用此等药，恐其中有湿聚太阴为满，或寒湿错杂为痛，或气壅为胀，又当以别法治之矣	ruo wei xian ci deng she bu yi yong ci deng yao kong qi zhong you shi ju tai yin wei man huo han shi cuo za wei tong huo qi yong wei zhang you dang yi bie fa zhi zhi yi	1
+再黄苔不甚厚而滑者，热未伤津，犹可清热透表	zai huang tai bu shen hou er hua zhe re wei shang jin you ke qing re tou biao	1
+若虽薄而干者，邪虽去而津受伤也，苦重之药当禁，宜甘寒轻剂养之	ruo sui bao er gan zhe xie sui qu er jin shou shang ye ku zhong zhi yao dang jin yi gan han qing ji yang zhi	1
+再论其热传营，舌色必绛	zai lun qi re chuan ying she se bi jiang	1
+绛，深红色也	jiang shen hong se ye	1
+初传，绛色中兼黄白色，此气分之邪未尽也，泄卫透营，两和可也	chu chuan jiang se zhong jian huang bai se ci qi fen zhi xie wei jin ye xie wei tou ying liang he ke ye	1
+纯绛鲜泽者，胞络受邪也，宜犀角、鲜生地、连翘、郁金、石菖蒲等清泄之	chun jiang xian ze zhe bao luo shou xie ye yi xi jiao xian sheng di lian qiao yu jin shi chang pu deng qing xie zhi	1
+延之数日，或平素心虚有痰，外热一陷，里络即闭，非菖蒲、郁金等所能开，须用牛黄丸、至宝丹之类，以开其闭，恐其昏厥为痉也	yan zhi shu ri huo ping su xin xu you tan wai re yi xian li luo ji bi fei chang pu yu jin deng suo neng kai xu yong niu huang wan zhi bao dan zhi lei yi kai qi bi kong qi hun jue wei jing ye	1
+再论舌绛而干燥者，火邪劫营，凉血清血为要	zai lun she jiang er gan zao zhe huo xie jie ying liang xue qing xue wei yao	1
+色绛而舌心干者，乃心胃火燔，劫烁津液，即黄连、石膏亦可加入	se jiang er she xin gan zhe nai xin wei huo fan jie shuo jin ye ji huang lian shi gao yi ke jia ru	1
+其有舌心独绛而干者，亦胃热而心营受灼也，当于清胃方中加入清心之品，否则，延及于尖，为津干火盛之候矣	qi you she xin du jiang er gan zhe yi wei re er xin ying shou zhuo ye dang yu qing wei fang zhong jia ru qing xin zhi pin fou ze yan ji yu jian wei jin gan huo sheng zhi hou yi	1
+舌尖独绛而干，此心火上炎，用导赤散泻其腑	she jian du jiang er gan ci xin huo shang yan yong dao chi san xie qi fu	1
+若烦渴，烦热，舌心干，四边色红，中心或黄或白者，此非血分也，乃上焦气热烁津，急用凉膈散散其无形之热，再看其后转变可也	ruo fan ke fan re she xin gan si bian se hong zhong xin huo huang huo bai zhe ci fei xue fen ye nai shang jiao qi re shuo jin ji yong liang ge san san qi wu xing zhi re zai kan qi hou zhuan bian ke ye	1
+慎勿用血药，反致滋腻留邪	shen wu yong xue yao fan zhi zi ni liu xie	1
+至舌绛望之若干，手扪之原有津液，此津亏湿热熏蒸，将成浊痰蒙闭心包也	zhi she jiang wang zhi ruo gan shou men zhi yuan you jin ye ci jin kui shi re xun zheng jiang cheng zhuo tan meng bi xin bao ye	1
+舌色绛而上有黏腻似苔非苔者，中挟秽浊之气，急加芳香逐之	she se jiang er shang you nian ni shi tai fei tai zhe zhong xie hui zhuo zhi qi ji jia fang xiang zhu zhi	1
+舌绛而抵齿难伸出口者，痰阻舌根，有内风也	she jiang er di chi nan shen chu kou zhe tan zu she gen you nei feng ye	1
+舌绛而光亮胃阴亡也，急用甘凉濡润之品	she jiang er guang liang wei yin wang ye ji yong gan liang ru run zhi pin	1
+舌绛而有碎点黄白者，将生疳也	she jiang er you sui dian huang bai zhe jiang sheng gan ye	1
+大红点者，热毒乘心也，用黄连、金汁	da hong dian zhe re du cheng xin ye yong huang lian jin zhi	1
+其有虽绛而不鲜，干枯而痿者，此肾阴涸也，急以阿胶、鸡子黄、地黄、天冬等救之，缓则恐涸极而无救也	qi you sui jiang er bu xian gan ku er wei zhe ci shen yin he ye ji yi e jiao ji zi huang di huang tian dong deng jiu zhi huan ze kong he ji er wu jiu ye	1
+再有热传营血，其人素有瘀伤宿血在胸膈中，舌色必紫而暗，扪之潮湿，当加散血之品，如琥珀、丹参、桃仁、丹皮等，否则瘀血与热相抟，阻遏正气，遂变如狂发狂之症	zai you re chuan ying xue qi ren su you yu shang su xue zai xiong ge zhong she se bi zi er an men zhi chao shi dang jia san xue zhi pin ru hu po dan shen tao ren dan pi deng fou ze yu xue yu re xiang tuan zu e zheng qi sui bian ru kuang fa kuang zhi zheng	1
+若紫而肿大者，乃酒毒冲心	ruo zi er zhong da zhe nai jiu du chong xin	1
+紫而干晦者，肾肝色泛也，难治	zi er gan hui zhe shen gan se fan ye nan zhi	1
+舌若淡红无色，或干而色不荣者，乃是胃津伤而气无化液也，当用炙甘草汤，不可用寒凉药	she ruo dan hong wu se huo gan er se bu rong zhe nai shi wei jin shang er qi wu hua ye ye dang yong zhi gan cao tang bu ke yong han liang yao	1
+再有不拘何色，舌生芒刺者，皆是上焦热极也，当用青布拭冷薄荷水揩之	zai you bu ju he se she sheng mang ci zhe jie shi shang jiao re ji ye dang yong qing bu shi leng bo he shui kai zhi	1
+即去者轻，旋即生者险矣	ji qu zhe qing xuan ji sheng zhe xian yi	1
+舌苔不燥，自觉闷极者，属脾湿盛也	she tai bu zao zi jue men ji zhe shu pi shi sheng ye	1
+或有伤痕血迹者，必问曾经搔挖否，不可以有血而便为枯症，仍从湿治可也	huo you shang hen xue ji zhe bi wen ceng jing sao wa fou bu ke yi you xue er bian wei ku zheng reng cong shi zhi ke ye	1
+再有神情清爽，舌胀大不能出口者，此脾湿胃热，郁极化风，而毒延于口也，用大黄磨入当用剂内，则舌胀自消矣	zai you shen qing qing shuang she zhang da bu neng chu kou zhe ci pi shi wei re yu ji hua feng er du yan yu kou ye yong da huang mo ru dang yong ji nei ze she zhang zi xiao yi	1
+舌无苔而有如烟煤隐隐者，慎不可忽视，如口渴烦热而燥者，平时胃燥也，不可攻之，宜甘寒益胃	she wu tai er you ru yan mei yin yin zhe shen bu ke hu shi ru kou ke fan re er zao zhe ping shi wei zao ye bu ke gong zhi yi gan han yi wei	1
+若不渴，肢寒而润者，乃挟阴病，宜甘温扶中	ruo bu ke zhi han er run zhe nai xie yin bing yi gan wen fu zhong	1
+此何以故？外露而里无也	ci he yi gu wai lu er li wu ye	1
+舌黑而滑者，水来克火，为阴症，当温之	she hei er hua zhe shui lai ke huo wei yin zheng dang wen zhi	1
+若见短缩，此肾气竭也，为难治，惟加人参、五味子，或救万一	ruo jian duan suo ci shen qi jie ye wei nan zhi wei jia ren shen wu wei zi huo jiu wan yi	1
+舌黑而干者，津枯火炽，急急泻南补北	she hei er gan zhe jin ku huo chi ji ji xie nan bu bei	1
+若黑燥而中心厚者，土燥水竭，急以咸苦下之	ruo hei zao er zhong xin hou zhe tu zao shui jie ji yi xian ku xia zhi	1
+若舌白如粉而滑，四边色紫绛者，温疫病初入膜原未归胃腑，急急透解，莫待传入而为险恶之症	ruo she bai ru fen er hua si bian se zi jiang zhe wen yi bing chu ru mo yuan wei gui wei fu ji ji tou jie mo dai chuan ru er wei xian e zhi zheng	1
+且见此舌者，病必见凶，须要小心	qie jian ci she zhe bing bi jian xiong xu yao xiao xin	1
+凡癍疹初见，须用纸燃照看	fan ban zhen chu jian xu yong zhi ran zhao kan	1
+胸背两胁点大而在皮肤之上者为癍，或云头隐隐，或琐碎小粒者为疹，又宜见而不宜多见	xiong bei liang xie dian da er zai pi fu zhi shang zhe wei ban huo yun tou yin yin huo suo sui xiao li zhe wei zhen you yi jian er bu yi duo jian	1
+按方书谓癍色红者属胃热，紫者热极，黑者胃烂	an fang shu wei ban se hong zhe shu wei re zi zhe re ji hei zhe wei lan	1
+然亦必看外症所合，方可断之	ran yi bi kan wai zheng suo he fang ke duan zhi	1
+春夏之问湿病，俱发癍疹为甚	chun xia zhi wen shi bing ju fa ban zhen wei shen	1
+如淡红色，四肢清，口不甚渴，脉不洪数，此非虚癍，即属阴癍	ru dan hong se si zhi qing kou bu shen ke mai bu hong shu ci fei xu ban ji shu yin ban	1
+或胸前微见数点，面赤足冷，或下利清谷，此阴盛格阳于上，当温之	huo xiong qian wei jian shu dian mian chi zu leng huo xia li qing gu ci yin sheng ge yang yu shang dang wen zhi	1
+若癍色紫而点小者，心包热也	ruo ban se zi er dian xiao zhe xin bao re ye	1
+点大而紫，胃中热也	dian da er zi wei zhong re ye	1
+癍黑而光亮者，热毒极炽	ban hei er guang liang zhe re du ji chi	1
+虽属不治，然其人气血充者，依法治之，或有可救	sui shu bu zhi ran qi ren qi xue chong zhe yi fa zhi zhi huo you ke jiu	1
+若黑而晦者必死	ruo hei er hui zhe bi si	1
+黑而隐隐四旁赤色者，乃火郁内伏，大用清凉透发，间有转红而可救者	hei er yin yin si pang chi se zhe nai huo yu nei fu da yong qing liang tou fa jian you zhuan hong er ke jiu zhe	1
+又有夹癍带疹，皆是邪之不一，各随其部而泄	you you jia ban dai zhen jie shi xie zhi bu yi ge sui qi bu er xie	1
+然癍属血者恒多，疹属气者不少	ran ban shu xue zhe heng duo zhen shu qi zhe bu shao	1
+癍疹皆是邪气外露之象，发出之时宜神情清爽，方为外解里和	ban zhen jie shi xie qi wai lu zhi xiang fa chu zhi shi yi shen qing qing shuang fang wei wai jie li he	1
+如癍疹出而昏者，此正不胜邪而内陷，或胃津内涸之候矣	ru ban zhen chu er hun zhe ci zheng bu sheng xie er nei xian huo wei jin nei he zhi hou yi	1
+再有一种白堁，小粒如水晶色者，此湿热伤肺，邪虽出而气液枯也，必得甘药补之	zai you yi zhong bai ke xiao li ru shui jing se zhe ci shi re shang fei xie sui chu er qi ye ku ye bi dei gan yao bu zhi	1
+若未至久延，气液尚在未伤，乃为湿郁卫分，汗出不彻之故，当理气分之邪	ruo wei zhi jiu yan qi ye shang zai wei shang nai wei shi yu wei fen han chu bu che zhi gu dang li qi fen zhi xie	1
+枯白如骨者多凶，气液竭也	ku bai ru gu zhe duo xiong qi ye jie ye	1
+再温热之病，看舌之后，亦须验齿	zai wen re zhi bing kan she zhi hou yi xu yan chi	1
+齿为肾之余，龈为胃之络，热邪不燥胃津，必耗肾液	chi wei shen zhi yu ken wei wei zhi luo re xie bu zao wei jin bi hao shen ye	1
+且二经之血走于此处，病深动血，结瓣于上	qie er jing zhi xue zou yu ci chu bing shen dong xue jie ban yu shang	1
+阳血色紫，紫如干漆；阴血色黄，黄如酱瓣	yang xue se zi zi ru gan qi yin xue se huang huang ru jiang ban	1
+阳血若见，安胃为主；阴血若见，救肾为要	yang xue ruo jian an wei wei zhu yin xue ruo jian jiu shen wei yao	1
+然豆瓣色者多险，惟症尚不逆者犹可治，否则难治矣	ran dou ban se zhe duo xian wei zheng shang bu ni zhe you ke zhi fou ze nan zhi yi	1
+此何故耶？盖阴下竭阳上厥也	ci he gu ye gai yin xia jie yang shang jue ye	1
+齿若光燥如石者，胃热甚也	chi ruo guang zao ru shi zhe wei re shen ye	1
+证见无汗恶寒，卫偏胜也，辛凉泄卫透汗为要	zheng jian wu han e han wei pian sheng ye xin liang xie wei tou han wei yao	1
+若如枯骨色者，肾液枯也，为难治	ruo ru ku gu se zhe shen ye ku ye wei nan zhi	1
+若上半截润，水不上承而心火上炎也，急急清心救水，俟枯处转润为妥	ruo shang ban jie run shui bu shang cheng er xin huo shang yan ye ji ji qing xin jiu shui qi ku chu zhuan run wei tuo	1
+若咬牙啮齿者，湿热化风	ruo yao ya nie chi zhe shi re hua feng	1
+痉病但咬牙者，胃热气走其络也	jing bing dan yao ya zhe wei re qi zou qi luo ye	1
+咬牙而脉症皆衰者，胃虚无谷以内荣也	yao ya er mai zheng jie shuai zhe wei xu wu gu yi nei rong ye	1
+此何以故？虚则喜实也	ci he yi gu xu ze xi shi ye	1
+舌木不缩而硬，牙关咬定难开者，此非风痰阻络，即欲作痉症，用酸物擦之即开	she mu bu suo er ying ya guan yao ding nan kai zhe ci fei feng tan zu luo ji yu zuo jing zheng yong suan wu ca zhi ji kai	1
+酸走筋，木来泄土故也	suan zou jin mu lai xie tu gu ye	1
+若齿垢如灰糕样者，胃气无权，津亡而湿浊用事，多死	ruo chi gou ru hui gao yang zhe wei qi wu quan jin wang er shi zhuo yong shi duo si	1
+初病齿缝流清血，痛者为胃火冲激，不痛者为龙火内燔	chu bing chi feng liu qing xue tong zhe wei wei huo chong ji bu tong zhe wei long huo nei fan	1
+齿焦无垢者死，齿焦有垢者肾热胃劫也	chi jiao wu gou zhe si chi jiao you gou zhe shen re wei jie ye	1
+当微下之，或玉女煎清胃救肾可也	dang wei xia zhi huo yu nv jian qing wei jiu shen ke ye	1
+再妇人病温与男子同，但多胎前产后，以及经水适来适断	zai fu ren bing wen yu nan zi tong dan duo tai qian chan hou yi ji jing shui shi lai shi duan	1
+大凡胎前病，古人皆以四物加减用之，谓恐邪来害妊也	da fan tai qian bing gu ren jie yi si wu jia jian yong zhi wei kong xie lai hai ren ye	1
+如热极者，有用井底泥及蓝布浸冷覆盖腹上等，皆是护胎之意	ru re ji zhe you yong jing di ni ji lan bu jin leng fu gai fu shang deng jie shi hu tai zhi yi	1
+然亦须看其邪之可解而用之，如血腻之药不灵，又当审察，不可固执	ran yi xu kan qi xie zhi ke jie er yong zhi ru xue ni zhi yao bu ling you dang shen cha bu ke gu zhi	1
+仍宜步步保护胎元，恐正损邪陷也	reng yi bu bu bao hu tai yuan kong zheng sun xie xian ye	1
+至于产后，方书谓慎用苦寒，恐伤已亡之阴也	zhi yu chan hou fang shu wei shen yong ku han kong shang yi wang zhi yin ye	1
+然亦要辨其邪能从上中解者，稍从症用之亦无妨也	ran yi yao bian qi xie neng cong shang zhong jie zhe shao cong zheng yong zhi yi wu fang ye	1
+不过勿犯下焦，且属虚体，当如虚怯人病邪而治	bu guo wu fan xia jiao qie shu xu ti dang ru xu qie ren bing xie er zhi	1
+况产后当血气沸腾之际，最多空窦，邪必乘虚内陷，虚处受邪为难治也	kuang chan hou dang xue qi fei teng zhi ji zui duo kong dou xie bi cheng xu nei xian xu chu shou xie wei nan zhi ye	1
+如经水适来适断，邪将陷于血室，少阳伤寒言之详悉，不必多赘	ru jing shui shi lai shi duan xie jiang xian yu xue shi shao yang shang han yan zhi xiang xi bu bi duo zhui	1
+但数动与正伤寒不同，仲景立小柴胡汤，提出所陷热邪，参枣以扶胃气，因冲脉隶属阳明也，此惟虚者为合治	dan shu dong yu zheng shang han bu tong zhong jing li xiao chai hu tang ti chu suo xian re xie can zao yi fu wei qi yin chong mai li shu yang ming ye ci wei xu zhe wei he zhi	1
+若热邪陷入与血相结者，当宗陶氏小柴胡汤，去参枣，加生地、桃仁、楂肉、丹皮，或犀角等	ruo re xie xian ru yu xue xiang jie zhe dang zong tao shi xiao chai hu tang qu can zao jia sheng di tao ren zha rou dan pi huo xi jiao deng	1
+若本经血结自甚，必少腹满痛	ruo ben jing xue jie zi shen bi shao fu man tong	1
+轻者刺期门，重者小柴胡汤去甘药，加延胡、归尾、桃仁，挟寒加肉桂，心气滞加香附、陈皮、枳壳等	qing zhe ci qi men zhong zhe xiao chai hu tang qu gan yao jia yan hu gui wei tao ren xie han jia rou gui xin qi zhi jia xiang fu chen pi zhi ke deng	1
+然热陷血室之症，多有谵语如狂之象，与阳明胃热相似，此种病机，最须辨别	ran re xian xue shi zhi zheng duo you zhan yu ru kuang zhi xiang yu yang ming wei re xiang si ci zhong bing ji zui xu bian bie	1
+血结者身体必重，非若阳明之轻便者	xue jie zhe shen ti bi zhong fei ruo yang ming zhi qing bian zhe	1
+何以故耶？阴主重浊，络脉被阻，身之侧旁气痹，连及胸背皆为阻窒，故去邪通络，正合其病	he yi gu ye yin zhu zhong zhuo luo mai bei zu shen zhi ce pang qi bi lian ji xiong bei jie wei zu zhi gu qu xie tong luo zheng he qi bing	1
+往往延久，上逆心包，胸中痹痛，即陶氏所谓血结胸也	wang wang yan jiu shang ni xin bao xiong zhong bi tong ji tao shi suo wei xue jie xiong ye	1
+王海藏出一桂枝红花汤加海蛤、桃仁，原欲表里上下一齐尽解之理，此方大有巧妙焉	wang hai cang chu yi gui zhi hong hua tang jia hai ha tao ren yuan yu biao li shang xia yi qi jin jie zhi li ci fang da you qiao miao yan	1
+湿热论	shi re lun	1
+湿热论文前	shi re lun wen qian	1
+内容提要	nei rong ti yao	1
+《湿热论》（又名《湿热条辨》）由清代著名温病学家薛雪编撰	shi re lun you ming shi re tiao bian you qing dai zhu ming wen bing xue jia xue xue bian zhuan	1
+约成书于乾隆二十一年（1756）以前	yue cheng shu yu qian long er shi yi nian 1756 yi qian	1
+不分卷	bu fen juan	1
+本书仿成无己《注解伤寒论》的体例，分条列论，简明易诵，各条之下有薛氏自注，对条文所涉内容详加辨析，故后人有以“湿热条辨”为此书命名	ben shu fang cheng wu ji zhu jie shang han lun de ti li fen tiao lie lun jian ming yi song ge tiao zhi xia you xue shi zi zhu dui tiao wen suo she nei rong xiang jia bian xi gu hou ren you yi shi re tiao bian wei ci shu ming ming	1
+全书仅论35条，直述湿热病证候表现、传变规律及治法方药	quan shu jin lun 35 tiao zhi shu shi re bing zheng hou biao xian chuan bian gui lv ji zhi fa fang yao	1
+所论多为作者临床心得，间或论及张仲景《伤寒论》及吴有性《温疫论》的理论或治法	suo lun duo wei zuo zhe lin chuang xin de jian huo lun ji zhang zhong jing shang han lun ji wu you xing wen yi lun de li lun huo zhi fa	1
+此书是一部切合临床实用的温病理论性著作，虽仅六千余字，却在湿热病方面对温病理论有创新性的补充	ci shu shi yi bu qie he lin chuang shi yong de wen bing li lun xing zhu zuo sui jin liu qian yu zi que zai shi re bing fang mian dui wen bing li lun you chuang xin xing de bu chong	1
+温病的三焦辨证方法，始见于此书，至今对临床温病辨治仍具有较强的指导作用	wen bing de san jiao bian zheng fang fa shi jian yu ci shu zhi jin dui lin chuang wen bing bian zhi reng ju you jiao qiang de zhi dao zuo yong	1
+本次整理以徐行《医学蒙求》清嘉庆十四年（1809）刻本为底本，参照其他刻本重新点校	ben ci zheng li yi xu xing yi xue meng qiu qing jia qing shi si nian 1809 ke ben wei di ben can zhao qi ta ke ben chong xin dian xiao	1
+书前撰有导读，便于读者学习	shu qian zhuan you dao du bian yu du zhe xue xi	1
+导读	dao du	1
+《湿热论》（又名《湿热条辨》）作者为清代著名温病学家———薛雪	shi re lun you ming shi re tiao bian zuo zhe wei qing dai zhu ming wen bing xue jia xue xue	1
+此书是一部切合临床实用的温病理论性著作，全文十分简短，仅六千余字，不分卷，却在湿热病方面对温病理论有了创新性的补充	ci shu shi yi bu qie he lin chuang shi yong de wen bing li lun xing zhu zuo quan wen shi fen jian duan jin liu qian yu zi bu fen juan que zai shi re bing fang mian dui wen bing li lun you le chuang xin xing de bu chong	1
+温病的三焦辨证方法，始见于此书，此后由吴鞠通完善而行于世，至今仍对临床温病辨治具有指导作用	wen bing de san jiao bian zheng fang fa shi jian yu ci shu ci hou you wu ju tong wan shan er xing yu shi zhi jin reng dui lin chuang wen bing bian zhi ju you zhi dao zuo yong	1
+然而，言三焦辨证的创始，世人多言吴氏而不知薛氏，实为对薛氏的理论贡献认识不足	ran er yan san jiao bian zheng de chuang shi shi ren duo yan wu shi er bu zhi xue shi shi wei dui xue shi de li lun gong xian ren shi bu zu	1
+一、《湿热论》与作者	yi shi re lun yu zuo zhe	1
+《湿热论》约成书于乾隆二十一年（1756）以前	shi re lun yue cheng shu yu qian long er shi yi nian 1756 yi qian	1
+其书仿成无己《注解伤寒论》的体例，分条列论，以求简明易诵，又于各条之下有薛氏自注，对条文所涉内容详加辨析，呈现一种简洁条文加上自注文的形式，故后来有人以“湿热条辨”为此命名	qi shu fang cheng wu ji zhu jie shang han lun de ti li fen tiao lie lun yi qiu jian ming yi song you yu ge tiao zhi xia you xue shi zi zhu dui tiao wen suo she nei rong xiang jia bian xi cheng xian yi zhong jian jie tiao wen jia shang zi zhu wen de xing shi gu hou lai you ren yi shi re tiao bian wei ci ming ming	1
+全书仅有论35条，直述湿热病证候表现、传变规律及治法方药	quan shu jin you lun 35 tiao zhi shu shi re bing zheng hou biao xian chuan bian gui lv ji zhi fa fang yao	1
+所论多为作者临床心得，间或谈及张仲景《伤寒论》及吴有性《温疫论》之理论或治法	suo lun duo wei zuo zhe lin chuang xin de jian huo tan ji zhang zhong jing shang han lun ji wu you xing wen yi lun zhi li lun huo zhi fa	1
+此书的作者是薛雪（1681～1770），字生白，号一瓢，江苏吴县人，与叶桂同时而齐名	ci shu de zuo zhe shi xue xue 1681～1770 zi sheng bai hao yi piao jiang su wu xian ren yu ye gui tong shi er qi ming	1
+早年习儒，诗文俱佳，而且工于书画，擅长拳技	zao nian xi ru shi wen ju jia er qie gong yu shu hua shan chang quan ji	1
+后因母患湿热病而潜心学医，医技渐精，渐至与叶桂齐名	hou yin mu huan shi re bing er qian xin xue yi yi ji jian jing jian zhi yu ye gui qi ming	1
+关于此书的作者是否为薛雪曾经有过长期的争议	guan yu ci shu de zuo zhe shi fou wei xue xue ceng jing you guo chang qi de zheng yi	1
+实际上，《湿热论》最早的载体《医学蒙求》对此有详细记载	shi ji shang shi re lun zui zao de zai ti yi xue meng qiu dui ci you xiang xi ji zai	1
+该书不仅存留薛雪自序，还有徐行所写的“湿热论序”，叙述其书的来历与传承	gai shu bu jin cun liu xue xue zi xu hai you xu xing suo xie de shi re lun xu xu shu qi shu de lai li yu chuan cheng	1
+从序中可以看出，徐行与其师吴蒙（正功）珍藏《湿热论》历时数十年	cong xu zhong ke yi kan chu xu xing yu qi shi wu meng zheng gong zhen cang shi re lun li shi shu shi nian	1
+吴蒙与薛雪二人曾共同校正周扬俊的《温热暑疫全书》，说明二人相熟，并有学术往来	wu meng yu xue xue er ren ceng gong tong jiao zheng zhou yang jun de wen re shu yi quan shu shuo ming er ren xiang shu bing you xue shu wang lai	1
+吴蒙所珍藏的《湿热论》应来自薛雪本人	wu meng suo zhen cang de shi re lun ying lai zi xue xue ben ren	1
+因薛雪喜欢以儒者自居，而不愿以医者自称	yin xue xue xi huan yi ru zhe zi ju er bu yuan yi yi zhe zi cheng	1
+故在世时，他的医学著作并未刊行	gu zai shi shi ta de yi xue zhu zuo bing wei kan xing	1
+吴蒙得其《湿热论》后曾进行校订，但不曾付梓，并将此书传给弟子徐行	wu meng de qi shi re lun hou ceng jin xing jiao ding dan bu ceng fu zi bing jiang ci shu chuan gei di zi xu xing	1
+徐行“序”中还提到他在乾隆丙午（1786）治疫时，悉本周（扬俊）、薛（雪）二书	xu xing xu zhong hai ti dao ta zai qian long bing wu 1786 zhi yi shi xi ben zhou yang jun xue xue er shu	1
+由此可见，在1786年之前，薛雪《湿热论》已在苏州当地流传，且为医家所遵崇	you ci ke jian zai 1786 nian zhi qian xue xue shi re lun yi zai su zhou dang di liu chuan qie wei yi jia suo zun chong	1
+《湿热论》另一早期载体《医师秘笈》重刻刊行者舒松摩也是苏州人，也佐证了这一点	shi re lun ling yi zao qi zai ti yi shi mi ji zhong ke kan xing zhe shu song mo ye shi su zhou ren ye zuo zheng le zhe yi dian	1
+故《湿热论》为薛雪所撰当无疑问	gu shi re lun wei xue xue suo zhuan dang wu yi wen	1
+然而王孟英在《温热经纬》中认为薛氏之著，“究难考实，姑从俗以标其姓字”	ran er wang meng ying zai wen re jing wei zhong ren wei xue shi zhi zhu jiu nan kao shi gu cong su yi biao qi xing zi	1
+这是因为王孟英未能得见徐行《医学蒙求》，仅见舒松摩重刻《医师秘笈》附有薛氏书，又见陈平伯《温热病指南集》有薛氏论而无薛氏名，故为之疑惑，发出作者“究难考实”的感叹	zhe shi yin wei wang meng ying wei neng de jian xu xing yi xue meng qiu jin jian shu song mo zhong ke yi shi mi ji fu you xue shi shu you jian chen ping bo wen re bing zhi nan ji you xue shi lun er wu xue shi ming gu wei zhi yi huo fa chu zuo zhe jiu nan kao shi de gan tan	1
+由于王氏著作流传甚广，故对薛作《湿热论》的质疑也有较大的影响	you yu wang shi zhu zuo liu chuan shen guang gu dui xue zuo shi re lun de zhi yi ye you jiao da de ying xiang	1
+而这种质疑是由于王孟英没有见《湿热论》最早版本而导致的错误认识	er zhe zhong zhi yi shi you yu wang meng ying mei you jian shi re lun zui zao ban ben er dao zhi de cuo wu ren shi	1
+二、主要学术特点及对临床的指导意义	er zhu yao xue shu te dian ji dui lin chuang de zhi dao yi yi	1
+本书的学术特点主要有两个方面	ben shu de xue shu te dian zhu yao you liang ge fang mian	1
+1﹒阐明湿热病的病机特点	1﹒ chan ming shi re bing de bing ji te dian	1
+薛雪著《湿热论》主要阐发湿热为病，尤其着重于“湿”的病机特点	xue xue zhu shi re lun zhu yao chan fa shi re wei bing you qi zhuo zhong yu shi de bing ji te dian	1
+他指出：“夫热为天之气，湿为地之气，热得湿而热愈炽，湿得热而湿愈横	ta zhi chu fu re wei tian zhi qi shi wei di zhi qi re de shi er re yu chi shi de re er shi yu heng	1
+湿热两分，其病轻而缓；湿热两合，其病重而速	shi re liang fen qi bing qing er huan shi re liang he qi bing zhong er su	1
+”他认为：有湿无热，只能蒙蔽清阳，或上焦，或中焦，或下焦，病机比较单一	ta ren wei you shi wu re zhi neng meng bi qing yang huo shang jiao huo zhong jiao huo xia jiao bing ji bi jiao dan yi	1
+而温与热合，病情就会出现多种变化	er wen yu re he bing qing jiu hui chu xian duo zhong bian hua	1
+如湿多热少，将在三焦之间传变，可三焦分治；湿热俱多，则可能三焦俱病，内外煎熬，最为酷烈	ru shi duo re shao jiang zai san jiao zhi jian chuan bian ke san jiao fen zhi shi re ju duo ze ke neng san jiao ju bing nei wai jian ao zui wei ku lie	1
+因此湿热之病不仅与伤寒不同，而且与普通温病也大不一样	yin ci shi re zhi bing bu jin yu shang han bu tong er qie yu pu tong wen bing ye da bu yi yang	1
+湿热是温病中的特殊病种，由湿邪与温邪二者共同为病，必须在病机认识与诊断治法方面与普通温病有所区别	shi re shi wen bing zhong de te shu bing zhong you shi xie yu wen xie er zhe gong tong wei bing bi xu zai bing ji ren shi yu zhen duan zhi fa fang mian yu pu tong wen bing you suo qu bie	1
+2﹒创立三焦辨证方法	2﹒ chuang li san jiao bian zheng fang fa	1
+薛氏指出：“湿热之邪，不自表而入，故无表里可分，而未尝无三焦可辨	xue shi zhi chu shi re zhi xie bu zi biao er ru gu wu biao li ke fen er wei chang wu san jiao ke bian	1
+”因此，他主张以三焦辨证来辨治湿热病	yin ci ta zhu zhang yi san jiao bian zheng lai bian zhi shi re bing	1
+湿热病全程大致可分为三个阶段，初起邪由口鼻而入，可有阳明表证，感邪重者可见湿伏中焦	shi re bing quan cheng da zhi ke fen wei san ge jie duan chu qi xie you kou bi er ru ke you yang ming biao zheng gan xie zhong zhe ke jian shi fu zhong jiao	1
+中期根据体质不同及感邪之湿热偏胜，此期邪有三条去路，即上焦、中焦、下焦	zhong qi gen ju ti zhi bu tong ji gan xie zhi shi re pian sheng ci qi xie you san tiao qu lu ji shang jiao zhong jiao xia jiao	1
+邪上传上焦，可见心肺之证；滞留中焦，则见脾胃之证；下传下焦，则见肝肾之证	xie shang chuan shang jiao ke jian xin fei zhi zheng zhi liu zhong jiao ze jian pi wei zhi zheng xia chuan xia jiao ze jian gan shen zhi zheng	1
+感邪极重，可出现湿热充斥三焦之证	gan xie ji zhong ke chu xian shi re chong chi san jiao zhi zheng	1
+后期则人体正气已受损伤，一般以中下焦证为多见	hou qi ze ren ti zheng qi yi shou sun shang yi ban yi zhong xia jiao zheng wei duo jian	1
+此书应该是最早创立三焦辨证的著作，只因条文排列比较随意，其蕴含的辨证规律性不易被发现，故影响反不如其后的《温病条辨》	ci shu ying gai shi zui zao chuang li san jiao bian zheng de zhu zuo zhi yin tiao wen pai lie bi jiao sui yi qi yun han de bian zheng gui lv xing bu yi bei fa xian gu ying xiang fan bu ru qi hou de wen bing tiao bian	1
+由于湿热病症状严重，缠绵难愈，且发病广泛，用一般温病的治疗方法不仅不能解决问题，而且可能造成不良后果	you yu shi re bing zheng zhuang yan zhong chan mian nan yu qie fa bing guang fan yong yi ban wen bing de zhi liao fang fa bu jin bu neng jie jue wen ti er qie ke neng zao cheng bu liang hou guo	1
+薛雪的《湿热论》首次为湿热证专门著书立说，详加论述，对于临床湿热证的诊断治疗有着良好的指导作用	xue xue de shi re lun shou ci wei shi re zheng zhuan men zhu shu li shuo xiang jia lun shu dui yu lin chuang shi re zheng de zhen duan zhi liao you zhe liang hao de zhi dao zuo yong	1
+其中所论之三焦辨证，经吴鞠通进一步完善，成为温病的重要辨证方法体系，至今仍在临床上使用	qi zhong suo lun zhi san jiao bian zheng jing wu ju tong jin yi bu wan shan cheng wei wen bing de zhong yao bian zheng fang fa ti xi zhi jin reng zai lin chuang shang shi yong	1
+需要说明的是，据《湿热论》的两个最早版本———徐行《医学蒙求》与舒松摩《医师秘笈》所载，《湿热论》的条文当为35条	xu yao shuo ming de shi ju shi re lun de liang ge zui zao ban ben xu xing yi xue meng qiu yu shu song mo yi shi mi ji suo zai shi re lun de tiao wen dang wei 35 tiao	1
+而王孟英的《温热经纬》所收的“湿热病篇”，将陈平伯《温热病指南集·湿温证条例》中的条文混入《湿热论》共成45条，这本是一个错误的版本	er wang meng ying de wen re jing wei suo shou de shi re bing pian jiang chen ping bo wen re bing zhi nan ji · shi wen zheng tiao li zhong de tiao wen hun ru shi re lun gong cheng 45 tiao zhe ben shi yi ge cuo wu de ban ben	1
+但是，由于王氏《温热经纬》流传极为广泛，远远超过《湿热论》本书，这种错误的认识影响很大	dan shi you yu wang shi wen re jing wei liu chuan ji wei guang fan yuan yuan chao guo shi re lun ben shu zhe zhong cuo wu de ren shi ying xiang hen da	1
+所以，读者学习时一定要注意区别	suo yi du zhe xue xi shi yi ding yao zhu yi qu bie	1
+三、如何学习应用《湿热论》	san ru he xue xi ying yong shi re lun	1
+《湿热论》是一本文字简短、观点鲜明、论理精辟的温病学著作	shi re lun shi yi ben wen zi jian duan guan dian xian ming lun li jing pi de wen bing xue zhu zuo	1
+学习此书首先要弄清书的结构，以准确理解作者的意图	xue xi ci shu shou xian yao nong qing shu de jie gou yi zhun que li jie zuo zhe de yi tu	1
+其次要从湿热病邪的特点中领会薛氏用药特色，以求在临床上能学以致用	qi ci yao cong shi re bing xie de te dian zhong ling hui xue shi yong yao te se yi qiu zai lin chuang shang neng xue yi zhi yong	1
+1﹒熟记条文，理解注文	1﹒ shu ji tiao wen li jie zhu wen	1
+整本《湿热论》只有六千多字，而其中条文字数更为精炼	zheng ben shi re lun zhi you liu qian duo zi er qi zhong tiao wen zi shu geng wei jing lian	1
+约一千字左右的条文，包括了症状表现、临床用药等实用性很强的内容	yue yi qian zi zuo you de tiao wen bao kuo le zheng zhuang biao xian lin chuang yong yao deng shi yong xing hen qiang de nei rong	1
+而薛氏的自注文给出了病机说明、方解、用药注意等理论性较强的内容	er xue shi de zi zhu wen gei chu le bing ji shuo ming fang jie yong yao zhu yi deng li lun xing jiao qiang de nei rong	1
+因此，如果能够熟记条文，就可以在临床很好应用，而充分理解了注文，则可能举一反三	yin ci ru guo neng gou shu ji tiao wen jiu ke yi zai lin chuang hen hao ying yong er chong fen li jie le zhu wen ze ke neng ju yi fan san	1
+2﹒认真领会湿热病的三焦辨证用药	2﹒ ren zhen ling hui shi re bing de san jiao bian zheng yong yao	1
+薛氏在《湿热论》的第一条首论湿热病提纲，指出湿热证以“始恶寒，后但热不寒，始恶寒，后但热不寒，汗出，胸痞，舌白或黄，口渴不引饮”为主症，并认为，湿热证之脉象则“无定体，或洪或缓，或伏或细，各随症见，不拘一格”	xue shi zai shi re lun de di yi tiao shou lun shi re bing ti gang zhi chu shi re zheng yi shi e han hou dan re bu han shi e han hou dan re bu han han chu xiong pi she bai huo huang kou ke bu yin yin wei zhu zheng bing ren wei shi re zheng zhi mai xiang ze wu ding ti huo hong huo huan huo fu huo xi ge sui zheng jian bu ju yi ge	1
+由于湿邪易伤中焦，所以湿温表证，既非太阳经头痛项强之表，亦非肺卫咽痛咳嗽之表，而是表现为阳明、太阴同病，“四肢倦怠、肌肉烦疼”亦为湿热所必有之症	you yu shi xie yi shang zhong jiao suo yi shi wen biao zheng ji fei tai yang jing tou tong xiang qiang zhi biao yi fei fei wei yan tong ke sou zhi biao er shi biao xian wei yang ming tai yin tong bing si zhi juan dai ji rou fan teng yi wei shi re suo bi you zhi zheng	1
+针对湿热证易伤中焦的病机特点，薛氏在治疗用药处处注意化湿通阳，不仅要顾护阴液，还要顾护脾胃阳气	zhen dui shi re zheng yi shang zhong jiao de bing ji te dian xue shi zai zhi liao yong yao chu chu zhu yi hua shi tong yang bu jin yao gu hu yin ye hai yao gu hu pi wei yang qi	1
+《湿热论》早期的文字仅见于多种清代温病著作中，未见有同治年（1862～1874）以前的单行本	shi re lun zao qi de wen zi jin jian yu duo zhong qing dai wen bing zhu zuo zhong wei jian you tong zhi nian 1862～1874 yi qian de dan xing ben	1
+因徐行《医学蒙求》清嘉庆十四（1809）刻本为现存此书最早的传本，故本次整理以此为底本，以舒松摩重刻《薛生白医师秘笈》清嘉庆十七（1812）年写 楼刻本为校本，并参考章楠《医门棒喝》、王孟英《温热经纬》及潘道根《湿热论批本》等进行整理	yin xu xing yi xue meng qiu qing jia qing shi si 1809 ke ben wei xian cun ci shu zui zao de chuan ben gu ben ci zheng li yi ci wei di ben yi shu song mo zhong ke xue sheng bai yi shi mi ji qing jia qing shi qi 1812 nian xie   lou ke ben wei jiao ben bing can kao zhang nan yi men bang he wang meng ying wen re jing wei ji pan dao gen shi re lun pi ben deng jin xing zheng li	1
+张志斌	zhang zhi bin	1
+2007年3月	2007 nian 3 yue	1
+整理说明	zheng li shuo ming	1
+一、本次整理以徐行《医学蒙求》清嘉庆十四年（1809）刻本为底本，这是现存此书最早的传本，以舒松摩重刻《薛生白医师秘笈》清嘉庆十七年（1812）写 楼刻本为主校本，以章楠《医门棒喝》清道光九年（1829）刻本为他校本，并参考王孟英《温热经纬》清咸丰二年（1852）刻本及潘道根《湿热论批本》清咸丰二年（1852）抄本	yi ben ci zheng li yi xu xing yi xue meng qiu qing jia qing shi si nian 1809 ke ben wei di ben zhe shi xian cun ci shu zui zao de chuan ben yi shu song mo zhong ke xue sheng bai yi shi mi ji qing jia qing shi qi nian 1812 xie   lou ke ben wei zhu jiao ben yi zhang nan yi men bang he qing dao guang jiu nian 1829 ke ben wei ta jiao ben bing can kao wang meng ying wen re jing wei qing xian feng er nian 1852 ke ben ji pan dao gen shi re lun pi ben qing xian feng er nian 1852 chao ben	1
+二、凡底本不误而校本有误者，不予改动	er fan di ben bu wu er jiao ben you wu zhe bu yu gai dong	1
+底本有语义不通之处，而校本通顺者，据校本改	di ben you yu yi bu tong zhi chu er jiao ben tong shun zhe ju jiao ben gai	1
+三、本书采用横排、简体，现代标点	san ben shu cai yong heng pai jian ti xian dai biao dian	1
+容易产生歧义的简体字，则仍使用原繁体（如本书所据底之刊刻者为“写 楼”，不改为“写韵楼”；薛氏又被称为“徵君”，不改为“征君”等）	rong yi chan sheng qi yi de jian ti zi ze reng shi yong yuan fan ti ru ben shu suo ju di zhi kan ke zhe wei xie   lou bu gai wei xie yun lou xue shi you bei cheng wei zheng jun bu gai wei zheng jun deng	1
+四、该书药名有与今通行之名用字不同者，为便利当代读者使用，一般改用通行之名（如“石羔”改作“石膏”等）	si gai shu yao ming you yu jin tong xing zhi ming yong zi bu tong zhe wei bian li dang dai du zhe shi yong yi ban gai yong tong xing zhi ming ru shi gao gai zuo shi gao deng	1
+药物异名、或能体现时代用药特征的药名不改（如“香茹”不改做“香薷”；“大力子”不改做“牛蒡子”等）	yao wu yi ming huo neng ti xian shi dai yong yao te zheng de yao ming bu gai ru xiang ru bu gai zuo xiang ru da li zi bu gai zuo niu bang zi deng	1
+五、底本中医名词术语用字与今规范用语不同者，为便利当代读者使用，一般改用规范用语（如“胃府”改作“胃腑”、“心胞”改作“心包”、“熄风”改作“息风”等）	wu di ben zhong yi ming ci shu yu yong zi yu jin gui fan yong yu bu tong zhe wei bian li dang dai du zhe shi yong yi ban gai yong gui fan yong yu ru wei fu gai zuo wei fu xin bao gai zuo xin bao xi feng gai zuo xi feng deng	1
+尤其是书中一字二形的情况，据目前规范的情况统一为其中之一者（如“癍”与“斑”，作为皮肤病态出现时，统一作“癍”等）	you qi shi shu zhong yi zi er xing de qing kuang ju mu qian gui fan de qing kuang tong yi wei qi zhong zhi yi zhe ru ban yu ban zuo wei pi fu bing tai chu xian shi tong yi zuo ban deng	1
+六、原书书后附有徐行的按语，因此按是对湿热病论治的讨论，有利于对《湿热论》的理解，故予以保留	liu yuan shu shu hou fu you xu xing de an yu yin ci an shi dui shi re bing lun zhi de tao lun you li yu dui shi re lun de li jie gu yu yi bao liu	1
+湿热论序	shi re lun xu	1
+天有六气，阴阳、风雨、晦明	tian you liu qi yin yang feng yu hui ming	1
+阳淫热疾，雨淫腹疾，即言湿热也	yang yin re ji yu yin fu ji ji yan shi re ye	1
+二者感之颇易，治之颇难	er zhe gan zhi po yi zhi zhi po nan	1
+救治之有功，贵辨之确切	jiu zhi zhi you gong gui bian zhi que qie	1
+若不取前人历试明验，阐发精义，成书探索而研穷之，即治之，能一一效乎？徵君薛一瓢先生，吴医中巨擘也	ruo bu qu qian ren li shi ming yan chan fa jing yi cheng shu tan suo er yan qiong zhi ji zhi zhi neng yi yi xiao hu zheng jun xue yi piao xian sheng wu yi zhong ju bo ye	1
+著有《湿热论》，皆亲疗愈，历有成效，随时登录者	zhu you shi re lun jie qin liao yu li you cheng xiao sui shi deng lu zhe	1
+简编无多，其于湿热二者，感受之轻重浅深，治之表里先后，条分缕析，可谓深切著明者矣	jian bian wu duo qi yu shi re er zhe gan shou zhi qing zhong qian shen zhi zhi biao li xian hou tiao fen lv xi ke wei shen qie zhu ming zhe yi	1
+吾师正功吴先生，校订未梓	wu shi zheng gong wu xian sheng jiao ding wei zi	1
+因思先生于乾隆丙子岁，吴中疫行，大吏延主医局	yin si xian sheng yu qian long bing zi sui wu zhong yi xing da li yan zhu yi ju	1
+蒇事后，承辑禹载周君《温热暑疫》方书，刊行已久	chan shi hou cheng ji yu zai zhou jun wen re shu yi fang shu kan xing yi jiu	1
+疫行春夏之交，感受二者为多	yi xing chun xia zhi jiao gan shou er zhe wei duo	1
+是论实与温热方书相为表里，不可偏废者也	shi lun shi yu wen re fang shu xiang wei biao li bu ke pian fei zhe ye	1
+余于医数十年，耽玩讲求，未有所得	yu yu yi shu shi nian dan wan jiang qiu wei you suo de	1
+犹忆丙午岁，疫亦流行，于范文正义庄设局疗治	you yi bing wu sui yi yi liu xing yu fan wen zheng yi zhuang she ju liao zhi	1
+余承乏斯役，治有效者，悉本二书	yu cheng fa si yi zhi you xiao zhe xi ben er shu	1
+今周君书流播遐迩，独是论湮没不彰，深惜之	jin zhou jun shu liu bo xia er du shi lun yan mo bu zhang shen xi zhi	1
+爰与同学华子杏帆、家孟旭堂，再加参考，寿诸梨枣	yuan yu tong xue hua zi xing fan jia meng xu tang zai jia can kao shou zhu li zao	1
+习斯道者，诚能探索而研穷之，于二者之感，辨之必确切，治之必有功，则徵君是书，有裨后来，岂浅鲜哉	xi si dao zhe cheng neng tan suo er yan qiong zhi yu er zhe zhi gan bian zhi bi que qie zhi zhi bi you gong ze zheng jun shi shu you bi hou lai qi qian xian zai	1
+是为序	shi wei xu	1
+时嘉庆九年岁次甲子仲春徐行	shi jia qing jiu nian sui ci jia zi zhong chun xu xing	1
+书于元都仙馆之西翼肯堂	shu yu yuan dou xian guan zhi xi yi ken tang	1
+薛序	xue xu	1
+扫叶庄，一瓢耕牧且读之所也	sao ye zhuang yi piao geng mu qie du zhi suo ye	1
+维时，残月在窗，明星未稀，惊鸟出树，荒鸡与飞虫相乱，杂杳无聚	wei shi can yue zai chuang ming xing wei xi jing niao chu shu huang ji yu fei chong xiang luan za yao wu ju	1
+少焉，晓影渐分，则又小鸟闹春，间关啁啾，尽巧极縻，寂淡山林，喧若朝市	shao yan xiao ying jian fen ze you xiao diao nao chun jian guan zhou jiu jin qiao ji mi ji dan shan lin xuan ruo chao shi	1
+不知何处老鹤，横空而来，长唳一声，群鸟寂然	bu zhi he chu lao he heng kong er lai zhang li yi sheng qun niao ji ran	1
+四顾山光，直落檐际，清净耳根，始为我有	si gu shan guang zhi luo yan ji qing jing er gen shi wei wo you	1
+于是，盥漱初毕，伸纸磨墨，将数月以来所历病机，与诸子弟或阐发前人，或据己意，随所有得，随笔数行	yu shi guan shu chu bi shen zhi mo mo jiang shu yue yi lai suo li bing ji yu zhu zi di huo chan fa qian ren huo ju ji yi sui suo you de sui bi shu xing	1
+录竟读之，如啖齑羹，寸寸各具酸咸，要不与珍错同登樽俎，亦未方乎	lu jing du zhi ru dan ji geng cun cun ge ju suan xian yao bu yu zhen cuo tong deng zun zu yi wei fang hu	1
+横空老鹤，一声长唳	heng kong lao he yi sheng zhang li	1
+薛雪书于扫叶庄	xue xue shu yu sao ye zhuang	1
+湿热论	shi re lun	1
+湿热症，始恶寒，后但热不寒，汗出，胸痞，舌白或黄，口渴不引饮	shi re zheng shi e han hou dan re bu han han chu xiong pi she bai huo huang kou ke bu yin yin	1
+一	yi	1
+此条乃湿热症之提纲也	ci tiao nai shi re zheng zhi ti gang ye	1
+湿热病属阳明、太阴经者居多	shi re bing shu yang ming tai yin jing zhe ju duo	1
+中气实则病在阳明，中气虚则病属太阴	zhong qi shi ze bing zai yang ming zhong qi xu ze bing shu tai yin	1
+病在二经之表者，多兼少阳三焦；病在二经之里者，每兼厥阴风木	bing zai er jing zhi biao zhe duo jian shao yang san jiao bing zai er jing zhi li zhe mei jian jue yin feng mu	1
+以少阳、厥阴同司相火	yi shao yang jue yin tong si xiang huo	1
+阳明、太阴湿久郁生热，热甚则少火皆成壮火，而表里上下充斥肆逆	yang ming tai yin shi jiu yu sheng re re shen ze shao huo jie cheng zhuang huo er biao li shang xia chong chi si ni	1
+故是症最易耳聋干呕，发痉发厥	gu shi zheng zui yi er long gan ou fa jing fa jue	1
+而提纲中不言及者，因以上诸症，皆湿热中兼见之变局，而非湿热病必见之正局也	er ti gang zhong bu yan ji zhe yin yi shang zhu zheng jie shi re zhong jian jian zhi bian ju er fei shi re bing bi jian zhi zheng ju ye	1
+始恶寒者，阳为湿遏而恶寒，终非若寒伤于表之恶寒	shi e han zhe yang wei shi e er e han zhong fei ruo han shang yu biao zhi e han	1
+后但热不寒，则郁而成热，反恶热矣	hou dan re bu han ze yu er cheng re fan e re yi	1
+热盛阳明则汗出，湿蔽清阳则胸痞，湿邪内盛则舌白，湿热交蒸则苔黄，热则液不升而口渴，湿则饮内留而不引饮	re sheng yang ming ze han chu shi bi qing yang ze xiong pi shi xie nei sheng ze she bai shi re jiao zheng ze tai huang re ze ye bu sheng er kou ke shi ze yin nei liu er bu yin yin	1
+然所云表者，乃阳明、太阴之表，而非太阳之表	ran suo yun biao zhe nai yang ming tai yin zhi biao er fei tai yang zhi biao	1
+太阴之表四肢也，阳明也；阳明之表肌肉也，胸中也	tai yin zhi biao si zhi ye yang ming ye yang ming zhi biao ji rou ye xiong zhong ye	1
+故胸痞为湿热必有之症，四肢倦怠、肌肉烦疼，亦必并见	gu xiong pi wei shi re bi you zhi zheng si zhi juan dai ji rou fan teng yi bi bing jian	1
+其所以不干太阳者，以太阳为寒水之脏，主一身之表，风寒必自表入，故属太阳	qi suo yi bu gan tai yang zhe yi tai yang wei han shui zhi zang zhu yi shen zhi biao feng han bi zi biao ru gu shu tai yang	1
+湿热 不尽从表入，故不必由太阳	shi re   bu jin cong biao ru gu bu bi you tai yang	1
+况风寒伤营卫，营卫乃太阳所司；湿热伤肌肉，肌肉为阳明所主	kuang feng han shang ying wei ying wei nai tai yang suo si shi re shang ji rou ji rou wei yang ming suo zhu	1
+寒湿之属太阳者，以太阳为寒水，同气相求也；湿热之属阳明者，阳明为中土，火化从阳也	han shi zhi shu tai yang zhe yi tai yang wei han shui tong qi xiang qiu ye shi re zhi shu yang ming zhe yang ming wei zhong tu huo hua cong yang ye	1
+湿热之邪，从表伤者，十之一二，由口鼻入者，十之八九	shi re zhi xie cong biao shang zhe shi zhi yi er you kou bi ru zhe shi zhi ba jiu	1
+阳明为水谷之海，太阴为湿土之脏，故多由阳明、太阴受病	yang ming wei shui gu zhi hai tai yin wei shi tu zhi zang gu duo you yang ming tai yin shou bing	1
+膜原者，外近肌肉，内近胃腑，即三焦之门户，而实一身之半表半里也	mo yuan zhe wai jin ji rou nei jin wei fu ji san jiao zhi men hu er shi yi shen zhi ban biao ban li ye	1
+邪由上受，直趋中道，故病亦多归膜原	xie you shang shou zhi qu zhong dao gu bing yi duo gui mo yuan	1
+要之，湿热之病不独与伤寒不同，且与温病大异	yao zhi shi re zhi bing bu du yu shang han bu tong qie yu wen bing da yi	1
+温病乃太阳、少阴同病；湿热乃阳明、太阴同病也	wen bing nai tai yang shao yin tong bing shi re nai yang ming tai yin tong bing ye	1
+而提纲中反不及脉者，以湿热之症脉无定体，或洪或缓，或伏或细，各随症见，不拘一格，故难以一定之脉拘定后人眼目也	er ti gang zhong fan bu ji mai zhe yi shi re zhi zheng mai wu ding ti huo hong huo huan huo fu huo xi ge sui zheng jian bu ju yi ge gu nan yi yi ding zhi mai ju ding hou ren yan mu ye	1
+湿热之病，阳明必兼太阴者，人徒知脏腑相连，湿土同气，而不特此也，当与温病之必兼少阴比例	shi re zhi bing yang ming bi jian tai yin zhe ren tu zhi zang fu xiang lian shi tu tong qi er bu te ci ye dang yu wen bing zhi bi jian shao yin bi li	1
+少阴不藏，木火内燔，风邪外袭，表里相煽，故为温病；太阴内伤，湿饮停聚，客邪再至，内外相引，故病湿热	shao yin bu cang mu huo nei fan feng xie wai xi biao li xiang shan gu wei wen bing tai yin nei shang shi yin ting ju ke xie zai zhi nei wai xiang yin gu bing shi re	1
+此皆先有内伤，再感客邪，非由腑及脏之谓	ci jie xian you nei shang zai gan ke xie fei you fu ji zang zhi wei	1
+若湿热之症，不挟内伤，中气实者，其病必微	ruo shi re zhi zheng bu xie nei shang zhong qi shi zhe qi bing bi wei	1
+或有先因于湿，再因饥饱劳役而病者，亦属内伤挟湿，标本同病	huo you xian yin yu shi zai yin ji bao lao yi er bing zhe yi shu nei shang xie shi biao ben tong bing	1
+然劳倦伤脾为不足，湿饮停积为有余	ran lao juan shang pi wei bu zu shi yin ting ji wei you yu	1
+所以内伤外感，孰多孰少，孰实孰虚，又在治病者之临症时权衡矣	suo yi nei shang wai gan shu duo shu shao shu shi shu xu you zai zhi bing zhe zhi lin zheng shi quan heng yi	1
+湿热症，恶寒无汗，身重头痛	shi re zheng e han wu han shen chong tou tong	1
+湿在表分	shi zai biao fen	1
+宜藿香、香茹、羌活、苍术皮、薄荷、大力子等味	yi huo xiang xiang ru qiang huo cang zhu pi bo he da li zi deng wei	1
+头不痛，去羌活	tou bu tong qu qiang huo	1
+二	er	1
+身重恶寒，湿遏卫阳之表证	shen zhong e han shi e wei yang zhi biao zheng	1
+头痛必挟风邪，故加羌活，不独 胜湿，用以祛风	tou tong bi xie feng xie gu jia qiang huo bu du   sheng shi yong yi qu feng	1
+而此条阴湿伤表之候	er ci tiao yin shi shang biao zhi hou	1
+湿热症，汗出，恶寒，发热，身重，关节疼痛，湿在肌肉，不为汗解	shi re zheng han chu e han fa re shen zhong guan jie teng tong shi zai ji rou bu wei han jie	1
+宜滑石、豆卷、苓皮、苍术皮、藿香叶、鲜荷叶、通草、桔梗等味	yi hua shi dou juan ling pi cang zhu pi huo xiang ye xian he ye tong cao jie geng deng wei	1
+不恶寒者，去苍术皮	bu e han zhe qu cang zhu pi	1
+三	san	1
+此条外候与上条颇同，惟汗出独异，更加关节疼烦，乃湿邪初犯阳明之表，故略见恶寒，及至发热，恶寒当自罢矣	ci tiao wai hou yu shang tiao po tong wei han chu du yi geng jia guan jie teng fan nai shi xie chu fan yang ming zhi biao gu lve jian e han ji zhi fa re e han dang zi ba yi	1
+用药通阳明之表，而即清胃脘之热者，不欲湿邪之郁热上蒸，而欲湿邪之因渗下走耳	yong yao tong yang ming zhi biao er ji qing wei wan zhi re zhe bu yu shi xie zhi yu re shang zheng er yu shi xie zhi yin shen xia zou er	1
+此条阳湿伤表之候	ci tiao yang shi shang biao zhi hou	1
+湿热症，三四日即口噤，四肢牵引拘急，甚则角弓反张，湿热侵入经络脉隧中	shi re zheng san si ri ji kou jin si zhi qian yin ju ji shen ze jiao gong fan zhang shi re qin ru jing luo mai sui zhong	1
+宜鲜地龙、秦艽、威灵仙、滑石、苍耳子、丝瓜藤、海风藤、酒淬川连等味	yi xian di long qin jiao wei ling xian hua shi cang er zi si gua teng hai feng teng jiu cui chuan lian deng wei	1
+四	si	1
+此条乃湿邪挟风邪者	ci tiao nai shi xie xie feng xie zhe	1
+风为木气，风动则木张，乘入阳明之络则口噤，走窜太阴之经则拘牵	feng wei mu qi feng dong ze mu zhang cheng ru yang ming zhi luo ze kou jin zou cuan tai yin zhi jing ze ju qian	1
+故用药不独渗湿，重用息风	gu yong yao bu du shen shi zhong yong xi feng	1
+一则风药能胜湿，一则风药能疏肝也	yi ze feng yao neng sheng shi yi ze feng yao neng shu gan ye	1
+选用地龙、诸藤者，欲其宣通络脉耳	xuan yong di long zhu teng zhe yu qi xuan tong luo mai er	1
+或问：仲景治痉，原有桂枝加栝蒌根及葛根汤两方，后人屏而不用，岂宜于古者，不宜于今耶？今之痉者，与厥相连，仲景不言及厥，岂《金匮》有遗文耶？余曰：非也	huo wen zhong jing zhi jing yuan you gui zhi jia gua lou gen ji ge gen tang liang fang hou ren ping er bu yong qi yi yu gu zhe bu yi yu jin ye jin zhi jing zhe yu jue xiang lian zhong jing bu yan ji jue qi jin kui you yi wen ye yu yue fei ye	1
+药因病用，病源既异，治法自殊	yao yin bing yong bing yuan ji yi zhi fa zi shu	1
+故同一发痉，而伤寒与湿热之病因不同	gu tong yi fa jing er shang han yu shi re zhi bing yin bu tong	1
+伤寒之痉自外来，正属太阳，治以散外邪为主；湿热之痉自内出，波及太阳，治以熄内风为主	shang han zhi jing zi wai lai zheng shu tai yang zhi yi san wai xie wei zhu shi re zhi jing zi nei chu bo ji tai yang zhi yi xi nei feng wei zhu	1
+盖三焦与肝胆同司相火，中焦湿热不解，则热甚于里，而少火悉成壮火	gai san jiao yu gan dan tong si xiang huo zhong jiao shi re bu jie ze re shen yu li er shao huo xi cheng zhuang huo	1
+火动则风生，而筋挛脉急；风煽则火炽，而识乱神迷	huo dong ze feng sheng er jin luan mai ji feng shan ze huo chi er shi luan shen mi	1
+身中之气，随风火上炎，而有升无降，常度尽失，由是 而形若尸厥，正《内经》所谓“血之与气，并走于上，则为暴厥”者是也	shen zhong zhi qi sui feng huo shang yan er you sheng wu jiang chang du jin shi you shi   er xing ruo shi jue zheng nei jing suo wei xue zhi yu qi bing zou yu shang ze wei bao jue zhe shi ye	1
+外窜筋经则成痉，内并膻中则为厥	wai cuan jin jing ze cheng jing nei bing dan zhong ze wei jue	1
+内外充斥，痉厥并见	nei wai chong chi jing jue bing jian	1
+正气犹存一线，则气复返而生；胃津不克支持，则厥不回而死矣	zheng qi you cun yi xian ze qi fu fan er sheng wei jin bu ke zhi chi ze jue bu hui er si yi	1
+所以痉之与厥，往往相连	suo yi jing zhi yu jue wang wang xiang lian	1
+伤寒之痉自外来者，安有是哉？暑月痉症与霍乱同出一源	shang han zhi jing zi wai lai zhe an you shi zai shu yue jing zheng yu huo luan tong chu yi yuan	1
+风因火生，火随风转	feng yin huo sheng huo sui feng zhuan	1
+乘入阳明则呕，贼及太阴则泻，是名霍乱；窜入筋中则挛急，流入脉络则反张，是名痉	cheng ru yang ming ze ou zei ji tai yin ze xie shi ming huo luan cuan ru jin zhong ze luan ji liu ru mai luo ze fan zhang shi ming jing	1
+但痉症多厥，霍乱无厥者	dan jing zheng duo jue huo luan wu jue zhe	1
+痉则风火闭郁，郁则邪势愈甚，不免逼乱神明；霍乱则风火外泄，泄则邪势外解，不至循经内走，此痉与霍乱之分也	jing ze feng huo bi yu yu ze xie shi yu shen bu mian bi luan shen ming huo luan ze feng huo wai xie xie ze xie shi wai jie bu zhi xun jing nei zou ci jing yu huo luan zhi fen ye	1
+然痉症邪滞三焦，三焦乃火化，风得火而愈煽，则逼入膻中而暴厥；霍乱邪走脾胃，脾胃乃湿化，邪因湿而停留，则淫及诸经而拘挛	ran jing zheng xie zhi san jiao san jiao nai huo hua feng de huo er yu shan ze bi ru dan zhong er bao jue huo luan xie zou pi wei pi wei nai shi hua xie yin shi er ting liu ze yin ji zhu jing er ju luan	1
+火郁则厥，火窜则挛，又痉与霍乱之遗祸也	huo yu ze jue huo cuan ze luan you jing yu huo luan zhi yi huo ye	1
+痉之挛结，乃湿热生风；霍乱之转筋，乃风来胜湿	jing zhi luan jie nai shi re sheng feng huo luan zhi zhuan jin nai feng lai sheng shi	1
+痉则由经及脏而厥，霍乱则由脏及筋而挛，总由湿热与风，淆乱清浊，升降失常之故	jing ze you jing ji zang er jue huo luan ze you zang ji jin er luan zong you shi re yu feng xiao luan qing zhuo sheng jiang shi chang zhi gu	1
+夫湿多热少，则风入土中而霍乱；热多湿少，则风乘三焦而痉厥	fu shi duo re shao ze feng ru tu zhong er huo luan re duo shi shao ze feng cheng san jiao er jing jue	1
+厥而不返者死，胃液干枯，火邪盘踞也；转筋入腹者死，胃液内涸，风邪独劲也	jue er bu fan zhe si wei ye gan ku huo xie pan ju ye zhuan jin ru fu zhe si wei ye nei he feng xie du jin ye	1
+然则胃中之津液，所关顾不钜哉	ran ze wei zhong zhi jin ye suo guan gu bu ju zai	1
+厥证用辛开，泄胸中无形之邪也；干霍乱用探吐，泄胃中有形之邪也	jue zheng yong xin kai xie xiong zhong wu xing zhi xie ye gan huo luan yong tan tu xie wei zhong you xing zhi xie ye	1
+然泄邪而胃液不上升者，热邪益炽；探吐而胃液不四布者，风邪益张	ran xie xie er wei ye bu shang sheng zhe re xie yi chi tan tu er wei ye bu si bu zhe feng xie yi zhang	1
+终成死候，不可不知	zhong cheng si hou bu ke bu zhi	1
+湿热证，壮热口渴，舌黄或焦红，发痉，神昏，谵语或笑，邪灼心包，营血已耗	shi re zheng zhuang re kou ke she huang huo jiao hong fa jing shen hun zhan yu huo xiao xie zhuo xin bao ying xue yi hao	1
+宜连翘、犀羚角、生地、元参、银花露、钩藤、鲜菖蒲、至宝丹等味	yi lian qiao xi ling jiao sheng di yuan can yin hua lu gou teng xian chang pu zhi bao dan deng wei	1
+五	wu	1
+上条言痉，此条言厥	shang tiao yan jing ci tiao yan jue	1
+湿邪、暑邪本伤阳气，及至热极，逼入营阴，则津液耗而阴亦病	shi xie shu xie ben shang yang qi ji zhi re ji bi ru ying yin ze jin ye hao er yin yi bing	1
+心包受灼，神识昏乱，用药以清热救阴，泄邪平肝为务	xin bao shou zhuo shen shi hun luan yong yao yi qing re jiu yin xie xie ping gan wei wu	1
+湿热证，发痉，神昏笑妄，脉洪数有力，开泄不效者，湿热蕴结胸膈，宜仿凉膈散	shi re zheng fa jing shen hun xiao wang mai hong shu you li kai xie bu xiao zhe shi re yun jie xiong ge yi fang liang ge san	1
+若大便数日不通者，热邪闭结肠胃，宜仿承气微溏之例	ruo da bian shu ri bu tong zhe re xie bi jie chang wei yi fang cheng qi wei tang zhi li	1
+六	liu	1
+此系阳明实热，或上结，或下结	ci xi yang ming shi re huo shang jie huo xia jie	1
+清热泄邪，止能散络中流走之热，而不能除膈中蕴结之邪	qing re xie xie zhi neng san luo zhong liu zou zhi re er bu neng chu ge zhong yun jie zhi xie	1
+故阳明之邪，仍假阳明为出路也	gu yang ming zhi xie reng jia yang ming wei chu lu ye	1
+湿热证，壮热烦渴，舌焦红或缩，癍疹，胸痞，自利，神昏，厥，痉，热邪充斥表里三焦	shi re zheng zhuang re fan ke she jiao hong huo suo ban zhen xiong pi zi li shen hun jue jing re xie chong chi biao li san jiao	1
+宜大剂犀羚角、生地、元参、银花露、紫草、方诸水、金汁、鲜菖蒲等味	yi da ji xi ling jiao sheng di yuan can yin hua lu zi cao fang zhu shui jin zhi xian chang pu deng wei	1
+七	qi	1
+此条乃痉厥症之最重者	ci tiao nai jing jue zheng zhi zui zhong zhe	1
+上为胸闷，下挟热利，癍疹痉厥，阴阳告困	shang wei xiong men xia xie re li ban zhen jing jue yin yang gao kun	1
+独清阳明之热，救阳明之液为急务者，恐胃液不存，其人必自焚而死也	du qing yang ming zhi re jiu yang ming zhi ye wei ji wu zhe kong wei ye bu cun qi ren bi zi fen er si ye	1
+湿热症，寒热如疟，湿热阻遏膜原	shi re zheng han re ru nve shi re zu e mo yuan	1
+宜柴胡、厚朴、槟榔、草果、藿香、六一散、苍术、半夏、干菖蒲等味	yi chai hu hou po bing lang cao guo huo xiang liu yi san cang zhu ban xia gan chang pu deng wei	1
+八	ba	1
+疟由暑热内伏，秋凉外束而成	nve you shu re nei fu qiu liang wai shu er cheng	1
+若夏月腠理大开，毛窍疏通，安得成疟？而寒热有定期	ruo xia yue cou li da kai mao qiao shu tong an de cheng nve er han re you ding qi	1
+如疟之发作者，以膜原为阳明之半表里，热湿阻遏，则营卫分争，症虽如疟，不得与疟同治，故仿吴又可达原饮之例	ru nve zhi fa zuo zhe yi mo yuan wei yang ming zhi ban biao li re shi zu e ze ying wei fen zheng zheng sui ru nve bu de yu nve tong zhi gu fang wu you ke da yuan yin zhi li	1
+盖一由外凉束，一由内湿阻也	gai yi you wai liang shu yi you nei shi zu ye	1
+湿热症，数日后，脘中微闷，知饥不食，湿邪蒙扰上焦	shi re zheng shu ri hou wan zhong wei men zhi ji bu shi shi xie meng rao shang jiao	1
+宜藿香叶、薄荷叶、鲜稻叶、鲜荷叶、枇杷叶、佩兰叶、芦尖、冬瓜仁等味	yi huo xiang ye bo he ye xian dao ye xian he ye pi pa ye pei lan ye lu jian dong gua ren deng wei	1
+九	jiu	1
+此湿热已解，余邪蒙蔽清阳，胃气不舒，宜用极轻清之品，以宣上焦阳气	ci shi re yi jie yu xie meng bi qing yang wei qi bu shu yi yong ji qing qing zhi pin yi xuan shang jiao yang qi	1
+若投味重之剂，是与病情不相值矣	ruo tou wei zhong zhi ji shi yu bing qing bu xiang zhi yi	1
+湿热初起，亦有脘闷懊憹，汗出口渴，眼欲闭，时谵语，浊邪蒙闭清阳，属在上焦者	shi re chu qi yi you wan men ao nao han chu kou ke yan yu bi shi zhan yu zhuo xie meng bi qing yang shu zai shang jiao zhe	1
+宜用枳壳、桔梗、淡豉、生山栀涌泄法	yi yong zhi ke jie geng dan shi sheng shan zhi yong xie fa	1
+若投轻清之剂，又与病情不相当矣	ruo tou qing qing zhi ji you yu bing qing bu xiang dang yi	1
+此条须与第三十一条参看	ci tiao xu yu di san shi yi tiao can kan	1
+同一邪在上焦，而此九条属虚，三十一条属实	tong yi xie zai shang jiao er ci jiu tiao shu xu san shi yi tiao shu shi	1
+临证者当慎之，不可忽也	lin zheng zhe dang shen zhi bu ke hu ye	1
+湿热症，初起发热，汗出，胸痞，口渴，舌白，湿伏中焦	shi re zheng chu qi fa re han chu xiong pi kou ke she bai shi fu zhong jiao	1
+宜藿香、蔻仁、杏仁、枳壳、桔梗、郁金、苍术、厚朴、草果、半夏、干菖蒲、六一散、佩兰等味	yi huo xiang kou ren xing ren zhi ke jie geng yu jin cang zhu hou po cao guo ban xia gan chang pu liu yi san pei lan deng wei	1
+十	shi	1
+浊邪上干则胸闷，胃液不升则口渴，病在中焦气分，故多开中焦气分之药	zhuo xie shang gan ze xiong men wei ye bu sheng ze kou ke bing zai zhong jiao qi fen gu duo kai zhong jiao qi fen zhi yao	1
+此条多有挟食者，宜加瓜蒌、楂肉、菔子	ci tiao duo you xie shi zhe yi jia gua lou zha rou fu zi	1
+舌根若现黄色，即是挟食症	she gen ruo xian huang se ji shi xie shi zheng	1
+湿热症，数日后，自利溺赤，口渴，湿流下焦	shi re zheng shu ri hou zi li ni chi kou ke shi liu xia jiao	1
+宜滑石、猪苓、茯苓、泽泻、萆薢、通草等味	yi hua shi zhu ling fu ling ze xie bi xie tong cao deng wei	1
+十一	shi yi	1
+下焦属阴，太阴所司，阴道虚故自利，化源滞则溺赤，脾不转津则口渴，总由太阴湿胜故也	xia jiao shu yin tai yin suo si yin dao xu gu zi li hua yuan zhi ze ni chi pi bu zhuan jin ze kou ke zong you tai yin shi sheng gu ye	1
+湿滞下焦，故独以分利为治	shi zhi xia jiao gu du yi fen li wei zhi	1
+此条药味独用分利，然症必兼见口渴胸痞，须佐入桔梗、杏仁、豆卷，开泄中上，源清则流自洁矣，不可不知	ci tiao yao wei du yong fen li ran zheng bi jian jian kou ke xiong pi xu zuo ru jie geng xing ren dou juan kai xie zhong shang yuan qing ze liu zi jie yi bu ke bu zhi	1
+以上三条皆湿重热轻之候	yi shang san tiao jie shi zhong re qing zhi hou	1
+湿热之邪，不自表而入，故无表里可分，而未尝无三焦可辨，犹之河间治消渴，以三焦分者是也	shi re zhi xie bu zi biao er ru gu wu biao li ke fen er wei chang wu san jiao ke bian you zhi he jian zhi xiao ke yi san jiao fen zhe shi ye	1
+夫热为天之气，湿为地之气， 热得湿而热愈炽，湿得热而湿愈横	fu re wei tian zhi qi shi wei di zhi qi   re de shi er re yu chi shi de re er shi yu heng	1
+湿热两分，其病轻而缓；湿热两合，其病重而速	shi re liang fen qi bing qing er huan shi re liang he qi bing zhong er su	1
+湿多热少，则蒙上流下，当三焦分治；湿热俱多，则下闭上壅，而三焦俱困矣	shi duo re shao ze meng shang liu xia dang san jiao fen zhi shi re ju duo ze xia bi shang yong er san jiao ju kun yi	1
+犹之伤寒中二阳合病、三阳合病是也	you zhi shang han zhong er yang he bing san yang he bing shi ye	1
+盖太阴湿化，三焦火化	gai tai yin shi hua san jiao huo hua	1
+有湿无热，止能蒙蔽清阳，或阻于上，或阻于中，或阻于下	you shi wu re zhi neng meng bi qing yang huo zu yu shang huo zu yu zhong huo zu yu xia	1
+湿热一合，则身中少火悉化为壮火，而三焦相火，有不皆起而为暴者哉？所以上下充斥，内外煎熬，最为酷烈	shi re yi he ze shen zhong shao huo xi hua wei zhuang huo er san jiao xiang huo you bu jie qi er wei bao zhe zai suo yi shang xia chong chi nei wai jian ao zui wei ku lie	1
+兼之木火同气，表里分司，再引肝风，痉厥立至	jian zhi mu huo tong qi biao li fen si zai yin gan feng jing jue li zhi	1
+胃中津液几何，而能供此交征乎？至其所以必属阳明者，以阳明为水谷之海，鼻食气，口食味，悉归阳明，邪从口鼻而入，则阳明为必由之道路也	wei zhong jin ye ji he er neng gong ci jiao zheng hu zhi qi suo yi bi shu yang ming zhe yi yang ming wei shui gu zhi hai bi shi qi kou shi wei xi gui yang ming xie cong kou bi er ru ze yang ming wei bi you zhi dao lu ye	1
+其始也，邪入阳明，早已先伤其胃液；其继也，邪盛三焦，更欲取资于胃液	qi shi ye xie ru yang ming zao yi xian shang qi wei ye qi ji ye xie sheng san jiao geng yu qu zi yu wei ye	1
+司命者，可不为阳明顾虑哉？或问木火同气，热盛生风，以致痉厥，理固然矣	si ming zhe ke bu wei yang ming gu lv zai huo wen mu huo tong qi re sheng sheng feng yi zhi jing jue li gu ran yi	1
+然有湿热之症，表里极热，不痉不厥者，何也？余曰：风木为火热引动者，原因木气素旺，肝阴先亏，内外相引，两阳相煽，因而劲张	ran you shi re zhi zheng biao li ji re bu jing bu jue zhe he ye yu yue feng mu wei huo re yin dong zhe yuan yin mu qi su wang gan yin xian kui nei wai xiang yin liang yang xiang shan yin er jin zhang	1
+若肝肾素优，并无里热者，火热安能招引肝风哉？试观小儿家，一经壮热，便成瘈疭者，以纯阳之体，阴气未足，故肝风易动也	ruo gan shen su you bing wu li re zhe huo re an neng zhao yin gan feng zai shi guan xiao er jia yi jing zhuang re bian cheng chi zong zhe yi chun yang zhi ti yin qi wei zu gu gan feng yi dong ye	1
+湿热症，舌遍体白，口渴，湿滞阳明	shi re zheng she bian ti bai kou ke shi zhi yang ming	1
+宜用辛开，如厚朴、草果、半夏、干菖蒲等味	yi yong xin kai ru hou po cao guo ban xia gan chang pu deng wei	1
+十二	shi er	1
+此湿邪极盛之候	ci shi xie ji sheng zhi hou	1
+口渴乃液不上升，非有热也	kou ke nai ye bu shang sheng fei you re ye	1
+辛泄太过，即可变而为热，而此时湿邪尚未蕴热，故重用辛以开之，使上焦得通，津液得下也	xin xie tai guo ji ke bian er wei re er ci shi shi xie shang wei yun re gu zhong yong xin yi kai zhi shi shang jiao de tong jin ye de xia ye	1
+湿热症，舌根白，舌尖红，湿渐化热，余湿犹滞	shi re zheng she gen bai she jian hong shi jian hua re yu shi you zhi	1
+宜用辛泄，佐以清热，宜蔻仁、半夏、干菖蒲、豆卷、六一散、连翘、绿豆壳等味	yi yong xin xie zuo yi qing re yi kou ren ban xia gan chang pu dou juan liu yi san lian qiao lv dou ke deng wei	1
+十三	shi san	1
+此湿热参半之症，而燥湿之中，即佐清热者，亦所以存阳明之液也	ci shi re can ban zhi zheng er zao shi zhi zhong ji zuo qing re zhe yi suo yi cun yang ming zhi ye ye	1
+上二条凭验舌以投剂，极为临症时要诀	shang er tiao ping yan she yi tou ji ji wei lin zheng shi yao jue	1
+盖舌为心之外候，浊邪上熏心肺，舌苔因而转移	gai she wei xin zhi wai hou zhuo xie shang xun xin fei she tai yin er zhuan yi	1
+湿热症，初起即胸闷，不知人，瞀乱，大叫痛，湿热阻阏中上二焦	shi re zheng chu qi ji xiong men bu zhi ren mao luan da jiao tong shi re zu e zhong shang er jiao	1
+宜草果、槟榔、鲜菖蒲、六一散、芫荽，各重用	yi cao guo bing lang xian chang pu liu yi san yan sui ge zhong yong	1
+或加皂角末，地浆水煎	huo jia zao jiao mo di jiang shui jian	1
+十四	shi si	1
+此条乃湿热俱盛之候，而去湿药多，清热药少者，以病邪初起，正未大伤，故以辛通，散邪为急，不欲以寒凉凝滞病机也	ci tiao nai shi re ju sheng zhi hou er qu shi yao duo qing re yao shao zhe yi bing xie chu qi zheng wei da shang gu yi xin tong san xie wei ji bu yu yi han liang ning zhi bing ji ye	1
+湿热症，四五日，口大渴，胸闷欲绝，干呕不止，脉细数，舌光如镜，胃液受劫，胆火上冲	shi re zheng si wu ri kou da ke xiong men yu jue gan ou bu zhi mai xi shu she guang ru jing wei ye shou jie dan huo shang chong	1
+宜西瓜白汁、鲜生地汁、甘蔗汁，磨服郁金、木香、香附、乌药等味	yi xi gua bai zhi xian sheng di zhi gan zhe zhi mo fu yu jin mu xiang xiang fu wu yao deng wei	1
+十五	shi wu	1
+此营阴素亏，木火素旺者，今木乘阳明而耗其津液，然幸无饮邪，故一清阳明之热，一散少阳之邪	ci ying yin su kui mu huo su wang zhe jin mu cheng yang ming er hao qi jin ye ran xing wu yin xie gu yi qing yang ming zhi re yi san shao yang zhi xie	1
+不用煎者，取其气之全耳	bu yong jian zhe qu qi qi zhi quan er	1
+湿热症，呕吐清水，或痰多黏腻，湿热内留，木火上逆	shi re zheng ou tu qing shui huo tan duo nian ni shi re nei liu mu huo shang ni	1
+宜温胆汤加瓜蒌、碧玉散等味	yi wen dan tang jia gua lou bi yu san deng wei	1
+十六	shi liu	1
+此素有痰饮，而阳明、少阳同病，故一以涤饮，一以降逆	ci su you tan yin er yang ming shao yang tong bing gu yi yi di yin yi yi jiang ni	1
+与上条呕同而治异，正当合参	yu shang tiao ou tong er zhi yi zheng dang he can	1
+湿热症，呕恶不止，昼夜不瘥，欲死者，肺胃不和，胃热移肺，肺不受邪也	shi re zheng ou e bu zhi zhou ye bu chai yu si zhe fei wei bu he wei re yi fei fei bu shou xie ye	1
+宜用川连三四分、苏叶三五分，两味煎汤，呷下即止	yi yong chuan lian san si fen su ye san wu fen liang wei jian tang ga xia ji zhi	1
+十七	shi qi	1
+肺胃不和，最能致呕	fei wei bu he zui neng zhi ou	1
+盖胃热移肺，肺不受邪，还归于胃，呕 恶不止	gai wei re yi fei fei bu shou xie hai gui yu wei ou   e bu zhi	1
+若以治肝胆之呕治之，误矣	ruo yi zhi gan dan zhi ou zhi zhi wu yi	1
+故必用川连以降湿热，苏叶以通肺胃	gu bi yong chuan lian yi jiang shi re su ye yi tong fei wei	1
+投之立愈，以肺胃之气，非苏叶不能通也	tou zhi li yu yi fei wei zhi qi fei su ye bu neng tong ye	1
+分数轻者，以轻剂能治上焦之疾故耳	fen shu qing zhe yi qing ji neng zhi shang jiao zhi ji gu er	1
+湿热症，咳嗽，昼夜不宁，甚至喘而不得眠者，暑邪入于肺络	shi re zheng ke sou zhou ye bu ning shen zhi chuan er bu de mian zhe shu xie ru yu fei luo	1
+宜葶苈、六一散、枇杷叶等味	yi ting li liu yi san pi pa ye deng wei	1
+十八	shi ba	1
+人知暑伤肺气则气虚，不知暑滞肺络则肺实	ren zhi shu shang fei qi ze qi xu bu zhi shu zhi fei luo ze fei shi	1
+葶苈引滑石，直泻肺邪，则病自除	ting li yin hua shi zhi xie fei xie ze bing zi chu	1
+湿热症，十余日后，大势已退，惟口渴汗出，骨节疼，隐痛不已，余邪留滞经络	shi re zheng shi yu ri hou da shi yi tui wei kou ke han chu gu jie teng yin tong bu yi yu xie liu zhi jing luo	1
+宜元米汤泡於术，隔一宿去术，煎饮之	yi yuan mi tang pao yu shu ge yi xiu qu shu jian yin zhi	1
+十九	shi jiu	1
+病后湿邪未尽，阴液已伤，故口渴身疼	bing hou shi xie wei jin yin ye yi shang gu kou ke shen teng	1
+此时救液则助湿，治湿则劫阴，宗仲景麻沸汤之法，取气不取味，走阳不走阴，佐以元米汤养阴逐湿，两擅其长	ci shi jiu ye ze zhu shi zhi shi ze jie yin zong zhong jing ma fei tang zhi fa qu qi bu qu wei zou yang bu zou yin zuo yi yuan mi tang yang yin zhu shi liang shan qi zhang	1
+湿热症，数日后，汗出热不除，或痉，忽头痛不止者，营液大耗，厥阴风火上升	shi re zheng shu ri hou han chu re bu chu huo jing hu tou tong bu zhi zhe ying ye da hao jue yin feng huo shang sheng	1
+宜羚羊、蔓荆、钩藤、元参、生地、女贞等味	yi ling yang man jing gou teng yuan can sheng di nv zhen deng wei	1
+二十湿热伤营，肝风上逆，血不营筋而痉作，上升巅顶则头痛	er shi shi re shang ying gan feng shang ni xue bu ying jin er jing zuo shang sheng dian ding ze tou tong	1
+热气已退，木气独张，故痉而不厥	re qi yi tui mu qi du zhang gu jing er bu jue	1
+投剂以息风为标，养营为本	tou ji yi xi feng wei biao yang ying wei ben	1
+湿热症，胸痞，发热，肌肉微疼，始终无汗者，腠理暑邪内闭	shi re zheng xiong pi fa re ji rou wei teng shi zhong wu han zhe cou li shu xie nei bi	1
+宜六一散一两、薄荷叶三五分，泡汤调下，即汗解	yi liu yi san yi liang bo he ye san wu fen pao tang diao xia ji han jie	1
+二十一湿热发汗，昔贤有禁，此不微汗之，病必不愈	er shi yi shi re fa han xi xian you jin ci bu wei han zhi bing bi bu yu	1
+盖既有不可汗之大戒，复有得汗始解之活法，临症者宜知所变矣	gai ji you bu ke han zhi da jie fu you de han shi jie zhi huo fa lin zheng zhe yi zhi suo bian yi	1
+湿热症，按法治，数日后，忽吐下一时并至者，中气亏损，升降悖逆	shi re zheng an fa zhi shu ri hou hu tu xia yi shi bing zhi zhe zhong qi kui sun sheng jiang bei ni	1
+宜生谷芽、莲心、扁豆、米仁、半夏、甘草、茯苓等味	yi sheng gu ya lian xin bian dou mi ren ban xia gan cao fu ling deng wei	1
+甚者用理中汤法	shen zhe yong li zhong tang fa	1
+廿二升降悖逆，法当和中，犹如霍乱之用六和汤也	nian er sheng jiang bei ni fa dang he zhong you ru huo luan zhi yong liu he tang ye	1
+若太阴惫甚，中气不支，非理中不可	ruo tai yin bei shen zhong qi bu zhi fei li zhong bu ke	1
+湿热症，十余日后，左关弦数，腹时痛，时圊血，肛门热痛，血液内燥，热邪传入厥阴之阴	shi re zheng shi yu ri hou zuo guan xian shu fu shi tong shi qing xue gang men re tong xue ye nei zao re xie chuan ru jue yin zhi yin	1
+宜仿白头翁法	yi fang bai tou weng fa	1
+廿三	nian san	1
+热入厥阴而下利，即不圊血，亦宜宗仲景治热利法	re ru jue yin er xia li ji bu qing xue yi yi zong zhong jing zhi re li fa	1
+若更逼入营阴，安得不用白头翁汤凉血而散邪乎？设热入阳明下利，即不圊血，又宜师仲景下利谵语用小承气之法矣	ruo geng bi ru ying yin an de bu yong bai tou weng tang liang xue er san xie hu she re ru yang ming xia li ji bu qing xue you yi shi zhong jing xia li zhan yu yong xiao cheng qi zhi fa yi	1
+湿热症，十余日后，尺脉数，下利，或咽痛，口渴，心烦，水泉不足，热邪直犯少阴之阴	shi re zheng shi yu ri hou chi mai shu xia li huo yan tong kou ke xin fan shui quan bu zu re xie zhi fan shao yin zhi yin	1
+宜仿猪肤汤凉润法	yi fang zhu fu tang liang run fa	1
+廿四	nian si	1
+同一下利，病有厥少之分，则药有寒凉之异	tong yi xia li bing you jue shao zhi fen ze yao you han liang zhi yi	1
+然少阴有便脓血之候，不可不细审也	ran shao yin you bian nong xue zhi hou bu ke bu xi shen ye	1
+湿热症，身冷脉细，汗泄胸痞，口渴，舌白，湿中少阴之阳	shi re zheng shen leng mai xi han xie xiong pi kou ke she bai shi zhong shao yin zhi yang	1
+宜人参、白术、附子、茯苓、益智等味	yi ren shen bai zhu fu zi fu ling yi zhi deng wei	1
+肥胖气虚之 人夏月多有之病	fei pang qi xu zhi   ren xia yue duo you zhi bing	1
+廿五湿邪伤阳，理合扶阳逐湿	nian wu shi xie shang yang li he fu yang zhu shi	1
+口渴为少阴症，乌得妄用寒凉耶？	kou ke wei shao yin zheng wu de wang yong han liang ye	1
+暑月病初起，但恶寒，面黄，口不渴，神倦，四肢懒，脉沉弱，腹痛下利，湿困太阴之阳	shu yue bing chu qi dan e han mian huang kou bu ke shen juan si zhi lan mai chen ruo fu tong xia li shi kun tai yin zhi yang	1
+宜仿缩脾饮、冷香饮子，甚则大顺散、来复丹等法	yi fang suo pi yin leng xiang yin zi shen ze da shun san lai fu dan deng fa	1
+廿六	nian liu	1
+暑月为阳气外泄，阴液内耗之时，故热邪伤阴	shu yue wei yang qi wai xie yin ye nei hao zhi shi gu re xie shang yin	1
+阳明灼烁，宜清宜滋；太阴告困，宜温宜散	yang ming zhuo shuo yi qing yi zi tai yin gao kun yi wen yi san	1
+古法最详，医者鉴诸	gu fa zui xiang yi zhe jian zhu	1
+湿热症，按法治之，诸症皆退，惟目瞑则惊悸梦惕，余邪内留，胆气不舒	shi re zheng an fa zhi zhi zhu zheng jie tui wei mu ming ze jing ji meng ti yu xie nei liu dan qi bu shu	1
+宜酒浸郁李仁、姜汁炒枣仁、猪胆皮等味	yi jiu jin yu li ren jiang zhi chao zao ren zhu dan pi deng wei	1
+廿七滑可去着，郁李仁性最滑脱，古人治惊后肝系滞而不下	nian qi hua ke qu zhe yu li ren xing zui hua tuo gu ren zhi jing hou gan xi zhi er bu xia	1
+始终目不瞑者，用之以下肝系而去滞	shi zhong mu bu ming zhe yong zhi yi xia gan xi er qu zhi	1
+此湿热之邪，留于胆中	ci shi re zhi xie liu yu dan zhong	1
+胆为清净之府，藏而不泻，是以病去，而内留之邪不去	dan wei qing jing zhi fu cang er bu xie shi yi bing qu er nei liu zhi xie bu qu	1
+寐则阳气行阴，胆热内扰，肝魂不宁，故用郁李仁以泄邪	mei ze yang qi xing yin dan re nei rao gan hun bu ning gu yong yu li ren yi xie xie	1
+必用酒浸者，酒入于胃，先走于胆也	bi yong jiu jin zhe jiu ru yu wei xian zou yu dan ye	1
+枣仁之酸，入肝安神，而制以姜汁，安神而能散邪也	zao ren zhi suan ru gan an shen er zhi yi jiang zhi an shen er neng san xie ye	1
+用药至此，乃谓善于驱遣者	yong yao zhi ci nai wei shan yu qu qian zhe	1
+湿热症，曾开泄下夺者，恶候皆平，独神思不清，倦语，不思食，溺数，唇齿干，胃气不输，肺气不布，元神大亏	shi re zheng ceng kai xie xia duo zhe e hou jie ping du shen si bu qing juan yu bu si shi ni shu chun chi gan wei qi bu shu fei qi bu bu yuan shen da kui	1
+宜人参、麦冬、生谷芽、川斛、木瓜、甘草、鲜莲子等味	yi ren shen mai dong sheng gu ya chuan hu mu gua gan cao xian lian zi deng wei	1
+廿八开泄下夺，恶候皆平，正亦大伤，故见症多气虚之象，理合清补元气	nian ba kai xie xia duo e hou jie ping zheng yi da shang gu jian zheng duo qi xu zhi xiang li he qing bu yuan qi	1
+若用泥滞阴药，去生便远	ruo yong ni zhi yin yao qu sheng bian yuan	1
+湿热症，四五日，忽大汗出，手足冷，脉细如丝或绝，口渴，茎痛，而起坐自如，神清语亮，乃汗出过多，卫外之阳暂亡，湿热之邪仍结，一时表里不通，脉故伏，非真阳外脱也	shi re zheng si wu ri hu da han chu shou zu leng mai xi ru si huo jue kou ke jing tong er qi zuo zi ru shen qing yu liang nai han chu guo duo wei wai zhi yang zan wang shi re zhi xie reng jie yi shi biao li bu tong mai gu fu fei zhen yang wai tuo ye	1
+宜五苓去术，加滑石、酒淬川连、生黄芪皮等味	yi wu ling qu shu jia hua shi jiu cui chuan lian sheng huang qi pi deng wei	1
+廿九	nian jiu	1
+此条脉证，全似亡阳之候，独于举动神气中得其真情	ci tiao mai zheng quan shi wang yang zhi hou du yu ju dong shen qi zhong de qi zhen qing	1
+噫！ 此医之所以贵识见也	yi   ci yi zhi suo yi gui shi jian ye	1
+湿热症，发痉，神昏，独足冷，阴缩，下体外受客寒	shi re zheng fa jing shen hun du zu leng yin suo xia ti wai shou ke han	1
+仍宜从湿热治，只用辛温之品，煎汤熏洗	reng yi cong shi re zhi zhi yong xin wen zhi pin jian tang xun xi	1
+三十	san shi	1
+阴缩为厥阴之外候，合之足冷，全似虚寒矣	yin suo wei jue yin zhi wai hou he zhi zu leng quan shi xu han yi	1
+乃谛观本症无一虚，始知寒客下体，一时营气不达，不但症非虚寒，并非上热下寒之可拟也	nai di guan ben zheng wu yi xu shi zhi han ke xia ti yi shi ying qi bu da bu dan zheng fei xu han bing fei shang re xia han zhi ke ni ye	1
+仍从湿热治之，又何疑耶？	reng cong shi re zhi zhi you he yi ye	1
+湿热症，初起，壮热，口渴，脘闷，懊 ，眼欲迷闭，时谵语，浊邪蒙闭上焦	shi re zheng chu qi zhuang re kou ke wan men ao   yan yu mi bi shi zhan yu zhuo xie meng bi shang jiao	1
+宜涌泄，用枳壳、桔梗、淡豆豉、生山栀	yi yong xie yong zhi ke jie geng dan dou chi sheng shan zhi	1
+无汗者加干葛	wu han zhe jia gan ge	1
+三十一	san shi yi	1
+若病退后，脘中微闷，知饥不食，是余邪蒙绕上焦，法宜轻散	ruo bing tui hou wan zhong wei men zhi ji bu shi shi yu xie meng rao shang jiao fa yi qing san	1
+此则浊邪蒙闭上焦，故懊 脘闷	ci ze zhuo xie meng bi shang jiao gu ao   wan men	1
+眼欲闭者，肺气不舒也；时谵语者，邪逼心包也	yan yu bi zhe fei qi bu shu ye shi zhan yu zhe xie bi xin bao ye	1
+若投轻剂，病必不除	ruo tou qing ji bing bi bu chu	1
+《经》云：高者越之	jing yun gao zhe yue zhi	1
+用栀豉汤涌泄之剂，引胃脘之阳，而开心胸之表，邪从吐散，一了百当，何快如之	yong zhi shi tang yong xie zhi ji yin wei wan zhi yang er kai xin xiong zhi biao xie cong tu san yi liao bai dang he kuai ru zhi	1
+湿热症，经水适来，壮热口渴，谵语神昏，胸腹痛，或舌无苔，脉滑数，邪陷荣分	shi re zheng jing shui shi lai zhuang re kou ke zhan yu shen hun xiong fu tong huo she wu tai mai hua shu xie xian rong fen	1
+宜大剂犀角、紫草、茜根、贯仲、连翘、银花露、鲜菖蒲等味	yi da ji xi jiao zi cao qian gen guan zhong lian qiao yin hua lu xian chang pu deng wei	1
+三十二	san shi er	1
+热入血室，不独妇女，男子亦有之	re ru xue shi bu du fu nv nan zi yi you zhi	1
+不但凉血，并须解毒矣	bu dan liang xue bing xu jie du yi	1
+然必重剂	ran bi zhong ji	1
+乃可奏功	nai ke zou gong	1
+湿热症，上下失血，或汗血，毒邪中入营分，走窜欲泄	shi re zheng shang xia shi xue huo han xue du xie zhong ru ying fen zou cuan yu xie	1
+宜大剂犀角、生地、丹皮、赤芍、连翘、紫草、茜根、银花等味	yi da ji xi jiao sheng di dan pi chi shao lian qiao zi cao qian gen yin hua deng wei	1
+三十三热逼而上下失血、汗血，势极危而犹不即坏者，以毒从血出， 生机在是	san shi san re bi er shang xia shi xue han xue shi ji wei er you bu ji huai zhe yi du cong xue chu   sheng ji zai shi	1
+大进凉血解毒剂以救阴而泄邪，邪解而血自止矣	da jin liang xue jie du ji yi jiu yin er xie xie xie jie er xue zi zhi yi	1
+血止后，须进参、芪善后乃得	xue zhi hou xu jin can qi shan hou nai de	1
+湿热症，七八日，口不渴，声不出，与饮食亦不却，默默不语，神识昏迷，进辛香凉泄、芳香逐秽俱不效者，邪入厥阴，主客浑交	shi re zheng qi ba ri kou bu ke sheng bu chu yu yin shi yi bu que mo mo bu yu shen shi hun mi jin xin xiang liang xie fang xiang zhu hui ju bu xiao zhe xie ru jue yin zhu ke hun jiao	1
+宜仿吴又可三甲散，醉地鳖虫、醋炒鳖甲、土炒山甲、生天虫、柴胡、桃仁泥等味	yi fang wu you ke san jia san zui di bie chong cu chao bie jia tu chao shan jia sheng tian chong chai hu tao ren ni deng wei	1
+三十四	san shi si	1
+暑湿虽伤阳气，然病久不解，必及于阴	shu shi sui shang yang qi ran bing jiu bu jie bi ji yu yin	1
+阴阳两困，气钝血凝，而暑湿不得外泄，遂深入厥阴	yin yang liang kun qi dun xue ning er shu shi bu de wai xie sui shen ru jue yin	1
+络脉凝瘀，使一阳不能萌动，生气有降无升，心主阻遏，灵气不通，所以神不清而昏迷默默也	luo mai ning yu shi yi yang bu neng meng dong sheng qi you jiang wu sheng xin zhu zu e ling qi bu tong suo yi shen bu qing er hun mi mo mo ye	1
+用直入厥阴之药，破滞通瘀，斯络脉通而邪亦解矣	yong zhi ru jue yin zhi yao po zhi tong yu si luo mai tong er xie yi jie yi	1
+湿热症，口渴，苔黄起刺，脉弦缓，囊缩舌硬，谵语，昏闷不知人，两手搐搦，津枯邪滞	shi re zheng kou ke tai huang qi ci mai xian huan nang suo she ying zhan yu hun men bu zhi ren liang shou chu nuo jin ku xie zhi	1
+宜鲜生地、芦根、生首乌、鲜稻根等味	yi xian sheng di lu gen sheng shou wu xian dao gen deng wei	1
+若脉有力，大便不通，大黄亦可加入	ruo mai you li da bian bu tong da huang yi ke jia ru	1
+三十五胃津劫夺，热邪内据，非润下以泄邪，徒用清滋无当病情，故仿承气之例，以甘凉易苦寒，正恐胃气受伤，胃津不复也	san shi wu wei jin jie duo re xie nei ju fei run xia yi xie xie tu yong qing zi wu dang bing qing gu fang cheng qi zhi li yi gan liang yi ku han zheng kong wei qi shou shang wei jin bu fu ye	1
+行按：王《青岩丛录》云：隋·巢元方言风寒二湿而不著湿热之说，此其失也	xing an wang qing yan cong lu yun sui · chao yuan fang yan feng han er shi er bu zhu shi re zhi shuo ci qi shi ye	1
+今徵君之《湿热论》发前人所未发，独开生面，以启后学，厥功伟矣	jin zheng jun zhi shi re lun fa qian ren suo wei fa du kai sheng mian yi qi hou xue jue gong wei yi	1
+或问：苍术白虎汤为湿热证必用之方，何三十五条中从未一用耶？余谓：苍术白虎汤之名，因仲景有人参白虎、桂枝白虎二汤，故后人遂以苍术石膏汤为苍术白虎汤也	huo wen cang zhu bai hu tang wei shi re zheng bi yong zhi fang he san shi wu tiao zhong cong wei yi yong ye yu wei cang zhu bai hu tang zhi ming yin zhong jing you ren can bai hu gui zhi bai hu er tang gu hou ren sui yi cang zhu shi gao tang wei cang zhu bai hu tang ye	1
+王晋三太老夫子《古方选注》中，载有苍术石膏汤，云：虽与白虎汤相似，其义各有微妙	wang jin san tai lao fu zi gu fang xuan zhu zhong zai you cang zhu shi gao tang yun sui yu bai hu tang xiang si qi yi ge you wei miao	1
+盖方中知母、甘草二味乃滋养助湿之品，是以论中频用苍术	gai fang zhong zhi mu gan cao er wei nai zi yang zhu shi zhi pin shi yi lun zhong pin yong cang zhu	1
+而不用石膏用滑石者，以石膏质重甘寒留胃，滑石则淡渗利泄，所谓治湿不利小便，非其治也	er bu yong shi gao yong hua shi zhe yi shi gao zhi zhong gan han liu wei hua shi ze dan shen li xie suo wei zhi shi bu li xiao bian fei qi zhi ye	1
+其苍术白虎汤之名，为后人妄立也，明矣	qi cang zhu bai hu tang zhi ming wei hou ren wang li ye ming yi	1
